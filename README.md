@@ -1,3 +1,3 @@
 # Informe
 
-test
+test .
