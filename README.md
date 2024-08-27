@@ -105,11 +105,36 @@
 - [Anexos](#anexos)
 
 
+
+
+### Registro de Versiones del Informe
+
+
+
 ### Student Outcome
+
+
+
 ### Capítulo I: Introducción
+
+
 ### 1.1. Startup Profile
+
 ### 1.1.1. Descripción de la Startup
+
+#### RestauMaster: Simplificando la Operación de Restaurantes
+
+RestauMaster es una startup que busca transformar la manera en que los restaurantes gestionan sus operaciones diarias. Nos especializamos en ofrecer una plataforma integral que conecta todas las áreas clave de un restaurante, desde la gestión de mesas y reservas hasta la administración de cocina, ventas, y stock. Nuestro objetivo es automatizar y optimizar procesos operativos para mejorar la eficiencia y la experiencia del cliente. En RestauMaster, estamos comprometidos con la innovación en la industria gastronómica, proporcionando herramientas que facilitan la operación diaria, reducen costos y elevan los estándares de servicio en los restaurantes del siglo XXI.
+
 ### 1.1.2. Perfiles de integrantes del equipo
+
+| **Oscar Nathaniel Garayar Mori - U202014115**                       | **Foto**                             |
+|---------------------------------------------------------------------|--------------------------------------|
+| Mi nombre es Oscar Garayar, estudiante de Ing. de software. Voy cursando el 6to ciclo de mi carrera, y me considero alguien responsable que, a pesar de las complicaciones, encontrará una forma de seguir adelante. Tengo experiencia con los lenguajes C++, Python y Java. | ![Foto de Oscar](/Informe/resources/integrantes/Oscar.jpg "Foto de Oscar") |
+
+
+prueba 2
+
 ### 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process.
