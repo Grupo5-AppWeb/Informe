@@ -129,7 +129,7 @@ RestauMaster es una startup que busca transformar la manera en que los restauran
 | **Oscar Nathaniel Garayar Mori - U202014115**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
 | Mi nombre es Oscar Garayar, estudiante de Ing. de software. Voy cursando el 6to ciclo de mi carrera, y me considero alguien responsable que, a pesar de las complicaciones, encontrará una forma de seguir adelante. Tengo experiencia con los lenguajes C++, Python y Java. | ![Foto de Oscar](/Informe/resources/integrantes/Oscar.jpg "Foto de Oscar") |
-
+ prueba
 
 ### 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
