@@ -1,6 +1,6 @@
 ## Universidad Peruana de Ciencias Aplicadas - Informe de Trabajo Final
 
-![Logo UPC](/Informe/resources/upc-logo.png "Logo UPC")
+![Logo UPC](https://github.com/Grupo5-AppWeb/Informe/blob/Garayar-u202014115/resources/upc-logo.png "Logo UPC")
 
 ## Aplicaciones Web - SW52
 
