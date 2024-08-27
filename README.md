@@ -1,4 +1,7 @@
 ## Universidad Peruana de Ciencias Aplicadas - Informe de Trabajo Final
+
+![Logo UPC](/Informe/resources/upc-logo.png "Logo UPC")
+
 ## Aplicaciones Web - SW52
 
 ### Integrantes:
@@ -8,6 +11,7 @@
 - Marzál Pérez, Jamir Ángel - U201824409
 - Arce Huaman Luis Andres - U20201A300
 - Garayar Mori, Oscar Nathaniel - U202014115
+
 
 
 ### Tabla de Contenidos
