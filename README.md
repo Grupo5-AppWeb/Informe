@@ -132,11 +132,70 @@ RestauMaster es una startup que busca transformar la manera en que los restauran
 |---------------------------------------------------------------------|--------------------------------------|
 | Mi nombre es Oscar Garayar, estudiante de Ing. de software. Voy cursando el 6to ciclo de mi carrera, y me considero alguien responsable que, a pesar de las complicaciones, encontrará una forma de seguir adelante. Tengo experiencia con los lenguajes C++, Python y Java. | ![Foto de Oscar](/Informe/resources/integrantes/Oscar.jpg "Foto de Oscar") |
 
+| **Luis Andres Arce Huaman - U20201A300**                       | **Foto**                             |
+|---------------------------------------------------------------------|--------------------------------------|
+|Mi nombre es Luis Arce, soy estudiante de la carrera de Ing de Software cursando mi 6to ciclo de mi carrera , me gusta el arte la danza y la tecnologia. He estudiado diversos lenguajes de programación en el transcurso de mi carrera y por mi mismo. Soy una persona confiable y muy tolerante. | ![Foto de Luis](/Informe/resources/integrantes/Luis.jpg "Foto de Luis") |
 
-prueba 2
+| **Jamir Ángel Marzál Pérez - U201824409**                       | **Foto**                             |
+|---------------------------------------------------------------------|--------------------------------------|
+|Me llamo Jamir, soy estudiante de la carrera de Ingeniería de Software. Mis principales cualidades son el trabajo en equipo, la escucha activa, ética, creatividad, eficacia y responsabilidad. Tengo conocimientos en lenguajes de  programación C++, C# y Python | ![Foto de Jamir](/Informe/resources/integrantes/Jamir.jpg "Foto de Jamir") |
+
+| **Fabrisio Andre Belahonia Miranda - U202220219**                       | **Foto**                             |
+|---------------------------------------------------------------------|--------------------------------------|
+| | ![Foto de Fabrisio](/Informe/resources/integrantes/Fabrisio.jpg "Foto de Fabrisio") |
+
+| **Anthony Martin Huapaya Cuevas - U202220235**                       | **Foto**                             |
+|---------------------------------------------------------------------|--------------------------------------|
+| | ![Foto de Anthony](/Informe/resources/integrantes/Anthony.jpg "Foto de Anthony") |
+
+| **Hardie Alfonso Holguin Gamarra - U202220250**                       | **Foto**                             |
+|---------------------------------------------------------------------|--------------------------------------|
+| | ![Foto de Hardie](/Informe/resources/integrantes/Hardie.jpg "Foto de Hardie") |
+
 
 ### 1.2. Solution Profile
+
+En el competitivo mundo de la gastronomía, la gestión eficiente de las operaciones se ha convertido en un pilar fundamental para asegurar un servicio de alta calidad y una experiencia excepcional para los clientes. Sin embargo, los métodos tradicionales de administración de restaurantes, desde la gestión de mesas y reservas hasta el control de inventarios y la coordinación con proveedores, pueden ser complejos, lentos y propensos a errores. Esta realidad ha generado una necesidad urgente de encontrar soluciones innovadoras que permitan a los restaurantes optimizar estos procesos críticos de manera más eficiente y efectiva.
+
+En este contexto, surge una nueva era en la gestión de restaurantes, donde la tecnología y la inteligencia operativa se combinan para ofrecer soluciones integrales, ágiles y precisas. La búsqueda de métodos más inteligentes para coordinar la operación de los restaurantes se ha convertido en una prioridad para los profesionales que buscan maximizar la eficiencia, reducir costos y mejorar la experiencia del cliente. RestauMaster se posiciona a la vanguardia de esta transformación, proporcionando herramientas tecnológicas que simplifican la gestión diaria y permiten a los restaurantes enfocarse en lo más importante: brindar una experiencia gastronómica inolvidable.
+
 ### 1.2.1 Antecedentes y problemática
+
+##### What
+
+- Los métodos tradicionales de gestión en restaurantes, como la organización de mesas, reservas y control de inventarios, suelen ser laboriosos, costosos y propensos a errores.
+- Los gerentes y personal del restaurante deben coordinar múltiples tareas manualmente, lo que puede llevar a ineficiencias operativas y problemas de comunicación.
+- Esto puede resultar en pérdida de clientes, insatisfacción y aumento de costos debido a errores humanos y procedimientos ineficientes.
+
+##### Who
+
+- Gerentes de restaurantes y personal de servicio se ven afectados por la complejidad y la carga de trabajo que implican los métodos tradicionales de gestión.
+- Clientes enfrentan retrasos y errores en sus reservas y pedidos, lo que afecta su experiencia general en el restaurante.
+
+##### Where
+
+- Esta problemática es común en restaurantes de cualquier tamaño, desde pequeños locales hasta grandes cadenas, donde la eficiencia operativa es crucial para el éxito del negocio.
+
+###### When
+
+- La problemática surge en el día a día de las operaciones del restaurante, especialmente durante los periodos de alta demanda, como las horas pico y eventos especiales, donde la coordinación y eficiencia son esenciales.
+
+##### Why
+
+- La falta de automatización y herramientas integradas para la gestión de operaciones dificulta la eficiencia y aumenta la probabilidad de errores.
+- La falta de visibilidad en tiempo real sobre el inventario, las reservas y los pedidos lleva a decisiones menos informadas y puede generar desperdicio de recursos y pérdidas financieras.
+
+
+##### How
+
+- En un restaurante típico, el personal puede requerir mucho tiempo para coordinar manualmente las reservas, gestionar las mesas, controlar el inventario y comunicarse con la cocina y los proveedores. - Con "RestauMaster", este proceso se agiliza significativamente, permitiendo una gestión más fluida y eficiente de todas las áreas del restaurante en cuestión de minutos.
+- El problema sigue un patrón de ineficiencia y desorganización en la gestión diaria. El personal a menudo se ve abrumado por la cantidad de tareas operativas y la falta de herramientas eficientes para manejarlas de manera rápida y precisa.
+
+##### How Much
+
+- En un día, un restaurante puede perder ingresos significativos debido a la ineficiencia en la gestión de reservas, pedidos y stock. Con "RestauMaster", estas pérdidas pueden reducirse en un 50%.
+- En términos de pérdida de ingresos y eficiencia operativa, un restaurante sin automatización adecuada podría estar perdiendo el equivalente a miles de soles mensuales debido a errores en la gestión y desperdicio de recursos. Con "RestauMaster", se pueden minimizar estos retrasos y optimizar el uso de recursos en todas las áreas del restaurante.
+
 ### 1.2.2 Lean UX Process.
 ### 1.2.2.1. Lean UX Problem Statements.
 ### 1.2.2.2. Lean UX Assumptions.
