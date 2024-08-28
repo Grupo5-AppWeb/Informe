@@ -1,6 +1,6 @@
 ## Universidad Peruana de Ciencias Aplicadas - Informe de Trabajo Final
 
-![Logo UPC](https://github.com/Grupo5-AppWeb/Informe/blob/Garayar-u202014115/resources/upc-logo.png "Logo UPC")
+![Logo UPC](https://github.com/Grupo5-AppWeb/Informe/blob/Garayar-U202014115/resources/upc-logo.png "Logo UPC")
 
 ## Aplicaciones Web - SW52
 
@@ -130,7 +130,7 @@ RestauMaster es una startup que busca transformar la manera en que los restauran
 
 | **Oscar Nathaniel Garayar Mori - U202014115**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
-| Mi nombre es Oscar Garayar, estudiante de Ing. de software. Voy cursando el 6to ciclo de mi carrera, y me considero alguien responsable que, a pesar de las complicaciones, encontrará una forma de seguir adelante. Tengo experiencia con los lenguajes C++, Python y Java. | ![Foto de Oscar](/Informe/resources/integrantes/Oscar.jpg "Foto de Oscar") |
+| Mi nombre es Oscar Garayar, estudiante de Ing. de software. Voy cursando el 6to ciclo de mi carrera, y me considero alguien responsable que, a pesar de las complicaciones, encontrará una forma de seguir adelante. Tengo experiencia con los lenguajes C++, Python y Java. | ![Foto de Oscar](https://github.com/Grupo5-AppWeb/Informe/blob/Garayar-U202014115/resources/integrantes/Oscar.jpg "Foto de Oscar") |
 
 | **Luis Andres Arce Huaman - U20201A300**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
@@ -138,7 +138,7 @@ RestauMaster es una startup que busca transformar la manera en que los restauran
 
 | **Jamir Ángel Marzál Pérez - U201824409**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
-|Me llamo Jamir, soy estudiante de la carrera de Ingeniería de Software. Mis principales cualidades son el trabajo en equipo, la escucha activa, ética, creatividad, eficacia y responsabilidad. Tengo conocimientos en lenguajes de  programación C++, C# y Python | ![Foto de Jamir](/Informe/resources/integrantes/Jamir.jpg "Foto de Jamir") |
+|Me llamo Jamir, soy estudiante de la carrera de Ingeniería de Software. Mis principales cualidades son el trabajo en equipo, la escucha activa, ética, creatividad, eficacia y responsabilidad. Tengo conocimientos en lenguajes de  programación C++, C# y Python | ![Foto de Jamir](https://github.com/Grupo5-AppWeb/Informe/blob/Garayar-U202014115/resources/integrantes/Jamir.jpg "Foto de Jamir") |
 
 | **Fabrisio Andre Belahonia Miranda - U202220219**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
