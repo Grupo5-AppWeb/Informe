@@ -150,7 +150,7 @@ RestauMaster es una startup que busca transformar la manera en que los restauran
 
 | **Hardie Alfonso Holguin Gamarra - U202220250**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
-| | ![Foto de Hardie](/Informe/resources/integrantes/Hardie.jpg "Foto de Hardie") |
+| Soy Hardie Holguín, Estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona disciplinada y organizada. En mi tiempo libre me gusta entrenar en el gimnasio y jugar futbol.| ![Foto de Hardie](/Informe/resources/integrantes/Hardie.jpg "Foto de Hardie") |
 
 
 ### 1.2. Solution Profile
