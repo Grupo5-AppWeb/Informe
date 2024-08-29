@@ -161,152 +161,42 @@ prueba 2
 ### Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping.
 ### 3.2. User Stories.
-| Epic / Story ID 	    | Título 	                                             | Descripción 	                                                                                                                                                                               | Criterios de Aceptación 	 | Relacionado con Epic ID 	|
-|----------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------------	|
-| EP01               	 | Información de la aplicación 	                       | *Como* visitante del landing page *Quiero* obtener información relacionada a la aplicación *Para* conocer los beneficios que obtendré                                                 | No Corresponde | No Corresponde|
-| EP02               	 | Vinculo entre la aplicación web y el landing page  	 | *Como* visitante del landing page *Quiero* poder ingresar a la aplicación *Para*probar la aplicación de "" ""                                                                         | No Corresponde  |No Corresponde|
-| EP03               	 | Gestión de Inventario y Stock	                       | *Como* administrador *Quiero* gestionar eficientemente el inventario y stock del restaurante *Para* asegurar que los ingredientes estén siempre disponibles y reducir el desperdicio. | No Corresponde  | No Corresponde|
-| EP04               	 | Optimización del Costo de Producción y Facturación	  | *Como* administrador *Quiero* calcular y optimizar el costo de producción y gestionar la facturación *Para* asegurar la rentabilidad del restaurante.                                 | No Corresponde | No Corresponde|
-| EP05               	 | Control y Reporte de Merma y Uso de Ingredientes  	  | *Como* administrador *Quiero* llevar un control detallado de la merma y generar reportes sobre el uso de ingredientes *Para* optimizar la gestión del inventario y reducir pérdidas.  | No Corresponde |No Corresponde|
-| EP06               	 | Operaciones Eficientes en la Caja 	                  | *Como* administrador *Quiero* realizar operaciones de cierre de caja detallado y gestionar las transacciones de manera precisa *Para* asegurar una contabilidad clara.                | No Corresponde| No Corresponde|
-| EP07               	 | Gestión de Pedidos y Asignación de Mesas             | *Como* administrador *Quiero* gestionar pedidos y la asignación de mesas de manera eficiente *Para* mejorar el servicio al cliente.                                                   |No Corresponde| No Corresponde|
-| EP08               	 | 	                                                    |                                                                                                                                                                                             | No Corresponde| No Corresponde|
-| EP10               	 | 	                                                    |                                                                                                                                                                                             | No Corresponde|No Corresponde|
-| EP11               	 |                                                      |                                                                                                                                                                                             | No Corresponde| No Corresponde	|
-| EP09               	 |                                                      |                                                                                                                                                                                             | No Corresponde | No Corresponde|
-| EP12               	 |                                                      |                                                                                                                                                                                             | No Corresponde| No Corresponde|
-| EP13               	 |                                                      |                                                                                                                                                                                             | No Corresponde| No Corresponde|
-| EP14               	 |                                                      | 	                                                                                                                                                                                           | No Corresponde| No Corresponde|
-| EP15               	 |                                                      | 	                                                                                                                                                                                           | No Corresponde| No Corresponde|
+| Epic / Story ID 	    | Título 	                                        | Descripción 	                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Criterios de Aceptación 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Relacionado con Epic ID 	 |
+|----------------------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| EP01               	 | Gestión de Inventario y Stock	                  | *Como* administrador *Quiero* gestionar eficientemente el inventario y stock del restaurante *Para* asegurar que los ingredientes estén siempre disponibles y reducir el desperdicio.                                                                                                                                                                                                                                                                                   | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | No Corresponde            |
+| EP04               	 | Optimización del Costo de Producción y Facturación	 | *Como* administrador *Quiero* calcular y optimizar el costo de producción y gestionar la facturación *Para* asegurar la rentabilidad del restaurante.                                                                                                                                                                                                                                                                                                                   | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | No Corresponde            |
+| EP05               	 | Control y Reporte de Merma y Uso de Ingredientes  	 | *Como* administrador *Quiero* llevar un control detallado de la merma y generar reportes sobre el uso de ingredientes *Para* optimizar la gestión del inventario y reducir pérdidas.                                                                                                                                                                                                                                                                                    | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | No Corresponde            |
+| EP06               	 | Operaciones Eficientes en la Caja 	             | *Como* administrador *Quiero* realizar operaciones de cierre de caja detallado y gestionar las transacciones de manera precisa *Para* asegurar una contabilidad clara.                                                                                                                                                                                                                                                                                                  | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | No Corresponde            |
+| EP07               	 | Gestión de Pedidos y Asignación de Mesas        | *Como* administrador *Quiero* gestionar pedidos y la asignación de mesas de manera eficiente *Para* mejorar el servicio al cliente.                                                                                                                                                                                                                                                                                                                                     | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | No Corresponde            |
+| EP08               	 | Landing Page Optimizada	                       | *Como* usuario interesado, *Quiero* una página de destino fácil de usar y optimizada que ofrezca información clara y accesible sobre la aplicación *Para* facilitar la toma de decisiones informadas y mejorar la interacción con el equipo de la aplicación.                                                                                                                                                                                                           | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | No Corresponde            |
+| US-03             	  | Acceso a Cantidades de Stock              | Como administrador, quiero acceder a las cantidades actuales de stock para planificar la producción y las compras. | <b>Scenario 01:</b> Ver Cantidades Disponibles Dado</b> que soy administrador<br>Cuando</b> acceda al sistema de gestión de inventario<br>Entonces</b>  podré ver las cantidades actuales de cada ingrediente en stock, y el sistema mostrará alertas cuando el stock esté por debajo de un nivel predefinido.<br><br> Scenario 02:</b> Recibir Notificación de Bajo Stock<br>Dado</b>  que el stock de un ingrediente está bajo,<br>Cuando</b>  acceda al sistema de gestión de inventario,<br>Entonces</b> recibiré una notificación de bajo stock para que pueda tomar medidas inmediatas. | EP01                      |
+| US-04             	  |     Ingreso de Stock           |        Como administrador, quiero registrar nuevas entradas de inventario para mantener un registro actualizado de los ingredientes disponibles.                                                                                                                                                                           | <b>Scenario 01:</b> Registrar Nuevas Entradas<br>Dado que soy administradorCuando</b> reciba un nuevo lote de ingredientes,<br>Entonces</b>puedo registrar esta entrada en el sistema con la cantidad y la fecha de ingreso, y el sistema actualizará automáticamente el stock disponible.<br><br>Scenario 02:</b> Verificar Registro de Entrada<br>Dado</b> que he registrado una nueva entrada de stock,<br>Cuando</b> revise el registro<br>Entonces</b>  podré ver la nueva entrada registrada con todos los detalles correspondientes.<br><br>                                           | No Corresponde            |
+| US-05             	  |    Tomar Pedidos desde la Mesa                 |       Como administrador, quiero introducir pedidos directamente en la aplicación desde la mesa para que estos se envíen automáticamente a la cocina.                                  | <b>Scenario 01:</b>Tomar Pedidos desde la Mesa<br><b>Dado</b> que estoy tomando un pedido,<br><b>Cuando</b> introduzca los ítems en la aplicación,<br><b>Entonces</b> estos deben enviarse automáticamente al sistema de cocina.<br><br><b>Scenario 02:</b> Modificar Pedido Antes de Enviar<br> <b>Dado</b>  que he tomado un pedido,<br><b>Cuando</b>  el cliente haga una modificación,<br><b>Entonces</b>  el sistema debe permitir la modificación del pedido antes de enviarlo a la cocina.<br><br>                                                                                     | EP07                      |
+| US-06             	  |       Cálculo del Costo de Producción             |   Como administrador, quiero consultar el costo de los ingredientes por plato para ajustar precios o recetas según sea necesario.                                                                                                                                                                                                                                                                                                                                                                                       | <b>Scenario 01:</b> Consultar Costos de Producción<br>Dado</b> que soy administrador,<br>Cuando</b> acceda a un plato específico<br>Entonces</b>el sistema debe mostrar el costo detallado de cada ingrediente y el costo total de producción del plato.<br><br>Scenario 02:</b> Modificar Receta y Recalcular Costos<br>Dado</b>  que quiero ajustar una receta,<br>Cuando</b> modifique los ingredientes en el sistema,<br>Entonces</b>  el sistema debe recalcular automáticamente el costo de producción del plato y actualizarlo en la base de datos.<br><br>                            | No Corresponde            |
+| US-07             	  |         Gestión de Facturación                        |      Como administrador, quiero generar y gestionar facturas para los clientes de manera rápida y eficiente.                                   | <b>Scenario 01:</b> Generar Facturas para Clientes<br>Dado</b> que soy cajero,<br>Cuando</b> un cliente finaliza su comida,<br> Entonces</b> puedo generar una factura detallada que incluya todos los ítems consumidos.<br><br>Scenario 02:</b> Enviar Factura Electrónica<br> Dado</b> que el cliente ha solicitado una factura electrónica,<br>Cuando</b>  la factura se genere,s<br>Entonces</b>  el sistema debe permitir la emisión de la factura electrónica y su envío por correo electrónico al cliente.<br><br>                                                                     | No Corresponde            |
+| US-08             	  |    Registro de Merma                          |    Como administrador, quiero registrar y monitorear las mermas de ingredientes para ajustar las compras futuras y reducir pérdidas.                     | <b>Scenario 01:</b>Registrar y Monitorear Merma<br> Dado</b>  que se produce una merma en los ingredientes,<br>Cuando</b> registre la merma en el sistema,<br>Entonces</b> el sistema debe permitir el registro de la cantidad perdida y generar un reporte semanal que muestre las mermas acumuladas.<br><br>Scenario 02:</b> Analizar Datos de Merma<br>Dado</b> que he registrado las mermas en el sistema,<br>Cuando</b>  acceda al reporte semanal,<br>Entonces</b> podré analizar los datos de merma y ajustar las órdenes de compra en consecuencia.<br><br>                           | No Corresponde            |
+| US-09             	  |    Reporte de Uso de Ingredientes      |      Como administrador, quiero ver estadísticas sobre el uso de ingredientes para ajustar los pedidos y optimizar la producción.                                           | Scenario 01:</b> Generar Reporte de Uso de Ingredientes<br>Dado</b> que soy administrador,<br>Cuando</b>  acceda a los reportes de uso de ingredientes,<br>Entonces</b> el sistema debe mostrar gráficos y estadísticas detalladas del uso de cada ingrediente durante un período específico.<br><br>Scenario 02:</b>  Ajustar Pedidos Basado en el Reporte<br>Dado</b>  que he revisado el reporte de uso de ingredientes,<br>Cuando</b> note un aumento en el uso de ciertos ingredientes,<br>Entonces</b> podré ajustar los pedidos para evitar la escasez y optimizar la producción.<br><br>| No Corresponde            |
+| US-10             	  | Landing page - Estructuración   | Como visitante de la landing page, quiero encontrar una navegación intuitiva que me permita acceder fácilmente a la información sobre sus características.                                                                                                                                                                                                                                                                                                              | Escenario 1: "Landing page estructurada" Dado que el visitante está en la landing page, cuando el visitante accede a la página principal, entonces la landing page ofrece los medios necesarios para una navegación fácil y clara. Escenario 2: "Organización no intuitiva"Dado que el visitante está en la landing page, cuando el visitante accede a la página principal, entonces la landing page no proporciona formas de navegación amigables para el usuario.                                                                                                                           | EP08                      |
+| US-11             	  | Landing page – Contenido informativo  | Como visitante de la landing page, quiero encontrar contenido detallado y fácil de entender sobre las funcionalidades y beneficios de la aplicación para poder tomar una decisión informada sobre su uso.                                                                                                                                                                                                                                                               | Escenario 1: "Contenido landing page"Dado que el visitante está en la landing page, cuando el visitante navega por la landing page, entonces la página presenta información clara, fácil de entender y accesible para cualquier visitante.Escenario 2: "Contenido confuso o insuficiente" Dado que el visitante está en la landing page, cuando el visitante navega por la landing page, entonces la página no ofrece información clara, lo que la hace inaccesible para diferentes visitantes.                                                                                               | EP08                      |
+| US-12             	  | Landing page - Compatibilidad móvil | Como visitante de la landing page, quiero que sea responsiva para poder utilizarla en cualquier dispositivo.                                                                                                                                                                                                                                                                                                                                                            | Escenario 1: "Compatibilidad con dispositivos móviles"Dado que el visitante está en la landing page, cuando el visitante accede a la landing page desde su dispositivo móvil, entonces puede navegar por la página sin problemas.Escenario 2: "Problemas de visualización o navegación"Dado que el visitante está en la landing page, cuando el visitante accede a la landing page desde su dispositivo móvil, entonces encuentra problemas de visualización o navegación.                                                                                                                    | EP08                      |
+| US-13             	  | Landing page - Formulario de contacto | Como visitante de la landing page, quiero encontrar un formulario de contacto para poder comunicarme con el equipo de la aplicación.                                                                                                                                                                                                                                                                                                                                    | Escenario 1: "Acceso al formulario de contacto"Dado que el visitante está en la sección de contacto, cuando el visitante llena el formulario con los datos solicitados por la landing page, entonces la página envía los datos al equipo de la aplicación.Escenario 2: "Falta de formulario de contacto"Dado que el visitante está en la sección de contacto, cuando el visitante intenta enviar el formulario sin completar los campos obligatorios, entonces la landing page muestra un mensaje de error solicitando que se complete el formulario.                                         | EP08                      |
+| US-14             	  | Landing page - Contenido multimedia | Como visitante de la landing page, quiero encontrar contenido multimedia para obtener información de manera más dinámica.                                                                                                                                                                                                                                                                                                                                               | Escenario 1: "Contenido multimedia disponible"Dado que el visitante está en la landing page, cuando el visitante navega por la página y sus diferentes secciones, entonces la landing page carga todos los recursos multimedia y los muestra al visitante.Escenario 2: "Falta de contenido multimedia"Dado que el visitante está en la landing page, cuando el visitante navega por la página y sus diferentes secciones, entonces la landing page no carga los recursos multimedia, resultando en una página monótona y vacía.                                                               | EP08                      |
+| US-15             	  | Landing page - Call-to-action  | Como visitante de la landing page, quiero encontrar call-to-actions para solicitar una demo.                                                                                                                                                                                                                                                                                                                                                                            | Escenario 1: "Call-to-action funcional"Dado que el visitante está en la sección de inicio de la landing page, cuando el visitante navega por la sección y presiona el botón de call-to-action para pedir una demo, entonces la landing page lo redirige a la sección de contacto.Escenario 2: "Falla del call-to-action"Dado que el visitante está en la sección de inicio de la landing page, cuando el visitante navega por la sección y presiona el botón de call-to-action para pedir una demo, entonces la landing page no realiza ninguna acción.                                       | EP08                      |
+| US-16             	  | Landing page - Testimonios  | Como visitante de la landing page, quiero encontrar testimonios de usuarios para conocer sus experiencias con la aplicación.                                                                                                                                                                                                                                                                                                                                            | Escenario 1: "Testimonios disponibles"Dado que el visitante está en la landing page, cuando el visitante navega por la página y sus diferentes secciones, entonces la landing page muestra testimonios de usuarios satisfechos con la aplicación.Escenario 2: "Falta de testimonios"Dado que el visitante está en la landing page, cuando el visitante navega por la página y sus diferentes secciones, entonces la landing page no muestra testimonios de usuarios, lo que dificulta la toma de decisiones del visitante.                                                                    | EP08                      |
 
 
-<table>
-    <tr>
-        <th>Epic / Story ID</th>
-        <th>Título</th>
-        <th>Descripción</th>
-        <th>Criterios de Aceptación</th>
-        <th>Relacionado con (Epic ID)</th>
-    </tr>
-<tr>
-    <td>US-01</td> 
-    <td>Ver descripción clara y concisa de los servicios en la landing page</td>
-    <td>Como visitante, quiero ver una descripción clara y concisa de los servicios ofrecidos en la landing page, para comprender rápidamente cómo pueden beneficiar a mi operación agrícola o ganadera.</td>
-    <td>
-        <b>Scenario 01:</b> Contactar a los desarrolladores<br>
-        <b>Dado</b> que el visitante tiene una consulta <br>
-        <b>Cuando</b> redacte un mensaje y su correo electronico para contactar a los desarrolladores<br>
-        <b>Entonces</b> el mensaje le llegara a los desarrolladores.<br><br>
-    </td>
-    <td>EP01</td> 
-</tr>
-<tr>
-    <td>US-02</td> 
-    <td>Vinculo entre el Landing Page y la Aplicación Web</td>
-    <td>Como visitante  en la aplicación, quiero probar la aplicación web desde la Landing Page.</td>
-    <td>
-        <b>Scenario 01:</b> El visitante ingresa a la aplicación<br>
-        <b>Dado</b> que el visitante desea usar la aplicación<br>
-        <b>Cuando</b> ingrese a la landing page y encuentre el botón para acceder a la aplicación. <br>
-        <b>Entonces</b> el visitante será redirigido a la aplicación web y podrá convertirse en nuestro usuario.<br><br>
-   </td>
-    <td>EP02</td> 
-</tr>
-
-
-
-<tr>
-    <td>US-03</td> 
-    <td>Acceso a Cantidades de Stock</td>
-    <td>Como administrador, quiero acceder a las cantidades actuales de stock para planificar la producción y las compras.</td>
-    <td>
-        <b>Scenario 01:</b> Ver Cantidades Disponibles<br>
-        <b>Dado</b> que soy administrador<br>
-        <b>Cuando</b> acceda al sistema de gestión de inventario<br>
-        <b>Entonces</b>  podré ver las cantidades actuales de cada ingrediente en stock, y el sistema mostrará alertas cuando el stock esté por debajo de un nivel predefinido.<br><br>
-        <b>Scenario 02:</b> Recibir Notificación de Bajo Stock<br>
-        <b>Dado</b>  que el stock de un ingrediente está bajo,<br>
-        <b>Cuando</b>  acceda al sistema de gestión de inventario,<br>
-        <b>Entonces</b> recibiré una notificación de bajo stock para que pueda tomar medidas inmediatas.
-    </td> 
-    <td>EP03</td> 
-</tr>
-<tr>
-    <td>US-04</td> 
-    <td>Ingreso de Stock</td>
-    <td>Como administrador, quiero registrar nuevas entradas de inventario para mantener un registro actualizado de los ingredientes disponibles.</td>
-    <td>
-        <b>Scenario 01:</b> Registrar Nuevas Entradas<br>
-        <b>Dado</b>  que soy administrador<br>
-        <b>Cuando</b> reciba un nuevo lote de ingredientes,<br>
-        <b>Entonces</b>puedo registrar esta entrada en el sistema con la cantidad y la fecha de ingreso, y el sistema actualizará automáticamente el stock disponible.<br><br>
-        <b>Scenario 02:</b> Verificar Registro de Entrada<br>
-        <b>Dado</b> que he registrado una nueva entrada de stock,<br>
-        <b>Cuando</b> revise el registro<br>
-        <b>Entonces</b>  podré ver la nueva entrada registrada con todos los detalles correspondientes.<br><br>
-    </td> 
-    <td>EP12</td> 
-</tr>
-<tr>
-    <td>US-05</td> 
-    <td> Cálculo del Costo de Producción</td>
-    <td>Como administrador, quiero consultar el costo de los ingredientes por plato para ajustar precios o recetas según sea necesario.</td>
-    <td>
-        <b>Scenario 01:</b> Consultar Costos de Producción<br>
-        <b>Dado</b> que soy administrador,<br>
-        <b>Cuando</b> acceda a un plato específico<br>
-        <b>Entonces</b>el sistema debe mostrar el costo detallado de cada ingrediente y el costo total de producción del plato.<br><br>
-        <b>Scenario 02:</b> Modificar Receta y Recalcular Costos<br>
-        <b>Dado</b>  que quiero ajustar una receta,<br>
-        <b>Cuando</b> modifique los ingredientes en el sistema,<br>
-        <b>Entonces</b>  el sistema debe recalcular automáticamente el costo de producción del plato y actualizarlo en la base de datos.<br><br>
-    </td> 
-    <td>EP12</td> 
-</tr>
-<tr>
-    <td>US-06</td> 
-    <td>Gestión de Facturación</td>
-    <td> Como administrador, quiero generar y gestionar facturas para los clientes de manera rápida y eficiente.</td>
-    <td>
-        <b>Scenario 01:</b> Generar Facturas para Clientes<br>
-        <b>Dado</b> que soy cajero,<br>
-        <b>Cuando</b> un cliente finaliza su comida,<br>
-        <b>Entonces</b> puedo generar una factura detallada que incluya todos los ítems consumidos.<br><br>
-        <b>Scenario 02:</b> Enviar Factura Electrónica<br>
-        <b>Dado</b> que el cliente ha solicitado una factura electrónica,<br>
-        <b>Cuando</b>  la factura se genere,s<br>
-        <b>Entonces</b>  el sistema debe permitir la emisión de la factura electrónica y su envío por correo electrónico al cliente.<br><br>
-    </td> 
-    <td>EP09</td> 
-</tr>
 <tr>
     <td>US-07</td> 
-    <td>Registro de Merma</td>
-    <td>Como administrador, quiero registrar y monitorear las mermas de ingredientes para ajustar las compras futuras y reducir pérdidas.</td>
+    <td></td>
+    <td></td>
     <td>
-        <b>Scenario 01:</b>Registrar y Monitorear Merma<br>
-        <b>Dado</b>  que se produce una merma en los ingredientes,<br>
-        <b>Cuando</b> registre la merma en el sistema,<br>
-        <b>Entonces</b> el sistema debe permitir el registro de la cantidad perdida y generar un reporte semanal que muestre las mermas acumuladas.<br><br>
-        <b>Scenario 02:</b> Analizar Datos de Merma<br>
-        <b>Dado</b> que he registrado las mermas en el sistema,<br>
-        <b>Cuando</b>  acceda al reporte semanal,<br>
-        <b>Entonces</b> podré analizar los datos de merma y ajustar las órdenes de compra en consecuencia.<br><br>
     </td>
     <td>EP09</td>
 <tr>
     <td>US-08</td> 
-    <td>Reporte de Uso de Ingredientes</td>
-    <td> Como administrador, quiero ver estadísticas sobre el uso de ingredientes para ajustar los pedidos y optimizar la producción.</td>
+    <td></td>
+    <td> </td>
     <td>
-        <b>Scenario 01:</b> Generar Reporte de Uso de Ingredientes<br>
-        <b>Dado</b> que soy administrador,<br>
-        <b>Cuando</b>  acceda a los reportes de uso de ingredientes,<br>
-        <b>Entonces</b> el sistema debe mostrar gráficos y estadísticas detalladas del uso de cada ingrediente durante un período específico.<br><br>
-        <b>Scenario 02:</b>  Ajustar Pedidos Basado en el Reporte<br>
-        <b>Dado</b>  que he revisado el reporte de uso de ingredientes,<br>
-        <b>Cuando</b> note un aumento en el uso de ciertos ingredientes,<br>
-        <b>Entonces</b> podré ajustar los pedidos para evitar la escasez y optimizar la producción.<br><br>
     </td> 
     <td>EP09</td> 
 </tr>
@@ -330,19 +220,11 @@ prueba 2
 
 <tr>
     <td>US-10</td> 
-    <td>Tomar Pedidos desde la Mesa</td>
-    <td>Como administrador, quiero introducir pedidos directamente en la aplicación desde la mesa para que estos se envíen automáticamente a la cocina.</td>
+    <td></td>
+    <td></td>
     <td>
-        <b>Scenario 01:</b>Tomar Pedidos desde la Mesa<br>
-        <b>Dado</b> que estoy tomando un pedido,<br>
-        <b>Cuando</b> introduzca los ítems en la aplicación,<br>
-        <b>Entonces</b> estos deben enviarse automáticamente al sistema de cocina.<br><br>
-        <b>Scenario 02:</b> Modificar Pedido Antes de Enviar<br>
-        <b>Dado</b>  que he tomado un pedido,<br>
-        <b>Cuando</b>  el cliente haga una modificación,<br>
-        <b>Entonces</b>  el sistema debe permitir la modificación del pedido antes de enviarlo a la cocina.<br><br>
-    </td> 
-    <td>EP07</td> 
+        
+  
 </tr>
 
 </table>
