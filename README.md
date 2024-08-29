@@ -203,7 +203,7 @@ prueba 2
 <tr>
     <td>US-02</td> 
     <td>Vinculo entre el Landing Page y la Aplicación Web</td>
-    <td>Como visitante interesado en la aplicación, quiero probar la aplicación web desde la Landing Page.</td>
+    <td>Como visitante  en la aplicación, quiero probar la aplicación web desde la Landing Page.</td>
     <td>
         <b>Scenario 01:</b> El visitante ingresa a la aplicación<br>
         <b>Dado</b> que el visitante desea usar la aplicación<br>
@@ -266,7 +266,7 @@ prueba 2
 <tr>
     <td>US-06</td> 
     <td>Gestión de Facturación</td>
-    <td> Como cajero, quiero generar y gestionar facturas para los clientes de manera rápida y eficiente.</td>
+    <td> Como administrador, quiero generar y gestionar facturas para los clientes de manera rápida y eficiente.</td>
     <td>
         <b>Scenario 01:</b> Generar Facturas para Clientes<br>
         <b>Dado</b> que soy cajero,<br>
@@ -314,7 +314,7 @@ prueba 2
 <tr>
     <td>US-09</td> 
     <td>Cierre de Caja Detallado</td>
-    <td>Como cajero, quiero generar reportes de cierre de caja diario con detalles de transacciones para asegurar que todo esté en orden al final del día.</td>
+    <td>Como administrador, quiero generar reportes de cierre de caja diario con detalles de transacciones para asegurar que todo esté en orden al final del día.</td>
     <td>
         <b>Scenario 01:</b> Generar Reporte de Cierre de Caja<br>
         <b>Dado</b> que es el final del día,<br>
@@ -331,7 +331,7 @@ prueba 2
 <tr>
     <td>US-10</td> 
     <td>Tomar Pedidos desde la Mesa</td>
-    <td>Como mesero, quiero introducir pedidos directamente en la aplicación desde la mesa para que estos se envíen automáticamente a la cocina.</td>
+    <td>Como administrador, quiero introducir pedidos directamente en la aplicación desde la mesa para que estos se envíen automáticamente a la cocina.</td>
     <td>
         <b>Scenario 01:</b>Tomar Pedidos desde la Mesa<br>
         <b>Dado</b> que estoy tomando un pedido,<br>
