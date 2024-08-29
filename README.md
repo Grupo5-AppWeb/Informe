@@ -9,7 +9,7 @@
 - Huapaya Cuevas, Anthony Martin - U202220235
 - Belahonia Miranda, Fabrisio Andre - U202220219
 - Marzál Pérez, Jamir Ángel - U201824409
-- Arce Huaman Luis Andres - U20201A300
+- Arce Huaman Luis Andres
 - Garayar Mori, Oscar Nathaniel - U202014115
 
 
