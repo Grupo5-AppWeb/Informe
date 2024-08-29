@@ -134,7 +134,7 @@ RestauMaster es una startup que busca transformar la manera en que los restauran
 
 | **Luis Andres Arce Huaman - U20201A300**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
-|Mi nombre es Luis Arce, soy estudiante de la carrera de Ing de Software cursando mi 6to ciclo de mi carrera , me gusta el arte la danza y la tecnologia. He estudiado diversos lenguajes de programación en el transcurso de mi carrera y por mi mismo. Soy una persona confiable y muy tolerante. | ![Foto de Luis](/Informe/resources/integrantes/Luis.jpg "Foto de Luis") |
+|Mi nombre es Luis Arce, soy estudiante de la carrera de Ing de Software cursando mi 6to ciclo de mi carrera , me gusta el arte la danza y la tecnologia. He estudiado diversos lenguajes de programación en el transcurso de mi carrera y por mi mismo. Soy una persona confiable y muy tolerante. | ![Foto de Luis](/Informe/resources/integrantes/Luis.png "Foto de Luis") |
 
 | **Jamir Ángel Marzál Pérez - U201824409**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
@@ -146,7 +146,7 @@ RestauMaster es una startup que busca transformar la manera en que los restauran
 
 | **Anthony Martin Huapaya Cuevas - U202220235**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
-| | ![Foto de Anthony](/Informe/resources/integrantes/Anthony.jpg "Foto de Anthony") |
+| Mi nombre es Anthony Huapaya, soy estudiante de Ing. De Software y voy cursando el 5to ciclo. Me considero alguien que se adapta a la situación que se presenta, tengo buena comunicación con los integrantes del grupo. Mi experiencia con los lenguajes son C++ y un poco de Python.| ![Foto de Anthony](/Informe/resources/integrantes/Anthony.jpg "Foto de Anthony") |
 
 | **Hardie Alfonso Holguin Gamarra - U202220250**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
