@@ -254,7 +254,18 @@ prueba 2
   <img src="./resources/user journey/UJM Proveedores.png" alt="Ana Pérez"/>
 
 ### 2.3.4. Empathy Mapping.
+
+- Administrador de restaurante:
+
+  <img src="./resources/emphaty mapping/Empathy map restaurante.png" alt="Carlos Rodríguez"/>
+
+- Proveedor:
+
+  <img src="./resources/emphaty mapping/Empathy map proveedor.png" alt="Ana Pérez"/>
+
 ### 2.3.5. As-is Scenario Mapping.
+
+
 ### 2.4. Ubiquitous Language.
 ### Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping.
