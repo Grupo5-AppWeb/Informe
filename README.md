@@ -245,7 +245,13 @@ prueba 2
 
 ### 2.3.3. User Journey Mapping.
 
+- Administrador de restaurante:
 
+  <img src="./resources/user journey/UJM Restaurante.png" alt="Carlos Rodríguez"/>
+
+- Proveedor:
+
+  <img src="./resources/user journey/UJM Proveedores.png" alt="Ana Pérez"/>
 
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
