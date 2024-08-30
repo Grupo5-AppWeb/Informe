@@ -155,13 +155,98 @@ prueba 2
 ### 2.3.1. User Personas.
 
 - Administrador de restaurante:
+
   <img src="./resources/user personas/Carlos Rodríguez.png" alt="Carlos Rodríguez"/>
 
 - Proveedor:
+
   <img src="./resources/user personas/Ana Pérez.png" alt="Ana Pérez"/>
 
 ### 2.3.2. User Task Matrix.
+
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">User Tax Matrix</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 1</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 2</td>
+		</tr>
+		<tr>
+			<td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>
+            <td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>
+		</tr>
+        <tr>
+			<td colspan="1">Gestionar inventarios</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Comunicarse con proveedores</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+		</tr>
+        <tr>
+			<td colspan="1">Realizar pedidos de insumos</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+		</tr>
+        <tr>
+			<td colspan="1">Revisar reportes de ventas y costos</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Actualizar menú según disponibilidad</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+		</tr>
+        <tr>
+			<td colspan="1">Recibir y procesar pedidos de restaurantes</td>
+			<td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Coordinar envíos</td>
+			<td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Negociar precios</td>
+            <td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Actualizar catálogo de productos</td>
+			<td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>        
+	</tbody>
+</table>
+
 ### 2.3.3. User Journey Mapping.
+
+
+
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
 ### 2.4. Ubiquitous Language.
