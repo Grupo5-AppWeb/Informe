@@ -265,6 +265,13 @@ prueba 2
 
 ### 2.3.5. As-is Scenario Mapping.
 
+- Administrador de restaurante:
+
+  <img src="./resources/as is/as is restaurante.png" alt="Carlos Rodríguez"/>
+
+- Proveedor:
+
+  <img src="./resources/as is/as is proovedor.png" alt="Ana Pérez"/>
 
 ### 2.4. Ubiquitous Language.
 ### Capítulo III: Requirements Specification
