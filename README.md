@@ -142,7 +142,7 @@ RestauMaster es una startup que busca transformar la manera en que los restauran
 
 | **Fabrisio Andre Belahonia Miranda - U202220219**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
-| | ![Foto de Fabrisio](/Informe/resources/integrantes/Fabrisio.jpg "Foto de Fabrisio") |
+| Mi nombre es Fabrisio Belahonia, estudiante de Ing. de software. Voy cursando el 5to ciclo de mi carrera, y me considero una persona responsable, ordenado, empático. Me interesa el área de Ciberseguridad y tengo experiencia con Linux, Redes, Cloud, etc.| ![Foto de Fabrisio](/Informe/resources/integrantes/Fabrisio.jpg "Foto de Fabrisio") |
 
 | **Anthony Martin Huapaya Cuevas - U202220235**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
