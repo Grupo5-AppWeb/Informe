@@ -115,7 +115,7 @@
 
 
 
-### Capítulo I: Introducción
+## Capítulo I: Introducción
 
 
 ### 1.1. Startup Profile
@@ -202,7 +202,7 @@ En este contexto, surge una nueva era en la gestión de restaurantes, donde la t
 ### 1.2.2.3. Lean UX Hypothesis Statements.
 ### 1.2.2.4. Lean UX Canvas.
 ### 1.3. Segmentos objetivo.
-### Capítulo II: Requirements Elicitation & Analysis
+## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
 ### 2.1.2. Estrategias y tácticas frente a competidores.
@@ -222,10 +222,57 @@ En este contexto, surge una nueva era en la gestión de restaurantes, donde la t
 ### 3.2. User Stories.
 ### 3.3. Impact Mapping.
 ### 3.4. Product Backlog.
-### Capítulo IV: Product Design
+## Capítulo IV: Product Design
 ### 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
+
+El diseño de la página de destino de RestauMaster encarna los principios de eficiencia, innovación y apoyo en la gestión de operaciones para restaurantes. Los elementos visuales se eligen para respaldar estos valores fundamentales y ofrecer una experiencia amigable para el usuario.
+
+- **Branding**:  
+  RestauMaster refleja una marca comprometida con proporcionar soluciones integrales que optimizan la gestión de restaurantes. La esencia de la marca es la innovación y la eficiencia, orientadas a mejorar la experiencia del cliente.
+
+- **Logo**:  
+  El logotipo de RestauMaster combina colores vibrantes y un diseño moderno, representando efectivamente el enfoque de la empresa en la innovación y soluciones centradas en el cliente. La simplicidad del logo y su relevancia para la industria de restaurantes refuerzan la identidad de la marca.
+
+- **Colors**:
+  - **Azul Oscuro (#004080)**: Utilizado para el encabezado, pie de página y elementos de navegación para transmitir confianza y profesionalismo.
+  - **Naranja (#ff7300)**: Utilizado en los botones de llamada a la acción y elementos destacados, este color añade dinamismo y dirige la atención del usuario hacia las acciones esenciales.
+  - **Blanco (#FFFFFF)**: Empleado como color de fondo predominante para garantizar claridad y un diseño limpio y organizado.
+  - **Gris (#333, #555)**: Utilizado para texto secundario y detalles menores, proporcionando buena legibilidad mientras mantiene una presencia visual sutil.
+
+- **Typography**:
+  - **Fuentes Usadas**: 'Roboto' y 'Varela Round' se emplean para proporcionar una estética moderna y accesible. Estas fuentes son adecuadas para una amplia audiencia y aseguran consistencia visual a través de diferentes dispositivos.
+  - **Estilos y Tamaños**:
+    - **Títulos**: Grandes y en negrita para captar la atención.
+    - **Texto del Cuerpo**: Tamaños moderados para asegurar legibilidad y una experiencia de usuario cómoda.
+
+- **Communication Tones**
+
+  - **Formal/Approachable**: El estilo de comunicación es profesional pero accesible, entregando la información de manera clara y atractiva.
+  - **Respectful/Enthusiastic**: El tono mantiene una postura respetuosa y empática mientras combina entusiasmo para promover la plataforma y sus beneficios.
+
 ### 4.1.2. Web Style Guidelines.
+
+- **Fonts**:
+  - **Roboto** y **Varela Round**: Estas fuentes son elegidas por su apariencia moderna y limpia, mejorando la legibilidad y manteniendo un estilo consistente en todo el sitio web. 'Roboto' se utiliza principalmente para el texto del cuerpo debido a su claridad, mientras que 'Varela Round' añade un toque de amabilidad a los títulos y subtítulos.
+
+- **Colors**:
+  - **Azul Oscuro (#004080)**: Utilizado para el encabezado, pie de página y elementos de navegación, este color transmite confianza y profesionalismo, proporcionando un fondo estable que complementa los acentos dinámicos.
+  - **Naranja (#ff7300)**: Este color vibrante se utiliza para los botones de llamada a la acción y los aspectos destacados importantes. Llama la atención y guía a los usuarios hacia acciones deseadas, como "Solicitar una Demo" o "Comprar Ahora."
+  - **Blanco (#FFFFFF)**: Predominantemente usado como color de fondo para mantener una interfaz limpia y despejada, mejorando la legibilidad del texto y el confort visual.
+  - **Gris (#333, #555)**: Empleado para elementos de texto secundarios, este color mantiene la legibilidad mientras contrasta sutilmente con el fondo blanco.
+
+- **Graphics**:
+  - **Logo**: Posicionado de manera prominente en el encabezado, el logo refuerza la identidad de la marca. El diseño limpio y sencillo se alinea con la estética general del sitio.
+  - **Background Images**: Diferentes secciones, como Hero, Features, y Contact Us, utilizan imágenes de fondo temáticas que se alinean con su contenido respectivo, añadiendo interés visual y contexto.
+  - **Icons**: Los iconos de redes sociales y otros elementos gráficos se utilizan para facilitar la participación del usuario y la navegación. Los iconos de Facebook, Twitter e Instagram se muestran claramente en el pie de página.
+
+- **Components**:
+  - **Buttons**: Los botones de llamada a la acción (CTA) son audaces y claramente definidos, con bordes redondeados y un color naranja brillante para asegurar que se destaquen contra los colores de fondo más oscuros. Se aplican efectos hover para mejorar la interactividad.
+  - **Sliders and Carousels**: Utilizados para mostrar múltiples características o testimonios de clientes de manera dinámica, proporcionando una forma más atractiva de presentar la información.
+  - **Text Fields and Forms**: Los formularios de contacto son sencillos y fáciles de usar, con etiquetas claras y suficiente espacio para facilitar la entrada del usuario.
+  - **Plan Cards**: Los planes de precios se presentan en formato de tarjetas con bordes distintos y efectos hover, facilitando a los usuarios la comparación de opciones y la toma de decisiones.
+
 ### 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 ### 4.2.2. Labeling Systems.
@@ -250,7 +297,7 @@ En este contexto, surge una nueva era en la gestión de restaurantes, donde la t
 ### 4.7.2. Class Dictionary.
 ### 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-### Capítulo V: Product Implementation, Validation & Deployment
+## Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
 ### 5.1.2. Source Code Management.
