@@ -273,12 +273,62 @@ El diseño de la página de destino de RestauMaster encarna los principios de ef
   - **Text Fields and Forms**: Los formularios de contacto son sencillos y fáciles de usar, con etiquetas claras y suficiente espacio para facilitar la entrada del usuario.
   - **Plan Cards**: Los planes de precios se presentan en formato de tarjetas con bordes distintos y efectos hover, facilitando a los usuarios la comparación de opciones y la toma de decisiones.
 
-### 4.2. Information Architecture.
-### 4.2.1. Organization Systems.
-### 4.2.2. Labeling Systems.
-### 4.2.3. SEO Tags and Meta Tags
-### 4.2.4. Searching Systems.
-### 4.2.5. Navigation Systems.
+
+### **4.2 Information Architecture**
+
+**4.2.1 Organization Systems**
+
+| **Página/Sección**                 | **Descripción**                                                                                                                                                     |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Dashboard Principal**            | Proporciona una vista general de las métricas clave del restaurante, incluyendo reservas, inventario, ventas, y rendimiento operativo.                                |
+| **Gestión de Reservas**            | Permite la gestión de reservas en tiempo real, incluyendo la creación, modificación y cancelación de reservas, así como la gestión de listas de espera y disposición de mesas. |
+| **Control de Inventario**          | Monitorea los niveles de inventario, proporcionando alertas para artículos de bajo stock y reportes de consumo.                                                       |
+| **Pedidos y Facturación**          | Automatiza el proceso de pedidos y facturación, integrándose con el sistema de punto de venta (POS) para sincronizar órdenes y pagos.                                 |
+| **Gestión de Proveedores**         | Facilita la coordinación con proveedores para realizar pedidos, gestionar contratos y automatizar el flujo de trabajo de abastecimiento.                              |
+| **Análisis y Reportes**            | Proporciona reportes detallados sobre el rendimiento del restaurante, incluyendo ventas, costos operativos, y satisfacción del cliente.                                |
+| **Configuración y Personalización**| Permite a los usuarios personalizar la interfaz de usuario, gestionar roles de usuario y configurar parámetros del restaurante.                                        |
+
+**4.2.2 Labeling Systems**
+
+| **Etiqueta**                | **Descripción**                                                                                      |
+|-----------------------------|------------------------------------------------------------------------------------------------------|
+| **Dashboard**               | Panel de Control con métricas y estadísticas clave del restaurante.                                   |
+| **Reservations**            | Gestión de reservas y mesas.                                                                          |
+| **Inventory**               | Control y seguimiento de inventarios de ingredientes y suministros.                                   |
+| **Orders and Billing**      | Gestión de pedidos y facturación automatizada.                                                        |
+| **Suppliers Management**    | Coordinación con proveedores y gestión de suministros.                                                |
+| **Analytics**               | Generación de reportes y análisis de datos operativos.                                                |
+| **Settings**                | Personalización de la interfaz y configuración del restaurante.                                       |
+| **User Management**         | Gestión de roles y permisos de usuarios.                                                              |
+
+**4.2.3 SEO Tags and Meta Tags**
+
+Para mejorar la visibilidad de la aplicación web de RE-Grill en motores de búsqueda y facilitar su descubrimiento, se han implementado las siguientes etiquetas SEO y meta:
+
+- **Title**: RE-Grill | Gestión Integral para Restaurantes
+- **Description**: Plataforma de RE-Grill - Solución avanzada para la gestión eficiente de reservas, inventarios, pedidos, y proveedores en restaurantes.
+- **Keywords**: Gestión de restaurantes, reservas online, control de inventarios, pedidos automatizados, análisis de datos, software para restaurantes.
+- **Author**: Equipo de RE-Grill
+- **Canonical**: https://app.regrill.com/
+
+**4.2.4 Searching Systems**
+
+| **Sistema de Búsqueda**     | **Descripción**                                                                                      |
+|-----------------------------|------------------------------------------------------------------------------------------------------|
+| **Búsqueda Global**         | Permite a los usuarios buscar términos clave en todas las secciones de la aplicación.                |
+| **Filtros Avanzados**       | Ofrece opciones para filtrar resultados por categorías como reservas, inventario, pedidos, y análisis.|
+| **Sugerencias de Búsqueda** | Muestra sugerencias automáticas basadas en las búsquedas más frecuentes y populares.                 |
+| **Resultados Relevantes**   | Prioriza los resultados más relevantes basados en el historial de búsqueda y comportamiento del usuario. |
+
+**4.2.5 Navigation Systems**
+
+| **Sistema de Navegación**   | **Descripción**                                                                                      |
+|-----------------------------|------------------------------------------------------------------------------------------------------|
+| **Menú Lateral Fijo**       | Proporciona acceso rápido a todas las secciones principales de la aplicación desde cualquier página.  |
+| **Breadcrumbs**             | Ayuda a los usuarios a entender la estructura jerárquica del sitio y regresar a páginas anteriores fácilmente. |
+| **Barra de Navegación Superior** | Incluye opciones adicionales como ajustes de cuenta, notificaciones, y perfil de usuario.                   |
+
+
 ### 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
