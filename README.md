@@ -290,7 +290,21 @@ prueba 2
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
 ### 4.3. Landing Page UI Design.
+
+En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.
+
 ### 4.3.1. Landing Page Wireframe.
+
+Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Style Guidelines para el uso de los colores. Como se aprecia, estos tienen un contraste llamativo en cada sección de la landing page.
+
+- Desktop:
+  
+  <img src="./resources/wireframes/desktop.png" alt="wireframe desktop"/>
+
+- Mobile:
+
+  <img src="./resources/wireframes/mobile.png" alt="wireframe mobile"/>
+
 ### 4.3.2. Landing Page Mock-up.
 ### 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
