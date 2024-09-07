@@ -385,8 +385,43 @@ Cuando aumenta más las cantidades de proveedores que venden a distintos restaur
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
+<img src="resources/contexto.png" alt="Context Diagram">
+
 ### 4.6.2. Software Architecture Container Diagrams.
+<img src="resources/contenedor.png" alt="Context Diagram">
+
 ### 4.6.3. Software Architecture Components Diagrams.
+<ul>
+  <li>
+    <p>Usuarios</p>
+    <img src="resources/usuario.png" alt="Component Usuarios">
+  </li>
+  <li>
+    <p>Ventas</p>
+    <img src="resources/ventas.png" alt="Component Ventas">
+  </li>
+  <li>
+    <p>Reservas</p>
+    <img src="resources/reserva.png" alt="Component Reservas">
+  </li>
+  <li>
+    <p>Rendimiento</p>
+    <img src="resources/rendimiento.png" alt="Component Rendimiento">
+  </li>
+  <li>
+    <p>Inventario</p>
+    <img src="resources/inventario.png" alt="Component Inventario">
+  </li>
+  <li>
+    <p>Gestor de proveedores</p>
+    <img src="resources/gestor.png" alt="Component Gestor">
+  </li>
+  <li>
+    <p>Ajustes</p>
+    <img src="resources/ajustes.png" alt="Component Ajustes">
+  </li>
+</ul>
+
 ### 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ### 4.7.2. Class Dictionary.
