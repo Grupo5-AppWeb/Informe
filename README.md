@@ -337,6 +337,13 @@ Cuando aumenta más las cantidades de proveedores que venden a distintos restaur
 </table>
 
 ### 1.3. Segmentos objetivo.
+- **Segmento objetivo 1:** Administradores de restaurantes<br>
+  **Geografía:** Perú<br>
+  **Demografía:** Entre 20 a 35 años con experiencia en administración
+- **Segmento objetivo 2:** Proveedores<br>
+  **Geografía:** Perú<br>
+  **Demografía:** Entre 20 a 40 años, vendedores de alimentos
+
 ### Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
