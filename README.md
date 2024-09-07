@@ -212,10 +212,126 @@ En este contexto, surge una nueva era en la gestión de restaurantes, donde la t
 ### 2.2.3. Análisis de entrevistas.
 ### 2.3. Needfinding.
 ### 2.3.1. User Personas.
+
+- Administrador de restaurante:
+
+  <img src="./resources/user personas/Carlos Rodríguez.png" alt="Carlos Rodríguez"/>
+
+- Proveedor:
+
+  <img src="./resources/user personas/Ana Pérez.png" alt="Ana Pérez"/>
+
 ### 2.3.2. User Task Matrix.
+
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">User Tax Matrix</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 1</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 2</td>
+		</tr>
+		<tr>
+			<td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>
+            <td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>
+		</tr>
+        <tr>
+			<td colspan="1">Gestionar inventarios</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Comunicarse con proveedores</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+		</tr>
+        <tr>
+			<td colspan="1">Realizar pedidos de insumos</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+		</tr>
+        <tr>
+			<td colspan="1">Revisar reportes de ventas y costos</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Actualizar menú según disponibilidad</td>
+			<td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+            <td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+		</tr>
+        <tr>
+			<td colspan="1">Recibir y procesar pedidos de restaurantes</td>
+			<td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Coordinar envíos</td>
+			<td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Negociar precios</td>
+            <td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>
+        <tr>
+			<td colspan="1">Actualizar catálogo de productos</td>
+			<td colspan="1">nunca</td>
+            <td colspan="1">baja</td>
+            <td colspan="1">multiple</td>
+            <td colspan="1">alta</td>
+		</tr>        
+	</tbody>
+</table>
+
 ### 2.3.3. User Journey Mapping.
+
+- Administrador de restaurante:
+
+  <img src="./resources/user journey/UJM Restaurante.png" alt="Carlos Rodríguez"/>
+
+- Proveedor:
+
+  <img src="./resources/user journey/UJM Proveedores.png" alt="Ana Pérez"/>
+
 ### 2.3.4. Empathy Mapping.
+
+- Administrador de restaurante:
+
+  <img src="./resources/emphaty mapping/Empathy map restaurante.png" alt="Carlos Rodríguez"/>
+
+- Proveedor:
+
+  <img src="./resources/emphaty mapping/Empathy map proveedor.png" alt="Ana Pérez"/>
+
 ### 2.3.5. As-is Scenario Mapping.
+
+- Administrador de restaurante:
+
+  <img src="./resources/as is/as is restaurante.png" alt="Carlos Rodríguez"/>
+
+- Proveedor:
+
+  <img src="./resources/as is/as is proovedor.png" alt="Ana Pérez"/>
+
 ### 2.4. Ubiquitous Language.
 ### Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping.
@@ -330,8 +446,29 @@ Para mejorar la visibilidad de la aplicación web de RE-Grill en motores de bús
 
 
 ### 4.3. Landing Page UI Design.
+
+En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.
+
 ### 4.3.1. Landing Page Wireframe.
+
+Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Style Guidelines para el uso de los colores. Como se aprecia, estos tienen un contraste llamativo en cada sección de la landing page.
+
+- Desktop:
+  
+  <img src="./resources/wireframes/desktop.png" alt="wireframe desktop"/>
+
+- Mobile:
+
+  <img src="./resources/wireframes/mobile.png" alt="wireframe mobile"/>
+
 ### 4.3.2. Landing Page Mock-up.
+
+Después de haber trabajado con los wireframes previamente diseñados, se procedió a aplicar los Style Guidelines para definir la paleta de colores a utilizar. Se puede observar que estos colores presentan un contraste llamativo en cada sección de la landing page, lo que contribuye a destacar visualmente los distintos elementos y mejorar la legibilidad y la estética general del diseño.
+
+<img src="./resources/mockup/mockup.png" alt="mockup"/>
+
+[Link Figma](https://www.figma.com/design/wFyfD3jahh7mqHvwN2Vgst/Landing-Page-Wireframe-re-gril?node-id=0-1&t=Y6wxyMupDN9tDuuE-1)
+
 ### 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
