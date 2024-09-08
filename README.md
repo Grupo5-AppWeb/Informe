@@ -423,7 +423,7 @@ Upserve es una plataforma de gestión de restaurantes que ofrece un sistema POS 
 
 ### 2.1.1. Análisis competitivo.
 
-<table border="1" style="text-align: left;">  
+<table border="1" style="text-align: left;">
   <tr>
     <th style="text-align: center;">Restaurante</th>
     <th style="text-align: center;">Baratie</th>
@@ -521,6 +521,7 @@ Upserve es una plataforma de gestión de restaurantes que ofrece un sistema POS 
     <td>Competencia con mercados similares. Cambios en las necesidades del mercado.</td>
   </tr>
 </table>
+
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
