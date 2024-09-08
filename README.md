@@ -407,7 +407,122 @@ Cuando aumenta más las cantidades de proveedores que venden a distintos restaur
 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
+
+**Toast POS**
+
+Toast es un sistema de punto de venta (POS) todo en uno diseñado específicamente para la industria de la restauración. Ofrece funcionalidades para la gestión de pedidos, pagos, inventario y análisis de datos, además de herramientas para la gestión de mesas y reservas. También incluye capacidades para pedidos en línea y delivery. Sus puntos fuertes incluyen ser una plataforma integral con herramientas avanzadas de análisis y reportes, y la integración con servicios de delivery y pedidos en línea.
+
+**Square for Restaurants**
+
+Square for Restaurants es un sistema POS que ofrece soluciones completas para la gestión de restaurantes, incluyendo la administración de mesas, pedidos, facturación, inventario y análisis. Se destaca por su facilidad de uso, la integración con otras herramientas de Square, y su flexibilidad y escalabilidad, adaptándose tanto a pequeños cafés como a grandes cadenas de restaurantes.
+
+**Upserve by Lightspeed**
+
+Upserve es una plataforma de gestión de restaurantes que ofrece un sistema POS robusto con capacidades avanzadas de gestión de inventarios, reportes de ventas y análisis de comportamiento de los clientes. Incluye funciones para la administración de mesas y reservas, y está diseñado para mejorar la eficiencia operativa. Sus puntos fuertes son los análisis detallados y herramientas de optimización, la integración con servicios de terceros, y el soporte especializado en la industria restaurantera.
+
+
 ### 2.1.1. Análisis competitivo.
+
+<table border="1" style="text-align: left;">  
+  <tr>
+    <th style="text-align: center;">Restaurante</th>
+    <th style="text-align: center;">Baratie</th>
+    <th style="text-align: center;">Toast POS</th>
+    <th style="text-align: center;">Square</th>
+    <th style="text-align: center;">Upserve</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Perfil</th>
+    <td>Plataforma integral que gestiona mesas, reservas, cocina, ventas, inventarios, merma, y pedidos de insumos con conexión directa a proveedores para una coordinación eficiente.</td>
+    <td>Sistema POS todo en uno para restaurantes, que cubre pedidos, pagos, inventario, mesas, reservas, y pedidos en línea, con análisis avanzado y servicios de delivery.</td>
+    <td>Sistema POS flexible para la gestión completa de restaurantes, incluyendo administración de mesas, pedidos, facturación, inventario y análisis, con fácil escalabilidad.</td>
+    <td>Sistema POS avanzado para restaurantes, con capacidades de gestión de inventarios, reportes de ventas y análisis del comportamiento del cliente, para mejorar la eficiencia operativa.</td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Ventaja competitiva</th>
+    <td>Ofrece una solución completa con integración directa a proveedores, optimizando la gestión interna y la cadena de suministro, facilitando la coordinación y reduciendo los costos operativos.</td>
+    <td>Integra herramientas avanzadas de análisis y reportes, junto con capacidades robustas para delivery y pedidos en línea, mejorando la eficiencia operativa y el servicio al cliente.</td>
+    <td>Ofrece facilidad de uso y flexibilidad, con integración fluida con otras herramientas de Square y escalabilidad para adaptarse al crecimiento del negocio.</td>
+    <td>Proporciona análisis detallados y herramientas de optimización, integraciones con terceros y soporte especializado, ayudando a mejorar la eficiencia y la toma de decisiones.</td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Perfil de Marketing</th>
+    <th colspan="4" style="text-align: center;"></th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Mercado Objetivo</th>
+    <td>Restaurantes y proveedores de insumos</td>
+    <td>Restaurantes</td>
+    <td>Restaurantes</td>
+    <td>Restaurantes</td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Estrategias de Marketing</th>
+    <td>Marketing de contenidos, testimonios de éxito, asociaciones estratégicas, publicidad digital</td>
+    <td>Publicidad digital, marketing de referencia, eventos y ferias del sector</td>
+    <td>Publicidad digital, demostraciones en directo, ofertas promocionales, colaboraciones estratégicas</td>
+    <td>Publicidad digital, demostraciones personalizadas, eventos y ferias del sector</td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Perfil de Producto</th>
+    <th colspan="4" style="text-align: center;"></th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Productos & Servicios</th>
+    <td>Sistema de gestión integral para restaurantes con conexión a proveedores de insumos</td>
+    <td>Un sistema todo en uno para la industria de la restauración</td>
+    <td>Un sistema flexible y escalable diseñado para la gestión completa de restaurantes</td>
+    <td>Un sistema flexible y escalable diseñado para la gestión completa de restaurantes</td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Precios & Costos</th>
+    <td>Variados</td>
+    <td>Variados</td>
+    <td>Variados</td>
+    <td>Variados</td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Canales de Distribución</th>
+    <td>Web</td>
+    <td>Web/Móvil</td>
+    <td>Móvil</td>
+    <td>Web/Móvil</td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Análisis SWOT</th>
+    <th colspan="4" style="text-align: center;"></th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Fortalezas</th>
+    <td>Conexión directa entre proveedores y restaurante, automatización de procesos, capacidades avanzadas en gestión de inventarios y reportes.</td>
+    <td>Herramientas avanzadas de análisis y reportes. Integración con servicios de delivery y pedidos en línea. Personalización y soporte técnico especializado.</td>
+    <td>Facilidad de uso y rápida implementación. Flexibilidad y escalabilidad para adaptarse a diferentes tamaños de negocios. Costos iniciales bajos y estructura de precios transparente.</td>
+    <td>Capacidades avanzadas en gestión de inventarios y reportes. Análisis detallado del comportamiento de clientes y optimización operativa. Integración con servicios de terceros y soporte especializado en la industria restaurantera.</td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Debilidades</th>
+    <td>Dependencia de internet y posibles problemas de conectividad.</td>
+    <td>Costos relativamente altos, lo que puede ser una barrera para pequeños negocios. Dependencia de una conexión a internet estable para funcionar óptimamente.</td>
+    <td>Funcionalidades avanzadas pueden ser limitadas en comparación con competidores más especializados. Menor personalización en comparación con plataformas más robustas.</td>
+    <td>Costos relativamente altos, especialmente para negocios pequeños. Complejidad en la configuración inicial y curva de aprendizaje para nuevos usuarios. Dependencia de la conexión a internet para la funcionalidad completa del sistema.</td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Oportunidades</th>
+    <td>Creciente demanda del mercado. Expansión en mercados internacionales.</td>
+    <td>Expansión en mercados internacionales. Aumento en la demanda de soluciones para pedidos en línea y delivery.</td>
+    <td>Expansión a mercados de tamaño medio y grande que buscan soluciones flexibles. Mejora de características y funciones mediante actualizaciones y adquisiciones.</td>
+    <td>Creciente demanda de soluciones de análisis de datos. Expansión en mercados internacionales.</td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Amenazas</th>
+    <td>Competencia con mercados similares. Cambios en las necesidades del mercado.</td>
+    <td>Competencia con mercados similares. Cambios en las necesidades del mercado.</td>
+    <td>Competencia con mercados similares. Cambios en las necesidades del mercado.</td>
+    <td>Competencia con mercados similares. Cambios en las necesidades del mercado.</td>
+  </tr>
+</table>
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 Incorporar Tecnología de Vanguardia
