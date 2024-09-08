@@ -424,6 +424,67 @@ Ofrecer capacitación especializada sobre cómo utilizar la tecnología avanzada
 
 ### 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
+
+**Preguntas para administradores**
+
+¿Cuáles son sus principales responsabilidades en la gestión diaria del restaurante?
+¿Cómo gestiona actualmente el inventario de insumos y la supervisión de la merma?
+¿Qué desafíos enfrenta al controlar la disponibilidad de mesas y la cantidad de sillas?
+¿Cómo se asegura de que las reservas estén correctamente asignadas a las mesas disponibles?
+¿Cómo maneja la conexión entre los módulos de ventas, cocina, y stock?
+¿Cuál es su opinión sobre la automatización de procesos entre estos módulos?
+¿Cómo realiza los pedidos de insumos a los proveedores actualmente?
+¿Qué estrategias utiliza para reducir la merma en la cocina?
+¿Cómo registra y analiza las pérdidas de insumos debido a vencimientos o accidentes?
+¿Qué tipo de reportes son más útiles para usted al analizar el rendimiento del restaurante?
+
+Información Complementaria:
+
+¿Cuál es tu género?
+¿Cuál es tu edad?
+¿En qué distrito resides actualmente?
+¿Cuál es tu estado civil?
+¿Cómo describirías tu familia (tamaño, composición, etc.)?
+¿Cuál es tu ocupación actual?
+¿Cómo describirías tu personalidad en términos generales?
+¿Qué habilidades consideras que son tus fortalezas principales?
+¿Qué lo motivó a dedicarse a su oficio?
+¿Qué marcas o influencias consideras importantes en tu vida profesional o personal?
+¿Qué dispositivos tecnológicos prefieres usar para tu trabajo o estudios?
+¿Qué canales digitales utilizas con mayor frecuencia para interactuar profesionalmente?
+¿Cuáles son tus principales objetivos profesionales y personales?
+¿Qué frustraciones encuentras en tu práctica educativa o en tu trabajo actual?
+
+**Preguntas para proveedores**
+
+¿Cómo describiría su relación actual con los restaurantes a los que provee insumos?
+¿Cómo prefiere que los restaurantes realicen sus pedidos de insumos?
+¿Qué métodos de comunicación prefiere para coordinar la entrega de los pedidos?
+¿Qué tan cómodo se siente utilizando una interfaz digital para gestionar sus tratos con los restaurantes?
+¿Qué funcionalidades le gustaría tener para mejorar la negociación y coordinación con los administradores?
+¿Cómo gestiona la oferta de insumos cuando la demanda del restaurante cambia rápidamente?
+¿Qué tipo de información adicional le sería útil para ajustar sus ofertas?
+¿Qué elementos son clave para asegurar que los restaurantes estén satisfechos con su servicio y cómo mide esa satisfacción?
+¿Cuáles son los mayores desafíos que enfrenta como proveedor al trabajar con restaurantes?
+Si pudiera solicitar una mejora específica en la plataforma digital, ¿cuál sería y cómo beneficiaría su relación con los restaurantes?
+
+Información Complementaria:
+
+¿Cuál es tu género?
+¿Cuál es tu edad?
+¿En qué distrito resides actualmente?
+¿Cuál es tu estado civil?
+¿Cómo describirías tu familia (tamaño, composición, etc.)?
+¿Cuál es tu ocupación actual?
+¿Cómo describirías tu personalidad en términos generales?
+¿Qué habilidades consideras que son tus fortalezas principales?
+¿Qué lo motivó a dedicarse a su oficio?
+¿Qué marcas o influencias consideras importantes en tu vida profesional o personal?
+¿Qué dispositivos tecnológicos prefieres usar para tu trabajo o estudios?
+¿Qué canales digitales utilizas con mayor frecuencia para interactuar profesionalmente?
+¿Cuáles son tus principales objetivos profesionales y personales?
+¿Qué frustraciones encuentras en tu práctica educativa o en tu trabajo actual?
+
 ### 2.2.2. Registro de entrevistas.
 ### 2.2.3. Análisis de entrevistas.
 ### 2.3. Needfinding.
