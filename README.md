@@ -489,25 +489,25 @@ Información Complementaria:
 
 
 **Sección administrador**
-| Entrevistado 1 | de harie   |
+| Entrevistado 1 | Keyner Hancco  |
 | ------ | -- |
-| Edad | |
-| Distrito de residencia |  |
+| Edad | 26 |
+| Distrito de residencia | Santa Anita |
 <img src="assets/entrevista1.png"> | Hardy, administrador de un restaurante, destaca la importancia de la consistencia, calidad, servicio e innovación para el éxito. Utiliza tecnología como un POS, software de gestión de inventarios y plataformas de reservas, aunque se frustra por la falta de integración entre ellas. Es adaptable y mantiene un enfoque analítico, utilizando redes sociales, blogs y ferias para mantenerse al día con las tendencias. Sus principales desafíos incluyen la previsión de demanda, rotación del personal y asegurar la llegada puntual de insumos. Busca automatizar la gestión de reservas, mesas e inventarios, priorizando la rapidez y calidad en el servicio al cliente.|
 | Timing:   | URL: |
 
-| Entrevistado 1 | de harie2   |
+| Entrevistado 1 | Anghelo Basauri |
 | ------ | -- |
-| Edad | |
-| Distrito de residencia |  |
+| Edad | 26 |
+| Distrito de residencia | Rimac |
 <img src="assets/entrevista1.png"> |El entrevistado, administrador de restaurante, subraya que un software de gestión esencial debe integrar funciones como la gestión de mesas y reservas, control de inventario, seguimiento de ventas, y gestión de pedidos en cocina. También considera crucial la integración con proveedores y capacidades de análisis financiero para automatizar procesos y optimizar operaciones diarias. Prefiere herramientas que faciliten la toma de decisiones mediante reportes detallados y análisis de datos, y busca mejorar la intuitividad del software y la fluidez en la integración con proveedores. Esto refleja su necesidad de un sistema eficiente que simplifique la gestión y mejore la precisión operativa.|
 | Timing:   | URL: |
 
-| Entrevistado 1 | oscar   |
+| Entrevistado 1 | Luis Osorio alza |
 | ------ | -- |
-| Edad | |
-| Distrito de residencia |  |
-<img src="assets/entrevista1.png"> | |
+| Edad | 23 |
+| Distrito de residencia | Surco |
+<img src="assets/entrevista1.png"> | Luis Fernando, de 22 años, es estudiante de ingeniería con seis meses de experiencia en cocina. Es responsable, organizado y enfocado en la eficiencia operativa, destacando en la gestión de inventario y reutilización de insumos. Utiliza Excel para controlar reservas, reflejando un uso básico de tecnología. Su trabajo implica interacciones presenciales y telefónicas con clientes y proveedores. Busca optimizar procesos en la cocina, pero se frustra con la imprevisibilidad de la demanda de clientes y la falta de información precisa de proveedores. Su experiencia práctica le ha permitido desarrollar habilidades clave para enfrentar desafíos en la industria alimentaria. |
 | Timing:   | URL: |
 
 **Sección provedores**
