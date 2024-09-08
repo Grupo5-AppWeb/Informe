@@ -486,6 +486,55 @@ Información Complementaria:
 ¿Qué frustraciones encuentras en tu práctica educativa o en tu trabajo actual?<br>
 
 ### 2.2.2. Registro de entrevistas.
+
+
+**Sección administrador**
+| Entrevistado 1 | de harie   |
+| ------ | -- |
+| Edad | |
+| Distrito de residencia |  |
+<img src="assets/entrevista1.png"> | Hardy, administrador de un restaurante, destaca la importancia de la consistencia, calidad, servicio e innovación para el éxito. Utiliza tecnología como un POS, software de gestión de inventarios y plataformas de reservas, aunque se frustra por la falta de integración entre ellas. Es adaptable y mantiene un enfoque analítico, utilizando redes sociales, blogs y ferias para mantenerse al día con las tendencias. Sus principales desafíos incluyen la previsión de demanda, rotación del personal y asegurar la llegada puntual de insumos. Busca automatizar la gestión de reservas, mesas e inventarios, priorizando la rapidez y calidad en el servicio al cliente.|
+| Timing:   | URL: |
+
+| Entrevistado 1 | de harie2   |
+| ------ | -- |
+| Edad | |
+| Distrito de residencia |  |
+<img src="assets/entrevista1.png"> |El entrevistado, administrador de restaurante, subraya que un software de gestión esencial debe integrar funciones como la gestión de mesas y reservas, control de inventario, seguimiento de ventas, y gestión de pedidos en cocina. También considera crucial la integración con proveedores y capacidades de análisis financiero para automatizar procesos y optimizar operaciones diarias. Prefiere herramientas que faciliten la toma de decisiones mediante reportes detallados y análisis de datos, y busca mejorar la intuitividad del software y la fluidez en la integración con proveedores. Esto refleja su necesidad de un sistema eficiente que simplifique la gestión y mejore la precisión operativa.|
+| Timing:   | URL: |
+
+| Entrevistado 1 | oscar   |
+| ------ | -- |
+| Edad | |
+| Distrito de residencia |  |
+<img src="assets/entrevista1.png"> | |
+| Timing:   | URL: |
+
+**Sección provedores**
+
+| Entrevistado 1 | Eliana Rodríguez   |
+| ------ | -- |
+| Edad | |
+| Distrito de residencia |  |
+<img src="assets/entrevista1.png"> | Eliana Rodríguez es proveedora de alimentos, principalmente verduras, para restaurantes, un negocio que inició durante la pandemia. Utiliza WhatsApp para coordinar pedidos y destaca por su puntualidad, la frescura de sus productos y la honestidad en el peso de sus entregas. A pesar de esto, enfrenta dificultades con el tráfico y siente que WhatsApp tiene limitaciones, especialmente en la gestión de pagos. Le gustaría una aplicación más avanzada que le permita gestionar pedidos de manera más eficiente, con listas fijas y sin restricciones en los montos de pago, facilitando su trabajo y mejorando la relación con sus clientes.|
+| Timing:   | URL: |
+
+| Entrevistado 1 | Bruno Minaya  |
+| ------ | -- |
+| Edad | 28 |
+| Distrito de residencia | Surquillo  |
+<img src="assets/entrevista1.png"> | El entrevistado, de 29 años y soltero, reside en San Isidro, Lima. Es importador de comestibles para restaurantes, motivado por su pasión por la gastronomía desde joven. Se describe como empático y responsable, destacando su habilidad para generar confianza. Utiliza principalmente su celular y canales digitales como WhatsApp, Telegram y Zoom para su trabajo. Su principal objetivo es ampliar su cobertura de mercado y adaptarse a nuevos sistemas. Enfrenta frustraciones con la comunicación constante y la gestión de cambios en la demanda. Usa encuestas para medir la satisfacción del cliente y busca mejorar la gestión con aplicaciones más específicas.|
+| Timing:   | URL: |
+
+| Entrevistado 1 | Elizabeth Huanaco   |
+| ------ | -- |
+| Edad | 19 |
+| Distrito de residencia | San Juan de Lurigancho |
+<img src="assets/entrevista1.png"> | Elis Deaco es proveedora de insumos para restaurantes y ayuda en el negocio familiar. Se caracteriza por ser organizada, responsable y hábil en negociación. Utiliza Notion para gestionar pedidos y WhatsApp para comunicarse con los clientes, prefiriendo su laptop y celular. Influenciada por marcas como Gloria y Nestlé, busca expandir su red de clientes y equilibrar su vida laboral y estudiantil. Sus frustraciones incluyen problemas de comunicación y coordinación de pedidos, así como la gestión del inventario. Desea una plataforma digital intuitiva para mejorar el seguimiento de pedidos, gestionar promociones y mantener un inventario flexible.|
+| Timing:   | URL: |
+
+
+
 ### 2.2.3. Análisis de entrevistas.
 ### 2.3. Needfinding.
 ### 2.3.1. User Personas.
