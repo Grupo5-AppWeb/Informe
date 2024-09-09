@@ -25,7 +25,7 @@
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
   - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-    - [RestauMaster: Simplificando la Operación de Restaurantes](#restaumaster-simplificando-la-operación-de-restaurantes)
+    - [RE-GRILL: Simplificando la Operación de Restaurantes](#RE-GRILL-simplificando-la-operación-de-restaurantes)
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
   - [1.2. Solution Profile](#12-solution-profile)
   - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
@@ -131,9 +131,9 @@
 
 ### 1.1.1. Descripción de la Startup
 
-#### RestauMaster: Simplificando la Operación de Restaurantes
+#### RE-GRILL: Simplificando la Operación de Restaurantes
 
-RestauMaster es una startup que busca transformar la manera en que los restaurantes gestionan sus operaciones diarias. Nos especializamos en ofrecer una plataforma integral que conecta todas las áreas clave de un restaurante, desde la gestión de mesas y reservas hasta la administración de cocina, ventas, y stock. Nuestro objetivo es automatizar y optimizar procesos operativos para mejorar la eficiencia y la experiencia del cliente. En RestauMaster, estamos comprometidos con la innovación en la industria gastronómica, proporcionando herramientas que facilitan la operación diaria, reducen costos y elevan los estándares de servicio en los restaurantes del siglo XXI.
+RE-GRILL es una startup que busca transformar la manera en que los restaurantes gestionan sus operaciones diarias. Nos especializamos en ofrecer una plataforma integral que conecta todas las áreas clave de un restaurante, desde la gestión de mesas y reservas hasta la administración de cocina, ventas, y stock. Nuestro objetivo es automatizar y optimizar procesos operativos para mejorar la eficiencia y la experiencia del cliente. En RE-GRILL, estamos comprometidos con la innovación en la industria gastronómica, proporcionando herramientas que facilitan la operación diaria, reducen costos y elevan los estándares de servicio en los restaurantes del siglo XXI.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -166,7 +166,7 @@ RestauMaster es una startup que busca transformar la manera en que los restauran
 
 En el competitivo mundo de la gastronomía, la gestión eficiente de las operaciones se ha convertido en un pilar fundamental para asegurar un servicio de alta calidad y una experiencia excepcional para los clientes. Sin embargo, los métodos tradicionales de administración de restaurantes, desde la gestión de mesas y reservas hasta el control de inventarios y la coordinación con proveedores, pueden ser complejos, lentos y propensos a errores. Esta realidad ha generado una necesidad urgente de encontrar soluciones innovadoras que permitan a los restaurantes optimizar estos procesos críticos de manera más eficiente y efectiva.
 
-En este contexto, surge una nueva era en la gestión de restaurantes, donde la tecnología y la inteligencia operativa se combinan para ofrecer soluciones integrales, ágiles y precisas. La búsqueda de métodos más inteligentes para coordinar la operación de los restaurantes se ha convertido en una prioridad para los profesionales que buscan maximizar la eficiencia, reducir costos y mejorar la experiencia del cliente. RestauMaster se posiciona a la vanguardia de esta transformación, proporcionando herramientas tecnológicas que simplifican la gestión diaria y permiten a los restaurantes enfocarse en lo más importante: brindar una experiencia gastronómica inolvidable.
+En este contexto, surge una nueva era en la gestión de restaurantes, donde la tecnología y la inteligencia operativa se combinan para ofrecer soluciones integrales, ágiles y precisas. La búsqueda de métodos más inteligentes para coordinar la operación de los restaurantes se ha convertido en una prioridad para los profesionales que buscan maximizar la eficiencia, reducir costos y mejorar la experiencia del cliente. RE-GRILL se posiciona a la vanguardia de esta transformación, proporcionando herramientas tecnológicas que simplifican la gestión diaria y permiten a los restaurantes enfocarse en lo más importante: brindar una experiencia gastronómica inolvidable.
 
 ### 1.2.1 Antecedentes y problemática
 
@@ -197,13 +197,13 @@ En este contexto, surge una nueva era en la gestión de restaurantes, donde la t
 
 ##### How
 
-- En un restaurante típico, el personal puede requerir mucho tiempo para coordinar manualmente las reservas, gestionar las mesas, controlar el inventario y comunicarse con la cocina y los proveedores. - Con "RestauMaster", este proceso se agiliza significativamente, permitiendo una gestión más fluida y eficiente de todas las áreas del restaurante en cuestión de minutos.
+- En un restaurante típico, el personal puede requerir mucho tiempo para coordinar manualmente las reservas, gestionar las mesas, controlar el inventario y comunicarse con la cocina y los proveedores. - Con "RE-GRILL", este proceso se agiliza significativamente, permitiendo una gestión más fluida y eficiente de todas las áreas del restaurante en cuestión de minutos.
 - El problema sigue un patrón de ineficiencia y desorganización en la gestión diaria. El personal a menudo se ve abrumado por la cantidad de tareas operativas y la falta de herramientas eficientes para manejarlas de manera rápida y precisa.
 
 ##### How Much
 
-- En un día, un restaurante puede perder ingresos significativos debido a la ineficiencia en la gestión de reservas, pedidos y stock. Con "RestauMaster", estas pérdidas pueden reducirse en un 50%.
-- En términos de pérdida de ingresos y eficiencia operativa, un restaurante sin automatización adecuada podría estar perdiendo el equivalente a miles de soles mensuales debido a errores en la gestión y desperdicio de recursos. Con "RestauMaster", se pueden minimizar estos retrasos y optimizar el uso de recursos en todas las áreas del restaurante.
+- En un día, un restaurante puede perder ingresos significativos debido a la ineficiencia en la gestión de reservas, pedidos y stock. Con "RE-GRILL", estas pérdidas pueden reducirse en un 50%.
+- En términos de pérdida de ingresos y eficiencia operativa, un restaurante sin automatización adecuada podría estar perdiendo el equivalente a miles de soles mensuales debido a errores en la gestión y desperdicio de recursos. Con "RE-GRILL", se pueden minimizar estos retrasos y optimizar el uso de recursos en todas las áreas del restaurante.
 
 ### 1.2.2 Lean UX Process.
 ### 1.2.2.1. Lean UX Problem Statements.
@@ -784,16 +784,17 @@ Información Complementaria:
 ### 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
 
-El diseño de la página de destino de RestauMaster encarna los principios de eficiencia, innovación y apoyo en la gestión de operaciones para restaurantes. Los elementos visuales se eligen para respaldar estos valores fundamentales y ofrecer una experiencia amigable para el usuario.
+El diseño de la página de destino de RE-GRILL encarna los principios de eficiencia, innovación y apoyo en la gestión de operaciones para restaurantes. Los elementos visuales se eligen para respaldar estos valores fundamentales y ofrecer una experiencia amigable para el usuario.
 
 - **Branding**:  
-  RestauMaster refleja una marca comprometida con proporcionar soluciones integrales que optimizan la gestión de restaurantes. La esencia de la marca es la innovación y la eficiencia, orientadas a mejorar la experiencia del cliente.
+  RE-GRILL refleja una marca comprometida con proporcionar soluciones integrales que optimizan la gestión de restaurantes. La esencia de la marca es la innovación y la eficiencia, orientadas a mejorar la experiencia del cliente.
 
 - **Logo**:  
-  El logotipo de RestauMaster combina colores vibrantes y un diseño moderno, representando efectivamente el enfoque de la empresa en la innovación y soluciones centradas en el cliente. La simplicidad del logo y su relevancia para la industria de restaurantes refuerzan la identidad de la marca.
+  El logotipo de  combina mantiene un único color que refleja confiabilidad y estabilidad. Su simpleza lo hace facil de reconocer y recordar. Además su figura da a entender hasta cierto punto qué es RE-GRILL.
 
 - **Colors**:
   - **Azul Oscuro (#004080)**: Utilizado para el encabezado, pie de página y elementos de navegación para transmitir confianza y profesionalismo.
+  - **Azul Oscuro 2(003060)**: De igual manera que el anterior, utilizado para el encabezado, pie de página y elementos de navegación para resaltar aún más diferentes segmentos.
   - **Naranja (#ff7300)**: Utilizado en los botones de llamada a la acción y elementos destacados, este color añade dinamismo y dirige la atención del usuario hacia las acciones esenciales.
   - **Blanco (#FFFFFF)**: Empleado como color de fondo predominante para garantizar claridad y un diseño limpio y organizado.
   - **Gris (#333, #555)**: Utilizado para texto secundario y detalles menores, proporcionando buena legibilidad mientras mantiene una presencia visual sutil.
@@ -816,13 +817,14 @@ El diseño de la página de destino de RestauMaster encarna los principios de ef
 
 - **Colors**:
   - **Azul Oscuro (#004080)**: Utilizado para el encabezado, pie de página y elementos de navegación, este color transmite confianza y profesionalismo, proporcionando un fondo estable que complementa los acentos dinámicos.
+  - **Azul Oscuro 2(003060)**: De igual manera que el anterior, utilizado para el encabezado, pie de página y elementos de navegación para resaltar aún más diferentes segmentos.
   - **Naranja (#ff7300)**: Este color vibrante se utiliza para los botones de llamada a la acción y los aspectos destacados importantes. Llama la atención y guía a los usuarios hacia acciones deseadas, como "Solicitar una Demo" o "Comprar Ahora."
   - **Blanco (#FFFFFF)**: Predominantemente usado como color de fondo para mantener una interfaz limpia y despejada, mejorando la legibilidad del texto y el confort visual.
-  - **Gris (#333, #555)**: Empleado para elementos de texto secundarios, este color mantiene la legibilidad mientras contrasta sutilmente con el fondo blanco.
+  - **Gris (#333, #555)**: Empleado para elementos de texto secundarios y algunas casillas, este color mantiene la legibilidad mientras contrasta sutilmente con el fondo blanco.
 
 - **Graphics**:
   - **Logo**: Posicionado de manera prominente en el encabezado, el logo refuerza la identidad de la marca. El diseño limpio y sencillo se alinea con la estética general del sitio.
-  - **Background Images**: Diferentes secciones, como Hero, Features, y Contact Us, utilizan imágenes de fondo temáticas que se alinean con su contenido respectivo, añadiendo interés visual y contexto.
+  - **Background Images**: Diferentes secciones, como Hero, Features, y Contact Us en la landing page, utilizan imágenes de fondo temáticas que se alinean con su contenido respectivo, añadiendo interés visual y contexto.
   - **Icons**: Los iconos de redes sociales y otros elementos gráficos se utilizan para facilitar la participación del usuario y la navegación. Los iconos de Facebook, Twitter e Instagram se muestran claramente en el pie de página.
 
 - **Components**:
@@ -838,26 +840,22 @@ El diseño de la página de destino de RestauMaster encarna los principios de ef
 
 | **Página/Sección**                 | **Descripción**                                                                                                                                                     |
 |------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Dashboard Principal**            | Proporciona una vista general de las métricas clave del restaurante, incluyendo reservas, inventario, ventas, y rendimiento operativo.                                |
-| **Gestión de Reservas**            | Permite la gestión de reservas en tiempo real, incluyendo la creación, modificación y cancelación de reservas, así como la gestión de listas de espera y disposición de mesas. |
-| **Control de Inventario**          | Monitorea los niveles de inventario, proporcionando alertas para artículos de bajo stock y reportes de consumo.                                                       |
-| **Pedidos y Facturación**          | Automatiza el proceso de pedidos y facturación, integrándose con el sistema de punto de venta (POS) para sincronizar órdenes y pagos.                                 |
-| **Gestión de Proveedores**         | Facilita la coordinación con proveedores para realizar pedidos, gestionar contratos y automatizar el flujo de trabajo de abastecimiento.                              |
-| **Análisis y Reportes**            | Proporciona reportes detallados sobre el rendimiento del restaurante, incluyendo ventas, costos operativos, y satisfacción del cliente.                                |
-| **Configuración y Personalización**| Permite a los usuarios personalizar la interfaz de usuario, gestionar roles de usuario y configurar parámetros del restaurante.                                        |
+| **Gestión de Inventario**          | Permite a los usuarios agregar y revisar el stock actual, registrar la merma y revisar el historial de inventario. Accesible para el rol de **Administrador**.          |
+| **Costos de Producción**           | Consultar y modificar costos de producción, ajustando recetas y monitorizando el gasto en ingredientes. Solo disponible para el **Administrador de Cocina**.           |
+| **Facturación y Pedidos**          | Sección destinada a roles como **Caja** para la generación de facturas, registro de pedidos y su historial.                                                          |
+| **Reportes y Estadísticas**        | Los **Administradores** pueden acceder a reportes detallados sobre la gestión de ingredientes, mermas y ventas, proporcionando insights para la optimización operativa.|
+| **Pedidos y Mesas**                | Gestión de asignación de mesas y control de pedidos, disponible para el rol de **Mesero**.                                                                           |
+| **Perfil de Usuario**              | Cada usuario puede gestionar su perfil, cambiar contraseñas y modificar su información personal.                                                                     |
 
 **4.2.2 Labeling Systems**
 
 | **Etiqueta**                | **Descripción**                                                                                      |
 |-----------------------------|------------------------------------------------------------------------------------------------------|
-| **Dashboard**               | Panel de Control con métricas y estadísticas clave del restaurante.                                   |
-| **Reservations**            | Gestión de reservas y mesas.                                                                          |
-| **Inventory**               | Control y seguimiento de inventarios de ingredientes y suministros.                                   |
-| **Orders and Billing**      | Gestión de pedidos y facturación automatizada.                                                        |
-| **Suppliers Management**    | Coordinación con proveedores y gestión de suministros.                                                |
-| **Analytics**               | Generación de reportes y análisis de datos operativos.                                                |
-| **Settings**                | Personalización de la interfaz y configuración del restaurante.                                       |
-| **User Management**         | Gestión de roles y permisos de usuarios.                                                              |
+| **Inventory**               | Sección para agregar y visualizar stock de productos y registrar la merma.                           |
+| **Production Costs**        | Consultar y modificar costos de producción, disponible solo para roles administrativos.               |
+| **Orders and Billing**      | Generar y revisar facturas, además de gestionar pedidos.                                              |
+| **Reports**                 | Reportes de ventas, uso de ingredientes, y mermas. Accesible a **Administradores**.                   |
+| **Tables Management**       | Asignar mesas y gestionar pedidos, accesible para el rol de **Mesero**.                               |
 
 **4.2.3 SEO Tags and Meta Tags**
 
@@ -873,18 +871,17 @@ Para mejorar la visibilidad de la aplicación web de RE-Grill en motores de bús
 
 | **Sistema de Búsqueda**     | **Descripción**                                                                                      |
 |-----------------------------|------------------------------------------------------------------------------------------------------|
-| **Búsqueda Global**         | Permite a los usuarios buscar términos clave en todas las secciones de la aplicación.                |
-| **Filtros Avanzados**       | Ofrece opciones para filtrar resultados por categorías como reservas, inventario, pedidos, y análisis.|
-| **Sugerencias de Búsqueda** | Muestra sugerencias automáticas basadas en las búsquedas más frecuentes y populares.                 |
-| **Resultados Relevantes**   | Prioriza los resultados más relevantes basados en el historial de búsqueda y comportamiento del usuario. |
+| **Búsqueda Global**         | Permite buscar información clave en diferentes áreas de la aplicación, ajustada según el rol del usuario.|
+| **Filtros Avanzados**       | Opciones para filtrar resultados por categorías específicas como inventario, costos, o pedidos.       |
 
 **4.2.5 Navigation Systems**
 
 | **Sistema de Navegación**   | **Descripción**                                                                                      |
 |-----------------------------|------------------------------------------------------------------------------------------------------|
-| **Menú Lateral Fijo**       | Proporciona acceso rápido a todas las secciones principales de la aplicación desde cualquier página.  |
-| **Breadcrumbs**             | Ayuda a los usuarios a entender la estructura jerárquica del sitio y regresar a páginas anteriores fácilmente. |
-| **Barra de Navegación Superior** | Incluye opciones adicionales como ajustes de cuenta, notificaciones, y perfil de usuario.                   |
+| **Navbar**                  | Menú principal que ofrece acceso rápido a todas las secciones clave, con opciones de menú desplegable según el rol.|
+| **Menú de Subsecciones**     | Para áreas más complejas como inventario o reportes, se ofrecen menús adicionales que detallan acciones específicas.|
+| **Panel de Administración de Usuarios** | Accesible solo por administradores para gestionar roles y permisos.                                 |
+
 
 
 ### 4.3. Landing Page UI Design.
