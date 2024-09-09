@@ -652,6 +652,9 @@ Información Complementaria:
 
 
 ### 2.2.3. Análisis de entrevistas.
+
+<p>Las entrevistas revelan una necesidad común de integración tecnológica y optimización operativa en la industria gastronómica. Tanto administradores como proveedores enfrentan problemas con la previsión de demanda, la gestión de inventarios, y la falta de integración entre sistemas. Además, los proveedores mencionan la limitación de herramientas como WhatsApp para gestionar pedidos y pagos, mientras los administradores destacan la importancia de reportes y análisis de datos para la toma de decisiones. La solución ideal sería una plataforma integral e intuitiva que centralice la gestión, optimice la comunicación, y automatice procesos clave.</p>
+
 ### 2.3. Needfinding.
 ### 2.3.1. User Personas.
 
