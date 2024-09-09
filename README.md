@@ -427,9 +427,9 @@ Upserve es una plataforma de gestión de restaurantes que ofrece un sistema POS 
   <tr>
     <th style="text-align: center;">Restaurante</th>
     <th style="text-align: center;">Baratie</th>
-    <th style="text-align: center;">Toast POS</th>
-    <th style="text-align: center;">Square</th>
-    <th style="text-align: center;">Upserve</th>
+    <th style="text-align: center;">Toast POS <br>  <img src="resources/toastpost.png" alt="Descripción de la imagen" width="200" height="100"> </th>
+    <th style="text-align: center;">Square <br> <img src="resources/square.png" alt="Descripción de la imagen" width="200" height="100"> </th>
+    <th style="text-align: center;">Upserve <br> <img src="resources/upserve.png" alt="Descripción de la imagen" width="200" height="100"></th>
   </tr>
   <tr>
     <th style="text-align: center;">Perfil</th>
