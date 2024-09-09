@@ -266,9 +266,15 @@ prueba 2
 ### 4.6.3. Software Architecture Components Diagrams.
 ### 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
+<tr><img src="resources\dc.jpeg" /><tr>
+
 ### 4.7.2. Class Dictionary.
 ### 4.8. Database Design.
 ### 4.8.1. Database Diagram.
+
+<tr><img src="resources\db.jpeg" /><tr>
+
 ### Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
