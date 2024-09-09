@@ -277,20 +277,440 @@ prueba 2
 
 ### Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management.
+A continuación, presentaremos el proceso por el cual organizamos, gestionamos y controlamos los cambios en el desarrollo de este proyecto.
 ### 5.1.1. Software Development Environment Configuration.
+
+**Requirements Management**
+1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de
+   trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario
+   pertenecientes al sprint a desarrollar.  
+   Ruta de referencia: https://trello.com/es
+
+
+**Product UX/UI Design**
+
+1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el
+   caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
+
+   Ruta de referencia: https://www.figma.com/login
+2. Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de
+   clases asociado a la aplicación.
+
+   Ruta de referencia: https://www.lucidchart.com/
+
+
+**Software Development**
+1. Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de
+   dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del
+   proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples
+   lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios.
+
+   Ruta de referencia: https://code.visualstudio.com/  
+   <br>
+2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será
+   empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
+
+   Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp   
+   <br>
+3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano
+   con HTML.
+
+   Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
+   <br>
+   <br>
+4. Tailwind CSS: Es un conjunto de herramientas de utilidad de CSS altamente personalizable y orientado a clases. Se utilizará para diseñar y estilizar la interfaz de usuario dentro de la aplicación.
+
+   Ruta de referencia: https://tailwindcss.com/docs
+   <br>
+   <br>
+5. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de
+   usuario dentro de la aplicación.
+
+   Ruta de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+ <br>
+
+**Software Deployment**
+1. Git: Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo
+   accederán a través de la línea de comandos en sus sistemas locales.
+
+   Ruta de referencia: https://git-scm.com/
+   <br>
+   <br>
+   **Software Documentation and Project Management**
+2. Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitirá la colaboración en
+   tiempo real y la revisión de contribuciones de cada miembro del equipo. Los integrantes del equipo podrán acceder a través de sus navegadores web.
+
+   Ruta de referencia: https://github.com/
+
 ### 5.1.2. Source Code Management.
+
+El proyecto seguirá las convenciones del flujo de trabajo establecido por el modelo GitFlow para el control de versiones, empleando GitHub como plataforma y sistema de control de versiones. A continuación, se describirá la implementación de GitFlow como un flujo de trabajo para el control de versiones, junto con el enlace del Landing Page.
+
+**Repositorio de GitHub:**
+- Enlace para acceder a la https://github.com/Grupo5-AppWeb
+- Enlace para acceder al repositorio de la https://github.com/Grupo5-AppWeb/LandingPage
+- Enlace para acceder al repositorio del https://github.com/Grupo5-AppWeb/Informe
+
+
+**Flujo de trabajo GitFlow**
+
+El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
+
+## <M Imagen de Realese branches
+
+**Estructura de branches (Ramas):**
+1. **Master branch (Rama principal):** Esta rama servirá como la principal para la aplicación, alojando versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados en los features y de ahí en Developer.
+2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es facilitar los avances del proyecto en equipo y mantener los archivos centrales del desarrollo continuo.
+3. **Feature branch(Ramas de funcionalidad):** Cada capitulo desarrollado por el equipo, o separada del enfoque actual del desarrollo, tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/chapter-#".
+
 ### 5.1.3. Source Code Style Guide & Conventions.
+
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las
+siguientes:
+1. Cerrar todos los elementos HTML: Por ejemplo, ```<p>Esto es un párrafo.</p>```
+2. Siempre declarar el tipo de documento en la primera línea del documento, para
+   HTML es "<!DOCTYPE html>”.
+3. Escribir en una línea los comentarios cortos.
+4. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
+5. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la
+   disponibilidad del contenido. Por ejemplo:   ```<img src="abc.img" alt="image name"  
+   style="width:128px;height:128px">```
+6. Se nos recomienda no usar el espacio al momento de utilizar los signos porque
+   es más fácil de leerlo de esta forma.  
+   <br>
+   HTML: (https://www.w3schools.com/html/html5_syntax.asp)
+
+**CSS:** Entre las prácticas empleadas se menciona:
+
+1. Se nos recomienda tener una sangría por 2 espacios a la vez, no debemos
+   utilizar tabulaciones ni mezclarlas tabulaciones con espacios para la sangría.
+2. Todo el código debe estar en minúscula.
+3. Eliminar los espacios en blanco.
+4. Usar comentarios para explicar el código.
+5. Utilizar nombres de clase significativos o genéricos, nombres que reflejen el
+   propósito de su elemento.  
+   <br>
+
+   CSS: (https://google.github.io/styleguide/htmlcssguide.html)
+
 ### 5.1.4. Software Deployment Configuration.
+ <ol>
+      <li><strong>Crear una carpeta para el despliegue:</strong> Creamos una carpeta llamada <code>"docs"</code> en el repositorio. Esta carpeta alojará todos los archivos necesarios para la landing page.</li>
+      <li><strong>Organizar los archivos:</strong> Aseguramos que los archivos de la landing page sigan las siguientes nomenclaturas:
+          <ul>
+              <li><code>"index.html"</code> para la página principal.</li>
+              <li><code>"styles.css"</code> para los estilos de la página.</li>
+              <li>Una carpeta llamada <code>"img"</code> que contenga todas las imágenes utilizadas.</li>
+          </ul>
+      </li>
+      <li><strong>Subir los archivos al repositorio:</strong> Cargamos los archivos en la carpeta <code>"docs"</code> mediante un commit al repositorio en GitHub.</li>
+      <li><strong>Configurar GitHub Pages:</strong> En GitHub, nos dirigimos a la pestaña <code>Settings</code> del repositorio, luego a <code>Pages</code>. Seleccionamos el branch <code>"main"</code> y especificamos la carpeta <code>"docs"</code> como la fuente de la página.</li>
+      <li><strong>Esperar la publicación:</strong> Esperamos a que GitHub realice las comprobaciones necesarias. Una vez finalizado el proceso, obtendremos un enlace que llevará a la landing page desplegada.</li>
+   </ol>
+
 ### 5.2. Landing Page, Services & Applications Implementation.
+
+<h4 id="landing-page-services-applications-implementation">5.2. Landing Page, Services & Applications Implementation.</h4>
+<p>
+    En esta sección, explicamos y documentamos el proceso de implementación, pruebas, documentación y despliegue de la Landing Page, Web Services y Frontend Web Applications. A medida que avanzamos en el desarrollo, desglosamos el trabajo en secciones específicas para cada Sprint, comenzando con el Sprint 1, donde detallamos la planificación y ejecución de las tareas.
+</p>
+
 ### 5.2.1. Sprint n
+
+<p>Es fundamental que el equipo dedique especial atención a la identificación del Sprint Goal, siguiendo las guías establecidas por el Scrum Guide. El Sprint Goal debe enfocarse en el negocio o en la perspectiva de los usuarios, buscando la entrega de un nuevo feature o un set de features.</p>
+<p>Para nuestro Sprint, utilizamos la estructura sugerida por Scrum.org para redactar el Sprint Goal:</p>
+
+
 ### 5.2.1.1. Sprint Planning n.
+<p>En el Sprint #1, que comienza el 29/08/2024, nos enfocaremos en desarrollar una landing page  para Re-Grill. El objetivo es crear una página que no solo capte la atención de los visitantes, sino que también transmita claramente los beneficios de nuestro producto. Este sprint estará dedicado al diseño y desarrollo de la landing page para cumplir con nuestros objetivos estratégicos.</p>
+
+<table>
+    <tr>
+        <td>Sprint #</td>
+        <td>Sprint 1</td>
+    </tr>
+    <tr>
+        <td>Sprint Planning Background  </td>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>2024-08-29</td>
+    </tr>
+    <tr>
+        <td>Time</td>
+        <td>16:00 PM</td>
+    </tr>
+    <tr>
+        <td>Location</td>
+        <td>Virtual via discord</td>
+    </tr>
+    <tr>
+        <td>Prepared By </td>
+        <td>Huapaya Cuevas, Anthony Martin , Hardie Alfonso Holguín Gamarra</td>
+    </tr>
+    <tr>
+        <td>Attendees (to planning <br>meeting) </td>
+        <td>Marzál Pérez Jamir Ángel , Belahonia Miranda, Fabrisio Andre , Hardie Alfonso Holguín Gamarra, Arce Huaman Luis Andres, Garayar Mori Oscar Nathaniel, Huapaya Cuevas, Anthony Martin</td>
+    </tr>
+    <tr>
+        <td>Sprint Goal &amp; User Stories </td>
+    </tr>
+    <tr>
+        <td>Sprint 1 Goal </td>
+        <td>Desarrollar una landing page atractiva para Re-Grill, diseñada para captar la atención de los visitantes y comunicar de manera efectiva los beneficios del producto. El cumplimiento se medirá en función de la finalización del diseño, la implementación y la puesta en producción de la landing page.</td>
+    </tr>
+    <tr>
+        <td>Sprint 1 Velocity </td>
+        <td>El equipo ha establecido una capacidad de 30 Story Points para el Sprint 1, enfocándose en completar todas las tareas necesarias para el desarrollo de la landing page de Re-Grill.  </td>
+    </tr>
+    <tr>
+        <td>Sum of Story Points </td>
+        <td>30</td>
+    </tr>
+</table>
+
 ### 5.2.1.2. Sprint Backlog n.
+
+
+<p>El Sprint Backlog para el Sprint #1 tiene como objetivo principal el desarrollo de una landing page para Re-Grill. Este sprint se centrará en la creación y despliegue de una página web atractiva que comunique de manera efectiva los beneficios del producto. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente.</p>
+<p><a href="https://trello.com/invite/b/66c93d50416dba8bfedcae30/ATTIf9ead74d9d706f220f5e3c257dbe2220B5697DD1/appweb-grupo5">Link a Trello</a></p>
+
+<table>
+    <tr>
+        <td>Sprint # </td>
+        <td>Sprint 1 </td>
+    </tr>
+    <tr>
+        <td>User Story  </td>
+        <td></td>        
+        <td>Work-Item / Task </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours) </td>
+        <td>Assigned To</td>
+        <td>Status (To-do/In Process / To Review / Done)</td>
+    </tr>
+<!--US01 -->  
+    <tr>
+        <td>US01</td>
+        <td>Crear Wireframe de la Landing Page</td>
+        <td>WI01</td>
+        <td>Definir estructura de la página</td>
+        <td>Definir la estructura y los elementos principales de la landing page, incluyendo la ubicación de los elementos y la jerarquía visual.</td>
+        <td>4</td>
+        <td>Garayar Mori, Oscar Nathaniel</td>
+        <td>Done</td>
+    </tr>
+<!--US02 --> 
+    <tr>
+        <td>US02</td>
+        <td>Desarrollar la Landing Page</td>
+        <td>WI02</td>
+        <td>Implementar el diseño de la página</td>
+        <td>Desarrollar la landing page siguiendo el wireframe definido, incluyendo la estructura HTML y los estilos CSS necesarios.</td>
+        <td>12</td>
+        <td>Hardie Alfonso Holguín Gamarra / Arce Huaman Luis Andres </td>
+        <td>Done</td>
+    </tr>
+<!--US03 --> 
+    <tr>
+        <td>US03</td>
+        <td>Revisar y Ajustar la Landing Page</td>
+        <td>WI03</td>
+        <td>Realizar pruebas y ajustes</td>
+        <td>Revisar la landing page para identificar posibles mejoras y ajustes. Realizar pruebas de usabilidad y correcciones necesarias.</td>
+        <td>6</td>
+        <td>Marzál Pérez, Jamir Ángel </td>
+        <td>Done</td>
+    </tr> 
+<!--US04 -->
+    <tr>
+        <td>US04</td>
+        <td>Desplegar la Landing Page</td>
+        <td>WI04</td>
+        <td>Configurar el despliegue</td>
+        <td>Configurar el despliegue de la landing page en un entorno de producción. Asegurar que la página esté accesible y funcional.</td>
+        <td>8</td>
+        <td>Belahonia Miranda, Fabrisio Andre</td>
+        <td>Done</td>
+    </tr>
+</table>
+
 ### 5.2.1.3. Development Evidence for Sprint Review.
+
+<p>Durante el Sprint #1, se lograron avances significativos en la implementación de los componentes clave del proyecto Re-Grill, centrados principalmente en el desarrollo de la Landing Page. Estos avances se alinean con el objetivo principal del sprint, que es diseñar y desplegar una página web atractiva y funcional para captar la atención de los usuarios y comunicar los beneficios del producto de manera efectiva.</p>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id </td>
+        <td>Commit Message </td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date) </td>
+    </tr>
+    <tr>
+        <td>OscarGarayar/landing-page </td>
+        <td>feature/landing-page</td>
+        <td>557bf8a</td>
+        <td>feat: add links to the head, header, main section, about us section and features section.</td>
+        <td>Add images for landing page, add html file for english page.</td>
+        <td>05/09/2024</td>
+    </tr>
+    <tr>
+        <td>HOLGUINUPC/landing-page </td>
+        <td>main</td>
+        <td>e2a6afe</td>
+        <td>feat: css 50% completed</td>
+        <td>add benefits style, hero style, added logo img nav nav ul styles, added .container adn section style</td>
+        <td>05/09/2024</td>
+    </tr>
+    <tr>
+        <td>devfab17/landing-page </td>
+        <td>main</td>
+        <td>6d41e03</td>
+        <td>feat(styles): added features and footer on styles layer.</td>
+        <td>added mobile responsive config on styles layer,  added tables responsive config on styles layer.</td>
+        <td>05/09/2024</td>
+    </tr>
+    <tr>
+        <td>JamirMarzal/landing-page </td>
+        <td>main</td>
+        <td>f778cda</td>
+        <td>feat(es-page): create spanish page</td>
+        <td>create spanish page</td>
+        <td>05/09/2024</td>
+    </tr>    
+    <tr>
+        <td>AndresArceUPC/landing-page </td>
+        <td>main</td>
+        <td>bdf0608</td>
+        <td>feat:Update index.html</td>
+        <td>report-1</td>
+        <td>05/09/2024</td>
+    </tr>
+      <tr>
+        <td>AnthonyHuapaya/landing-page </td>
+        <td>main</td>
+        <td>6d41e03</td>
+        <td>feat(styles): added features and footer on styles layer.</td>
+        <td>added mobile responsive config on styles layer,  added tables responsive config on styles layer.</td>
+        <td>05/09/2024</td>
+    </tr>
+    <tr><td>https://github.com/Grupo5-AppWeb/LandingPage</td></tr>
+    
+
+</table>
+
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+<p>En esta sección, presentamos las evidencias relacionadas con las pruebas de aceptación automatizadas realizadas para la landing page de Re-Grill, desarrollada en el Sprint 1. A lo largo de este sprint, se lograron los objetivos planteados: planificación, desarrollo y despliegue de la landing page. Las pruebas de aceptación se diseñaron para garantizar que la landing page cumpla con los requisitos y expectativas definidos en los User Stories correspondientes. </p>
+
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id </td>
+        <td>Commit Message </td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date) </td>
+    </tr>
+    <tr>
+        <td>JamirMarzal/landing-page</td>
+        <td>feat/testing</td>
+        <td>ee1b2de</td>
+        <td>feat:add acceptance tests for landing page.</td>
+        <td>acceptance tests based on user stories designed for landing page development</td>
+        <td>31/08/2021</td>
+    </tr>
+</table>
+
 ### 5.2.1.5. Execution Evidence for Sprint Review.
+
+<p>En este Sprint, se logró desarrollar y desplegar exitosamente la landing page para Re-Grill. Se completaron todas las tareas planificadas, incluyendo la creación del wireframe, el desarrollo de la página, su revisión y ajuste, así como el despliegue en el entorno de producción. La landing page refleja fielmente el diseño y la funcionalidad esperados, proporcionando una interfaz atractiva y funcional para los usuarios.  </p>
+<h5>Screenshots de las Principales Vistas Implementadas</h5>
+<p>Se adjuntan capturas de pantalla de las principales vistas de la landing page desarrollada en el Sprint 1, mostrando el diseño y la estructura de la página.</p>
+<h5>Se implementó el Header</h5>
+<p>En esta sección se pueden observar las principales opciones de la página, un call to action y una descripción sobre nuestra compañía y nuestros valores. </p>
+<img src="/images/landing-page-header-img.png" alt="Landing page header img">
+<img src="/images/landing-page-body-img.png" alt="Descripción del producto">
+<h5>Se implementó la sección de features y plans.</h5>
+<p>En estas secciones se describen las principales características que tiene Re-grill, así como los diferentes planes de suscripción ques se ofrece.</p>
+<img src="/images/landing-page-feature-plans-img.png" alt="Features and plans del producto">
+<h5>Se implementó la sección de Benefits y Questions & Answers </h5>
+<p>En esta sección se describen los beneficios de Re-Grill y se resuelven las preguntas más frecuentes que los usuarios puedan tener.</p>
+<img src="/images/landing-page-benefits-q&a-img.png" alt="Benefits and Questions & Answers">
+<h5>Se implementó el footer con la opción de contacto</h5>
+<p>En esta sección se muestra la información de contacto de la empresa, así como un formulario para que los usuarios puedan enviar sus consultas.</p>
+<img src="/images/landing-page-contact-footer-img.png" alt="Footer de la landing page">
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+<p>En este Sprint, el enfoque principal fue el desarrollo y despliegue de la landing page de Re-Grill. No se implementaron Web Services en esta etapa, por lo que no se incluye documentación relacionada con endpoints o servicios web. La implementación y documentación de Web Services será abordada en Sprints futuros, conforme se expanda la funcionalidad del producto.</p>
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+<p>
+    Durante el Sprint 1, nos enfocamos en el despliegue de la landing page de Re-Grill. El objetivo fue asegurar que la página esté accesible para los usuarios finales a través de un entorno de producción confiable. A continuación, se detalla el proceso de despliegue, incluyendo la creación de cuentas necesarias, la configuración de recursos en GitHub Pages, y la automatización de ciertas tareas para facilitar futuros despliegues.
+</p>
+<h5>Creación y Configuración de Repositorio en GitHub</h5>
+        <ul>
+            <li>Se creó un repositorio en GitHub dentro de la organización, donde se alojó el código fuente de la landing page.</li>
+            <li>Se configuró la rama <code>main</code> como la principal para el despliegue, y la rama <code>feat/testing</code> para pruebas de aceptación.</li>
+            <li>Se habilitó GitHub Pages en la rama <code>main</code> para facilitar el despliegue automático de la landing page.</li>
+        </ul>
+<h5>Evidencias Gráficas del Despliegue</h5>
+<p>A continuación, se muestran capturas de pantalla que ilustran el proceso despliegue:</p>
+<img src="/images/landing-page-header-img.png" alt="Header de la landing page">
+<img src="/images/landing-page-body-img.png" alt="Body de la landing page">
+<img src="/images/landing-page-feature-plans-img.png" alt="Features and plans de la landing page">
+<img src="/images/landing-page-benefits-q&a-img.png" alt="Benefits and Questions & Answers de la landing page">
+<img src="/images/landing-page-contact-footer-img.png" alt="Contact Footer de la landing page">
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+<p>
+    Durante el Sprint 1, nos aseguramos de que todas las actividades de implementación fueran realizadas con la colaboración de todos los miembros del equipo. Cada integrante contribuyó a la creación y desarrollo de la landing page de Re-Grill, utilizando diversas herramientas de colaboración. A continuación, se presentan los detalles sobre las actividades del equipo y las evidencias gráficas que reflejan la colaboración y los commits en GitHub.
+</p>
+<table>
+    <tr>
+        <td>Team Member</td>
+        <td>Activity </td>
+    </tr>
+    <tr>
+        <td>Arce Huaman Luis Andres</td>
+        <td>Implementación de las secciones header, implementación de parte del main section en el index.html.</td>
+    </tr>
+    <tr>
+        <td>Marzál Pérez, Jamir Ángel</td>
+        <td>Desarrollo del wireframe, mock up y completar sección del main en el index.html.</td>
+    </tr>
+    <tr>
+        <td>Belahonia Miranda, Fabrisio Andre	</td>
+        <td>Implementación de los estilos para parte del body y containers en el styles.css</td>
+    </tr>
+    <tr>
+        <td>Huapaya Cuevas, Anthony Martin</td>
+        <td>Implementación de los estilos para completar el body y configuración del responsive en el styles.css</td>
+    </tr>
+    <tr>
+        <td>Holguin Gamarra, Hardie Alfonso </td>
+        <td>Implementación del switching de idioma realizando una versión en español del landing page en el index-es.html.</td>
+    </tr>
+     <tr>
+        <td>Garayar Mori, Oscar Nathaniel</td>
+        <td>Implementación de los estilos para parte del body y containers en el styles.css</td>
+    </tr>
+    
+</table>
+
 ### 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 ### 5.3.2. Registro de Entrevistas.
