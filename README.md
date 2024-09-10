@@ -702,21 +702,21 @@ Información Complementaria:
 | ------ | -- |
 | Edad | 26 |
 | Distrito de residencia | Santa Anita |
-<img src="resources/entrevistado-1.jpeg"> | Hardy, administrador de un restaurante, destaca la importancia de la consistencia, calidad, servicio e innovación para el éxito. Utiliza tecnología como un POS, software de gestión de inventarios y plataformas de reservas, aunque se frustra por la falta de integración entre ellas. Es adaptable y mantiene un enfoque analítico, utilizando redes sociales, blogs y ferias para mantenerse al día con las tendencias. Sus principales desafíos incluyen la previsión de demanda, rotación del personal y asegurar la llegada puntual de insumos. Busca automatizar la gestión de reservas, mesas e inventarios, priorizando la rapidez y calidad en el servicio al cliente.|
+<img src="resources/entrevistado-1.png"> | Hardy, administrador de un restaurante, destaca la importancia de la consistencia, calidad, servicio e innovación para el éxito. Utiliza tecnología como un POS, software de gestión de inventarios y plataformas de reservas, aunque se frustra por la falta de integración entre ellas. Es adaptable y mantiene un enfoque analítico, utilizando redes sociales, blogs y ferias para mantenerse al día con las tendencias. Sus principales desafíos incluyen la previsión de demanda, rotación del personal y asegurar la llegada puntual de insumos. Busca automatizar la gestión de reservas, mesas e inventarios, priorizando la rapidez y calidad en el servicio al cliente.|
 | Timing: 0:00 - 5:47   | URL: |
 
 | Entrevistado 2 | Anghelo Basauri |
 | ------ | -- |
 | Edad | 26 |
 | Distrito de residencia | Rimac |
-<img src="resources/entrevistado-2.jpeg"> |El entrevistado, administrador de restaurante, subraya que un software de gestión esencial debe integrar funciones como la gestión de mesas y reservas, control de inventario, seguimiento de ventas, y gestión de pedidos en cocina. También considera crucial la integración con proveedores y capacidades de análisis financiero para automatizar procesos y optimizar operaciones diarias. Prefiere herramientas que faciliten la toma de decisiones mediante reportes detallados y análisis de datos, y busca mejorar la intuitividad del software y la fluidez en la integración con proveedores. Esto refleja su necesidad de un sistema eficiente que simplifique la gestión y mejore la precisión operativa.|
+<img src="resources/entrevistado-2.png"> |El entrevistado, administrador de restaurante, subraya que un software de gestión esencial debe integrar funciones como la gestión de mesas y reservas, control de inventario, seguimiento de ventas, y gestión de pedidos en cocina. También considera crucial la integración con proveedores y capacidades de análisis financiero para automatizar procesos y optimizar operaciones diarias. Prefiere herramientas que faciliten la toma de decisiones mediante reportes detallados y análisis de datos, y busca mejorar la intuitividad del software y la fluidez en la integración con proveedores. Esto refleja su necesidad de un sistema eficiente que simplifique la gestión y mejore la precisión operativa.|
 | Timing: 5:47 - 10:09  | URL: |
 
 | Entrevistado 3 | Luis Osorio alza |
 | ------ | -- |
 | Edad | 23 |
 | Distrito de residencia | Surco |
-<img src="resources/entrevistado-3.jpeg"> | Luis Fernando, de 22 años, es estudiante de ingeniería con seis meses de experiencia en cocina. Es responsable, organizado y enfocado en la eficiencia operativa, destacando en la gestión de inventario y reutilización de insumos. Utiliza Excel para controlar reservas, reflejando un uso básico de tecnología. Su trabajo implica interacciones presenciales y telefónicas con clientes y proveedores. Busca optimizar procesos en la cocina, pero se frustra con la imprevisibilidad de la demanda de clientes y la falta de información precisa de proveedores. Su experiencia práctica le ha permitido desarrollar habilidades clave para enfrentar desafíos en la industria alimentaria. |
+<img src="resources/entrevistado-3.png"> | Luis Fernando, de 22 años, es estudiante de ingeniería con seis meses de experiencia en cocina. Es responsable, organizado y enfocado en la eficiencia operativa, destacando en la gestión de inventario y reutilización de insumos. Utiliza Excel para controlar reservas, reflejando un uso básico de tecnología. Su trabajo implica interacciones presenciales y telefónicas con clientes y proveedores. Busca optimizar procesos en la cocina, pero se frustra con la imprevisibilidad de la demanda de clientes y la falta de información precisa de proveedores. Su experiencia práctica le ha permitido desarrollar habilidades clave para enfrentar desafíos en la industria alimentaria. |
 | Timing: 10:09 - 24:33  | URL: |
 
 **Sección provedores**
@@ -727,21 +727,21 @@ Información Complementaria:
 | ------ | -- |
 | Edad | |
 | Distrito de residencia |  |
-<img src="resources/entrevistado-4-eliana.jpeg"> | Eliana Rodríguez es proveedora de alimentos, principalmente verduras, para restaurantes, un negocio que inició durante la pandemia. Utiliza WhatsApp para coordinar pedidos y destaca por su puntualidad, la frescura de sus productos y la honestidad en el peso de sus entregas. A pesar de esto, enfrenta dificultades con el tráfico y siente que WhatsApp tiene limitaciones, especialmente en la gestión de pagos. Le gustaría una aplicación más avanzada que le permita gestionar pedidos de manera más eficiente, con listas fijas y sin restricciones en los montos de pago, facilitando su trabajo y mejorando la relación con sus clientes.|
+<img src="resources/entrevistado-4-eliana.png"> | Eliana Rodríguez es proveedora de alimentos, principalmente verduras, para restaurantes, un negocio que inició durante la pandemia. Utiliza WhatsApp para coordinar pedidos y destaca por su puntualidad, la frescura de sus productos y la honestidad en el peso de sus entregas. A pesar de esto, enfrenta dificultades con el tráfico y siente que WhatsApp tiene limitaciones, especialmente en la gestión de pagos. Le gustaría una aplicación más avanzada que le permita gestionar pedidos de manera más eficiente, con listas fijas y sin restricciones en los montos de pago, facilitando su trabajo y mejorando la relación con sus clientes.|
 | Timing: 24:33 - 35:14  | URL: |
 
 | Entrevistado 5 | Bruno Minaya  |
 | ------ | -- |
 | Edad | 28 |
 | Distrito de residencia | Surquillo  |
-<img src="resources/entrevistado-5.jpeg"> | El entrevistado, de 29 años y soltero, reside en San Isidro, Lima. Es importador de comestibles para restaurantes, motivado por su pasión por la gastronomía desde joven. Se describe como empático y responsable, destacando su habilidad para generar confianza. Utiliza principalmente su celular y canales digitales como WhatsApp, Telegram y Zoom para su trabajo. Su principal objetivo es ampliar su cobertura de mercado y adaptarse a nuevos sistemas. Enfrenta frustraciones con la comunicación constante y la gestión de cambios en la demanda. Usa encuestas para medir la satisfacción del cliente y busca mejorar la gestión con aplicaciones más específicas.|
+<img src="resources/entrevistado-5.png"> | El entrevistado, de 29 años y soltero, reside en San Isidro, Lima. Es importador de comestibles para restaurantes, motivado por su pasión por la gastronomía desde joven. Se describe como empático y responsable, destacando su habilidad para generar confianza. Utiliza principalmente su celular y canales digitales como WhatsApp, Telegram y Zoom para su trabajo. Su principal objetivo es ampliar su cobertura de mercado y adaptarse a nuevos sistemas. Enfrenta frustraciones con la comunicación constante y la gestión de cambios en la demanda. Usa encuestas para medir la satisfacción del cliente y busca mejorar la gestión con aplicaciones más específicas.|
 | Timing: 35:14 - 44:04  | URL: |
 
 | Entrevistado 6 | Elizabeth Huanaco   |
 | ------ | -- |
 | Edad | 19 |
 | Distrito de residencia | San Juan de Lurigancho |
-<img src="resources/entrevistado-6.jpeg"> | Elis Deaco es proveedora de insumos para restaurantes y ayuda en el negocio familiar. Se caracteriza por ser organizada, responsable y hábil en negociación. Utiliza Notion para gestionar pedidos y WhatsApp para comunicarse con los clientes, prefiriendo su laptop y celular. Influenciada por marcas como Gloria y Nestlé, busca expandir su red de clientes y equilibrar su vida laboral y estudiantil. Sus frustraciones incluyen problemas de comunicación y coordinación de pedidos, así como la gestión del inventario. Desea una plataforma digital intuitiva para mejorar el seguimiento de pedidos, gestionar promociones y mantener un inventario flexible.|
+<img src="resources/entrevistado-6.png"> | Elis Deaco es proveedora de insumos para restaurantes y ayuda en el negocio familiar. Se caracteriza por ser organizada, responsable y hábil en negociación. Utiliza Notion para gestionar pedidos y WhatsApp para comunicarse con los clientes, prefiriendo su laptop y celular. Influenciada por marcas como Gloria y Nestlé, busca expandir su red de clientes y equilibrar su vida laboral y estudiantil. Sus frustraciones incluyen problemas de comunicación y coordinación de pedidos, así como la gestión del inventario. Desea una plataforma digital intuitiva para mejorar el seguimiento de pedidos, gestionar promociones y mantener un inventario flexible.|
 | Timing: 44:04 - 52:19  | URL: |
 
 
@@ -958,8 +958,8 @@ Cantidad de veces que una mesa es utilizada por diferentes clientes durante un p
 # Capítulo III: Requirements Specification <a name ="cap3">
 ## 3.1. To-Be Scenario Mapping. <a name ="3.1.">
 
-<tr><img src="resources\integrantes\adminimp.jpeg" /><tr>
-<tr><img src="resources\proimp.jpeg" /><tr>
+<tr><img src="resources\integrantes\adminimp.png" /><tr>
+<tr><img src="resources\proimp.png" /><tr>
 
 ## 3.2. User Stories. <a name ="3.2.">
 | Epic / Story ID 	    | Título 	                                        | Descripción 	                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Criterios de Aceptación 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Relacionado con Epic ID 	 |
@@ -1033,8 +1033,8 @@ Cantidad de veces que una mesa es utilizada por diferentes clientes durante un p
 ## 3.3. Impact Mapping. <a name ="3.3.">
 
 
-<tr><img src="resources\imp1.jpeg" /><tr>
-<tr><img src="resources\imp2.jpeg" /><tr>
+<tr><img src="resources\imp1.png" /><tr>
+<tr><img src="resources\imp2.png" /><tr>
 
 ## 3.4. Product Backlog. <a name ="3.4.">
 
@@ -1229,7 +1229,7 @@ Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyec
 ## 4.7. Software Object-Oriented Design. <a name ="4.7.">
 ### 4.7.1. Class Diagrams. <a name ="4.7.1.">
 
-<tr><img src="resources\dc.jpeg" /><tr>
+<tr><img src="resources\dc.png" /><tr>
 
 ### 4.7.2. Class Dictionary. <a name ="4.7.2.">
 
@@ -1650,16 +1650,18 @@ siguientes:
 <p>Se adjuntan capturas de pantalla de las principales vistas de la landing page desarrollada en el Sprint 1, mostrando el diseño y la estructura de la página.</p>
 <h5>Se implementó el Header</h5>
 <p>En esta sección se pueden observar las principales opciones de la página, un call to action y una descripción sobre nuestra compañía y nuestros valores. </p>
-<img src="/resources/hea.jpeg" alt="Landing page header img">
+<img src="resources\hea.png" />
+
+
 <h5>Se implementó la sección de features y plans.</h5>
 <p>En estas secciones se describen las principales características que tiene Re-grill, así como los diferentes planes de suscripción ques se ofrece.</p>
-<img src="/resources/pla.jpeg" alt="Features and plans del producto">
+<img src="resources\pla.png">
 <h5>Se implementó la sección de Benefits y Questions & Answers </h5>
 <p>En esta sección se describen los beneficios de Re-Grill y se resuelven las preguntas más frecuentes que los usuarios puedan tener.</p>
-<img src="/resources/Q.jpeg" alt="Benefits and Questions & Answers">
+<img src="resources\Q.png" alt="Benefits and Questions & Answers">
 <h5>Se implementó el footer con la opción de contacto</h5>
 <p>En esta sección se muestra la información de contacto de la empresa, así como un formulario para que los usuarios puedan enviar sus consultas.</p>
-<img src="/resources/FO.jpeg" alt="Footer de la landing page">
+<img src="resources\FO.png" alt="Footer de la landing page">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -1678,10 +1680,10 @@ siguientes:
         </ul>
 <h5>Evidencias Gráficas del Despliegue</h5>
 <p>A continuación, se muestran capturas de pantalla que ilustran el proceso despliegue:</p>
-<img src="/resources/hea.jpeg" alt="Header de la landing page">
-<img src="/resources/pla.jpeg" alt="Body de la landing page">
-<img src="/resources/Q.jpeg" alt="Benefits and Questions & Answers de la landing page">
-<img src="/resources/FO.jpeg" alt="Contact Footer de la landing page">
+<img src="resources\hea.png" alt="Header de la landing page">
+<img src="resources\pla.png" alt="Body de la landing page">
+<img src="resources\Q.png" alt="Benefits and Questions & Answers de la landing page">
+<img src="resources\FO.png" alt="Contact Footer de la landing page">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint. <a name ="5.2.1.8.">
 
