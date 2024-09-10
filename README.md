@@ -1164,7 +1164,8 @@ Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Styl
 Después de haber trabajado con los wireframes previamente diseñados, se procedió a aplicar los Style Guidelines para definir la paleta de colores a utilizar. Se puede observar que estos colores presentan un contraste llamativo en cada sección de la landing page, lo que contribuye a destacar visualmente los distintos elementos y mejorar la legibilidad y la estética general del diseño.
 
 <img src="./resources/mockup/mockup.png" alt="mockup"/>
-**Enlace para ver el Figma:**
+
+#### Enlace para ver el Figma:
 [Link Figma](https://www.figma.com/design/wFyfD3jahh7mqHvwN2Vgst/Landing-Page-Wireframe-re-gril?node-id=0-1&t=Y6wxyMupDN9tDuuE-1)
 
 ## 4.4. Web Applications UX/UI Design. <a name ="4.4.">
