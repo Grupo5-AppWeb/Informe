@@ -174,27 +174,27 @@ RestauMaster es una startup que busca transformar la manera en que los restauran
 
 | **Oscar Nathaniel Garayar Mori - U202014115**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
-| Mi nombre es Oscar Garayar, estudiante de Ing. de software. Voy cursando el 6to ciclo de mi carrera, y me considero alguien responsable que, a pesar de las complicaciones, encontrará una forma de seguir adelante. Tengo experiencia con los lenguajes C++, Python y Java. | ![Foto de Oscar](https://github.com/Grupo5-AppWeb/Informe/blob/main/resources/integrantes/Oscar.jpg "Foto de Oscar") |
+| Mi nombre es Oscar Garayar, estudiante de Ing. de software. Voy cursando el 6to ciclo de mi carrera, y me considero alguien responsable que, a pesar de las complicaciones, encontrará una forma de seguir adelante. Tengo experiencia con los lenguajes C++, Python y Java. | ![Foto de Oscar](resources\integrantes\Oscar.jpg "Foto de Oscar") |
 
 | **Luis Andres Arce Huaman - U20201A300**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
-|Mi nombre es Luis Arce, soy estudiante de la carrera de Ing de Software cursando mi 6to ciclo de mi carrera , me gusta el arte la danza y la tecnologia. He estudiado diversos lenguajes de programación en el transcurso de mi carrera y por mi mismo. Soy una persona confiable y muy tolerante. | ![Foto de Luis](https://github.com/Grupo5-AppWeb/Informe/blob/main/resources/integrantes/Luis.png "Foto de Luis") |
+|Mi nombre es Luis Arce, soy estudiante de la carrera de Ing de Software cursando mi 6to ciclo de mi carrera , me gusta el arte la danza y la tecnologia. He estudiado diversos lenguajes de programación en el transcurso de mi carrera y por mi mismo. Soy una persona confiable y muy tolerante. | ![Foto de Luis](resources\integrantes\Luis.png "Foto de Luis") |
 
 | **Jamir Ángel Marzál Pérez - U201824409**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
-|Me llamo Jamir, soy estudiante de la carrera de Ingeniería de Software. Mis principales cualidades son el trabajo en equipo, la escucha activa, ética, creatividad, eficacia y responsabilidad. Tengo conocimientos en lenguajes de  programación C++, C# y Python | ![Foto de Jamir](https://github.com/Grupo5-AppWeb/Informe/blob/main/resources/integrantes/Jamir.jpg "Foto de Jamir") |
+|Me llamo Jamir, soy estudiante de la carrera de Ingeniería de Software. Mis principales cualidades son el trabajo en equipo, la escucha activa, ética, creatividad, eficacia y responsabilidad. Tengo conocimientos en lenguajes de  programación C++, C# y Python | ![Foto de Jamir](resources\integrantes\Jamir.jpg "Foto de Jamir") |
 
 | **Fabrisio Andre Belahonia Miranda - U202220219**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
-| Mi nombre es Fabrisio Belahonia, estudiante de Ing. de software. Voy cursando el 5to ciclo de mi carrera, y me considero una persona responsable, ordenado, empático. Me interesa el área de Ciberseguridad y tengo experiencia con Linux, Redes, Cloud, etc.| ![Foto de Fabrisio](https://github.com/Grupo5-AppWeb/Informe/blob/main/resources/integrantes/Fabrisio.jpg "Foto de Fabrisio") |
+| Mi nombre es Fabrisio Belahonia, estudiante de Ing. de software. Voy cursando el 5to ciclo de mi carrera, y me considero una persona responsable, ordenado, empático. Me interesa el área de Ciberseguridad y tengo experiencia con Linux, Redes, Cloud, etc.| ![Foto de Fabrisio](resources\integrantes\Fabrisio.jpg "Foto de Fabrisio") |
 
 | **Anthony Martin Huapaya Cuevas - U202220235**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
-| Mi nombre es Anthony Huapaya, soy estudiante de Ing. De Software y voy cursando el 5to ciclo. Me considero alguien que se adapta a la situación que se presenta, tengo buena comunicación con los integrantes del grupo. Mi experiencia con los lenguajes son C++ y un poco de Python.| ![Foto de Anthony](https://github.com/Grupo5-AppWeb/Informe/blob/main/resources/integrantes/Anthony.jpg "Foto de Anthony") |
+| Mi nombre es Anthony Huapaya, soy estudiante de Ing. De Software y voy cursando el 5to ciclo. Me considero alguien que se adapta a la situación que se presenta, tengo buena comunicación con los integrantes del grupo. Mi experiencia con los lenguajes son C++ y un poco de Python.| ![Foto de Anthony](resources\integrantes\Anthony.jpg "Foto de Anthony") |
 
 | **Hardie Alfonso Holguin Gamarra - U202220250**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
-| Soy Hardie Holguín, Estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona disciplinada y organizada. En mi tiempo libre me gusta entrenar en el gimnasio y jugar futbol.| ![Foto de Hardie](https://github.com/Grupo5-AppWeb/Informe/blob/main/resources/integrantes/Hardie.jpg "Foto de Hardie") |
+| Soy Hardie Holguín, Estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona disciplinada y organizada. En mi tiempo libre me gusta entrenar en el gimnasio y jugar futbol.| ![Foto de Hardie](resources\integrantes\Hardie.jpg "Foto de Hardie") |
 
 
 ## 1.2. Solution Profile <a name ="1.2.">
