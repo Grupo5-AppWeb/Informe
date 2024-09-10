@@ -64,52 +64,15 @@
 | 5.0 | 31/09/2024 | Re-GRILL |Desarrollo del Capitulo IV: Product Design|
 
 
+### Student Outcome
 
 
-<h4 id="student-outcome"> Student Outcome</h4>
-Criterio: Demuestra capacidad de comunicarse efectivamente con un rango de audiencias
-<p>En el siguiente cuadro se describe las acciones realizadas y enunciados de 
-conclusiones cual por parte del grupo, que permiten sustentar el haber 
-alcanzado el logro del ABET – EAC - Student Outcome 3.</p>
+**ABET – EAC - Student Outcome 3:** Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-
-<table><thead>
-  <tr>
-    <th>Criterio específico</th>
-    <th>Acciones realizadas</th>
-    <th>Conclusiones</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>Demuestra capacidad de comunicarse efectivamente con un rango de audiencias</td>
-    <td><b> Huapaya Cuevas, Anthony Martin	</b><br>
-TB1: En este caso yo realize todo el capitulo numero 5 , el cual incluye Software Configuration Management, Landing Page, Services & Applications Implementation y Validation Interviews.
-
-<br><b> Belahonia Miranda, Fabrisio Andre</b>   <br>
-TB1: Para esta entrega yo realize el punto 4, el cual incluye Product design,Styles guidelines,Information architecture,Landing page and  UI design
-
-<br><b> Hardie Alfonso Holguín Gamarra</b><br>
-TB1: Yo me encargue de el capitulo 3 , el cual incluye Requirements Specification, To-Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog.
-
-<br><b> Marzál Pérez, Jamir Ángel</b> <br>
-TB1: En esta entrega , se implemento todo el capitulo 1 , en este caso el startup profile , el solution profile , los antecedentes y problematica y todos los puntos del Lean UX Process.
-
-<br><br><b> Arce Huaman Luis Andresl</b>
-TB1: Yo realize todo el capitulo 2 para esta entrega , incluyendo los competidores , las entrevistas , el needfinding y el ubiquitous language.
-
-
-<br><br><b> Garayar Mori, Oscar Nathaniel</b>
-TB1: Yo realize todo el capitulo 1 para esta entrega , incluyendo los competidores , las entrevistas , el needfinding y el ubiquitous language.
-
-</td>
-    <td>Se lograron los objetivos establecidos<br>gracias a la constante comunicación y<br>organización de<br>nuestro equipo para la correcta elaboración e<br>implementación del presente proyecto</td>
-  </tr>
-  <tr>
-  </tr>
-</tbody>
-</table>
-
-
+|Criterio Especifico|Acciones Realizadas|Conclusiones|
+|-|-|-|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Nombre: <br> TB1: <br>|
+| Comunica por escrito con efectividad a diferentes rangos de audiencia.|Nombre: <br> TB1: <br>|
 
 # Contenido
 
