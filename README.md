@@ -4,115 +4,150 @@
 
 ## Aplicaciones Web - SW52
 
+<p align="center" id="caratula">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"><br>
+    <strong>Ingeniería de Software</strong><br>
+    <strong>SI729 Aplicaciones Open Source | SECCIÓN SW51</strong><br>
+    <strong>Profesor: Mori Paiva, Hugo Allan</strong><br>
+    <br>INFORME DE TRABAJO FINAL
+</p>
+
+<p align="center">
+    <strong>Startup: LearnE</strong><br>
+    <strong>Producto: LearnE</strong>
+</p>
+<div>
+    <h3 align="center">Integrantes:</h3>
+</div>
+
+<div align="center">
+     <table>
+        <tr>
+            <th style="text-align:center;">Integrante</th>
+            <th style="text-align:center;">Código</th>
+        </tr>
+        <tr>
+            <td>Orrego Noriega, Jorge David</td>
+            <td>u201921734</td>
+        </tr>
+        <tr>
+            <td>Huanaco Huayta, Elizabeth Lucero </td>
+            <td>u20211g522</td>
+        </tr>
+        <tr>
+            <td>Guía Carrasco, Pedro Andre </td>
+            <td>U202212010</td>
+        </tr>
+        <tr>
+            <td>Huapaya Cuevas, Anthony Martin</td>
+            <td>U202220235</td>
+        </tr>
+        <tr>
+            <td>Fabrisio Belahonia Miranda</td>
+            <td>U202220219</td>
+        </tr>
+    </table>
+</div>
+
+<p align="center">
+    <strong>Setiembre 2024</strong>
+</p>
+
+
 ### Integrantes:
 - Holguin Gamarra, Hardie Alfonso - U202220250
 - Huapaya Cuevas, Anthony Martin - U202220235
-- Belahonia Miranda, Fabrisio Andre - U202220219
+- Belahonia Miranda, Fabrisio Andre - U202220219 
 - Marzál Pérez, Jamir Ángel - U201824409
 - Arce Huaman Luis Andres - U20201A300
 - Garayar Mori, Oscar Nathaniel - U202014115
 
 
 
-### Tabla de Contenidos
+# Contenido
 
-- [Universidad Peruana de Ciencias Aplicadas - Informe de Trabajo Final](#universidad-peruana-de-ciencias-aplicadas---informe-de-trabajo-final)
-- [Aplicaciones Web - SW52](#aplicaciones-web---sw52)
-  - [Integrantes:](#integrantes)
-  - [Tabla de Contenidos](#tabla-de-contenidos)
-  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-  - [Student Outcome](#student-outcome)
-- [Capítulo I: Introducción](#capítulo-i-introducción)
-  - [1.1. Startup Profile](#11-startup-profile)
-  - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-    - [RE-GRILL: Simplificando la Operación de Restaurantes](#RE-GRILL-simplificando-la-operación-de-restaurantes)
-  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2. Solution Profile](#12-solution-profile)
-  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-      - [What](#what)
-      - [Who](#who)
-      - [Where](#where)
-        - [When](#when)
-      - [Why](#why)
-      - [How](#how)
-      - [How Much](#how-much)
-  - [1.2.2 Lean UX Process.](#122-lean-ux-process)
-  - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
-  - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
-  - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
-  - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
-  - [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  - [2.1. Competidores.](#21-competidores)
-  - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
-  - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas.](#22-entrevistas)
-  - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
-  - [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
-  - [2.2.3. Análisis de entrevistas.](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding.](#23-needfinding)
-  - [2.3.1. User Personas.](#231-user-personas)
-  - [2.3.2. User Task Matrix.](#232-user-task-matrix)
-  - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
-  - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
-  - [2.3.5. As-is Scenario Mapping.](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
-  - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
-  - [3.2. User Stories.](#32-user-stories)
-  - [3.3. Impact Mapping.](#33-impact-mapping)
-  - [3.4. Product Backlog.](#34-product-backlog)
-- [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [4.1. Style Guidelines.](#41-style-guidelines)
-  - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
-  - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
-  - [**4.2 Information Architecture**](#42-information-architecture)
-  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
-  - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
-  - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
-  - [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)
-  - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
-  - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
-  - [4.4.2. Web Applications Mock-ups.](#442-web-applications-mock-ups)
-  - [4.4.3. Web Applications User Flow Diagrams.](#443-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
-  - [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
-  - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
-  - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
-  - [4.7.1. Class Diagrams.](#471-class-diagrams)
-  - [4.7.2. Class Dictionary.](#472-class-dictionary)
-  - [4.8. Database Design.](#48-database-design)
-  - [4.8.1. Database Diagram.](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
-  - [5.1. Software Configuration Management.](#51-software-configuration-management)
-  - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
-  - [5.1.2. Source Code Management.](#512-source-code-management)
-  - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
-  - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
-  - [5.2.1. Sprint n](#521-sprint-n)
-  - [5.2.1.1. Sprint Planning n.](#5211-sprint-planning-n)
-  - [5.2.1.2. Sprint Backlog n.](#5212-sprint-backlog-n)
-  - [5.2.1.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
-  - [5.2.1.4. Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
-  - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
-  - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
-  - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
-  - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews.](#53-validation-interviews)
-  - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
-  - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
-  - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product.](#54-video-about-the-product)
-  - [](#)
-  - [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team.](#video-about-the-team)
-  - [Bibliografía](#bibliografía)
-  - [Anexos](#anexos)
+1. [Capítulo I: Introducción](#cap1)<br>
+   1.1. [Startup Profile](#1.1.)<br>
+      1.1.1. [Descripción del startup](#1.1.1.)<br>
+      1.1.2. [Perfiles de los integrantes del equipo](#1.1.2.)<br>
+   1.2. [Solution Profile](#1.2.)<br>
+      1.2.1. [Antecedentes y Problemática](#1.2.1.)<br>
+      1.2.2. [Lean UX Process](#1.2.2.)<br>
+        1.2.2.1. [Lean UX Problem Statements](#1.2.2.1.)<br>
+        1.2.2.2. [Lean UX Assumptions](#1.2.2.2.)<br>
+        1.2.2.3. [Lean UX Hypothesis Statements](#1.2.2.3.)<br>
+        1.2.2.4. [Lean UX Canvas](#1.2.2.4.)<br>
+   1.3. [Segmentos objetivo](#1.3.)<br>
+2. [Capítulo II: Requirements Elicitation & Analysis](#cap2)<br>
+   2.1. [Competidores](#2.1.)<br>
+      2.1.1. [Análisis competitivo](#2.1.1.)<br>
+      2.1.2. [Estrategias y tácticas frente a competidores](#2.1.2.)<br>
+   2.2. [Entrevistas](#2.2.)<br>
+      2.2.1. [Diseño de entrevistas](#2.2.1.)<br>
+      2.2.2. [Registro de entrevistas](#2.2.2.)<br>
+      2.2.3. [Análisis de entrevistas](#2.2.3.)<br>
+   2.3. [Needfinding](#2.3.)<br>
+      2.3.1. [User Personas](#2.3.1.)<br>
+      2.3.2. [User Task Matrix](#2.3.2.)<br>
+      2.3.3. [User Journey Mapping](#2.3.3.)<br>
+      2.3.4. [Empathy Mapping](#2.3.4.)<br>
+      2.3.5. [As-is Scenario Mapping](#2.3.5.)<br>
+   2.4. [Ubiquitous Language](#2.4.) <br>
+3. [Capítulo III: Requirements Specification](#cap3)<br>
+   3.1. [To-Be Scenario Mapping](#3.1.)<br>
+   3.2. [User Stories](#3.2.)<br>
+   3.3. [Impact Mapping](#3.3.)<br>
+   3.4. [Product Backlog](#3.4.)<br>
+4. [Capítulo IV: Product Design](#cap4)<br>
+   4.1. [Style Guidelines](#4.1.)<br>
+      4.1.1. [General Style Guidelines](#4.1.1.)<br>
+      4.1.2. [Web Style Guidelines](#4.1.2.)<br>
+   4.2. [Information Architecture](#4.2.)<br>
+      4.2.1. [Organization Systems](#4.2.1.)<br>
+      4.2.2. [Labeling Systems](#4.2.2.)<br>
+      4.2.3. [SEO Tags and Meta Tags](#4.2.3.)<br>
+      4.2.4. [Searching Systems](#4.2.4.)<br>
+      4.2.5. [Navigation Systems](#4.2.5.)<br>
+   4.3. [Landing Page UI Design](#4.3.)<br>
+      4.3.1. [Landing Page Wireframe](#4.3.1.)<br>
+      4.3.2. [Landing Page Mock-up](#4.3.2.)<br>
+   4.4. [Web Applications UX/UI Design](#4.4.)<br>
+      4.4.1. [Web Applications Wireframes](#4.4.1.)<br>
+      4.4.2. [Web Applications Wireflow Diagrams](#4.4.2.)<br>
+      4.4.3. [Web Applications Mock-ups](#4.4.3.)<br>
+      4.4.4. [Web Applications User Flow Diagrams](#4.4.4.)<br>
+   4.5. [Web Applications Prototyping](#4.5.)<br>
+   4.6. [Domain-Driven Software Architecture](#4.6.)<br>
+      4.6.1. [Software Architecture Context Diagram](#4.6.1.)<br>
+      4.6.2. [Software Architecture Container Diagrams](#4.6.2.)<br>
+      4.6.3. [Software Architecture Components Diagrams](#4.6.3.)<br>
+   4.7. [Software Object-Oriented Design](#4.7.)<br>
+      4.7.1. [Class Diagrams](#4.7.1.)<br>
+      4.7.2. [Class Dictionary](#4.7.2.)<br>
+   4.8. [Database Design](#4.8.)<br>
+      4.8.1. [Database Diagram](#4.8.1.)<br>
+5. [Capítulo V: Product Implementation, Validation & Deployment](#cap5)<br>
+   5.1. [Software Configuration Management](#5.1.)<br>
+      5.1.1. [Software Development Environment Configuration](#5.1.1.)<br>
+      5.1.2. [Source Code Management](#5.1.2.)<br>
+      5.1.3. [Source Code Style Guide & Conventions](#5.1.3.)<br>
+      5.1.4. [Software Deployment Configuration](#5.1.4.)<br>
+   5.2. [Landing Page, Services & Applications Implementation](#5.2.)<br>
+      5.2.1. [Sprint 1](#5.2.1.)<br>
+         5.2.1.1. [Sprint Planning 1](#5.2.1.1.)<br>
+         5.2.1.2. [Sprint Backlog 1](#5.2.1.2.)<br>
+         5.2.1.3. [Development Evidence for Sprint Review](#5.2.1.3.)<br>
+         5.2.1.4. [Testing Suite Evidence for Sprint Review](#5.2.1.4.)<br>
+         5.2.1.5. [Execution Evidence for Sprint Review](#5.2.1.5.)<br>
+         5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
+         5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
+         5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
+6. [Conclusiones](#conclusiones)<br>
+7. [Bibliografía](#bibliografía)<br>
+8. [Anexos](#anexos) <br>
 
+   
 
 
 
@@ -124,18 +159,18 @@
 
 
 
-## Capítulo I: Introducción
+# Capítulo I: Introducción <a name ="cap1">
 
 
-### 1.1. Startup Profile
+## 1.1. Startup Profile <a name ="1.1.">
 
-### 1.1.1. Descripción de la Startup
+### 1.1.1. Descripción de la Startup <a name ="1.1.1.">
 
 #### RestauMaster: Simplificando la Operación de Restaurantes
 
 RestauMaster es una startup que busca transformar la manera en que los restaurantes gestionan sus operaciones diarias. Nos especializamos en ofrecer una plataforma integral que conecta todas las áreas clave de un restaurante, desde la gestión de mesas y reservas hasta la administración de cocina, ventas, y stock. Nuestro objetivo es automatizar y optimizar procesos operativos para mejorar la eficiencia y la experiencia del cliente. En RE-GRILL, estamos comprometidos con la innovación en la industria gastronómica, proporcionando herramientas que facilitan la operación diaria, reducen costos y elevan los estándares de servicio en los restaurantes del siglo XXI.
 
-### 1.1.2. Perfiles de integrantes del equipo
+#### 1.1.2. Perfiles de integrantes del equipo <a name ="1.1.2.">
 
 | **Oscar Nathaniel Garayar Mori - U202014115**                       | **Foto**                             |
 |---------------------------------------------------------------------|--------------------------------------|
@@ -162,13 +197,13 @@ RestauMaster es una startup que busca transformar la manera en que los restauran
 | Soy Hardie Holguín, Estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona disciplinada y organizada. En mi tiempo libre me gusta entrenar en el gimnasio y jugar futbol.| ![Foto de Hardie](https://github.com/Grupo5-AppWeb/Informe/blob/main/resources/integrantes/Hardie.jpg "Foto de Hardie") |
 
 
-### 1.2. Solution Profile
+## 1.2. Solution Profile <a name ="1.2.">
 
 En el competitivo mundo de la gastronomía, la gestión eficiente de las operaciones se ha convertido en un pilar fundamental para asegurar un servicio de alta calidad y una experiencia excepcional para los clientes. Sin embargo, los métodos tradicionales de administración de restaurantes, desde la gestión de mesas y reservas hasta el control de inventarios y la coordinación con proveedores, pueden ser complejos, lentos y propensos a errores. Esta realidad ha generado una necesidad urgente de encontrar soluciones innovadoras que permitan a los restaurantes optimizar estos procesos críticos de manera más eficiente y efectiva.
 
 En este contexto, surge una nueva era en la gestión de restaurantes, donde la tecnología y la inteligencia operativa se combinan para ofrecer soluciones integrales, ágiles y precisas. La búsqueda de métodos más inteligentes para coordinar la operación de los restaurantes se ha convertido en una prioridad para los profesionales que buscan maximizar la eficiencia, reducir costos y mejorar la experiencia del cliente. RE-GRILL se posiciona a la vanguardia de esta transformación, proporcionando herramientas tecnológicas que simplifican la gestión diaria y permiten a los restaurantes enfocarse en lo más importante: brindar una experiencia gastronómica inolvidable.
 
-### 1.2.1 Antecedentes y problemática
+### 1.2.1 Antecedentes y problemática <a name ="1.2.1.">
 
 ##### What
 
@@ -205,11 +240,11 @@ En este contexto, surge una nueva era en la gestión de restaurantes, donde la t
 - En un día, un restaurante puede perder ingresos significativos debido a la ineficiencia en la gestión de reservas, pedidos y stock. Con "RE-GRILL", estas pérdidas pueden reducirse en un 50%.
 - En términos de pérdida de ingresos y eficiencia operativa, un restaurante sin automatización adecuada podría estar perdiendo el equivalente a miles de soles mensuales debido a errores en la gestión y desperdicio de recursos. Con "RE-GRILL", se pueden minimizar estos retrasos y optimizar el uso de recursos en todas las áreas del restaurante.
 
-### 1.2.2 Lean UX Process.
-### 1.2.2.1. Lean UX Problem Statements.
+### 1.2.2 Lean UX Process. <a name ="1.2.2.">
+#### 1.2.2.1. Lean UX Problem Statements. <a name ="1.2.2.1.">
 - Hemos detectado problemas al momento de gestionar los recursos que se tienen en un restaurante, donde hay problemas con respecto a las cantidades que se tienen en el momento y las mermas que se hacen.
 - Se detectaron problemas al momento de contactarse con los proveedores para reponer los productos que están a punto de agotarse el stock para su pronta preparación de las comidas.
-### 1.2.2.2. Lean UX Assumptions.
+#### 1.2.2.2. Lean UX Assumptions. <a name ="1.2.2.2.">
 **Assumptions Worksheet**<br>
 **¿Quién es el usuario?**
 - La parte administrativa de un restaurante
@@ -302,7 +337,7 @@ En este contexto, surge una nueva era en la gestión de restaurantes, donde la t
   - Podrá ser que las estrategias de marketing que se usa podrán ayudar a obtener más compañías que le darán uso de la aplicación. En caso se muestre el contrario, podría afectar de manera negativa la inversión del negocio.
   - Las ventas de las suscripciones para obtener más funciones que les será muy útil para mejorar su experiencia con la página. Si se prueba que es falso, afectaría de manera directa con la generación de ingresos y sostenibilidad del negocio.
 
-### 1.2.2.3. Lean UX Hypothesis Statements.
+#### 1.2.2.3. Lean UX Hypothesis Statements. <a name ="1.2.2.4.">
 **Hypothesis 1:**
 
 Creemos que al tener suscripciones de pago ayudará a que los usuarios puedan obtener algunas herramientas de manera exclusiva que los regulares, además de ayudarnos a evaluar sobre el interés que existe sobre su uso.
@@ -321,7 +356,7 @@ Creemos que al implementar un sistema que ayuda a los proveedores vender sus pro
 Sabremos que hemos tenido éxito
 Cuando aumenta más las cantidades de proveedores que venden a distintos restaurantes por los productos que necesitan estos.
 
-### 1.2.2.4. Lean UX Canvas.
+#### 1.2.2.4. Lean UX Canvas. <a name ="1.2.2.4.">
 <table border="1" style="text-align: left;">  
   <tr>
     <th style="text-align: center;">Business Problem</th>
@@ -397,7 +432,7 @@ Cuando aumenta más las cantidades de proveedores que venden a distintos restaur
   </tr>
 </table>
 
-### 1.3. Segmentos objetivo.
+## 1.3. Segmentos objetivo. <a name ="1.3.">
 - **Segmento objetivo 1:** Administradores de restaurantes<br>
   **Geografía:** Perú<br>
   **Demografía:** Entre 20 a 35 años con experiencia en administración
@@ -405,8 +440,8 @@ Cuando aumenta más las cantidades de proveedores que venden a distintos restaur
   **Geografía:** Perú<br>
   **Demografía:** Entre 20 a 40 años, vendedores de alimentos
 
-## Capítulo II: Requirements Elicitation & Analysis
-### 2.1. Competidores.
+# Capítulo II: Requirements Elicitation & Analysis <a name ="cap2">
+## 2.1. Competidores. <a name ="2.1.">
 
 **Toast POS**
 
@@ -421,7 +456,11 @@ Square for Restaurants es un sistema POS que ofrece soluciones completas para la
 Upserve es una plataforma de gestión de restaurantes que ofrece un sistema POS robusto con capacidades avanzadas de gestión de inventarios, reportes de ventas y análisis de comportamiento de los clientes. Incluye funciones para la administración de mesas y reservas, y está diseñado para mejorar la eficiencia operativa. Sus puntos fuertes son los análisis detallados y herramientas de optimización, la integración con servicios de terceros, y el soporte especializado en la industria restaurantera.
 
 
-### 2.1.1. Análisis competitivo.
+### 2.1.1. Análisis competitivo. <a name ="2.1.1.">
+
+# Competitive Analysis Landscape
+
+Este análisis es llevado a cabo porque se busca conocer cuáles son las ventajas y desventajas que presenta nuestra aplicación frente a la competencia.
 
 <table border="1" style="text-align: left;">
   <tr>
@@ -524,22 +563,27 @@ Upserve es una plataforma de gestión de restaurantes que ofrece un sistema POS 
 
 
 
-### 2.1.2. Estrategias y tácticas frente a competidores.
+### 2.1.2. Estrategias y tácticas frente a competidores. <a name ="2.1.2.">
 
-Incorporar Tecnología de Vanguardia
+**Incorporar Tecnología de Vanguardia**
+
 Inviertir en tecnologías emergentes como inteligencia artificial (IA) y análisis predictivo para mejorar la precisión en la gestión de inventarios y la previsión de demanda. Destacar estas características avanzadas en los esfuerzos de marketing y asegurarse de mantener la plataforma actualizada con las últimas innovaciones tecnológicas.
 
-Marketing
+**Marketing**
+
 Organizar eventos y webinars que resalten cómo Baratie utiliza tecnología avanzada para optimizar la cadena de suministro. Invitar a expertos en tecnología y clientes satisfechos para compartir sus experiencias y demostrar el valor de la plataforma.
 
-Demuestra la Tecnología Avanzada en Marketing
+**Demuestra la Tecnología Avanzada en Marketing**
+
 Crear contenido educativo, como blogs, videos y webinars, que ilustre cómo Baratie optimiza la cadena de suministro mediante tecnología avanzada. Destacar el uso de algoritmos de previsión de demanda, análisis en tiempo real y automatización para aumentar la eficiencia. Publicar estudios de caso que evidencien la reducción de costos y la mejora en la gestión de inventarios. Utilizar testimonios en video para resaltar estos beneficios de manera efectiva.
 
-Formación en Optimización
+**Formación en Optimización**
+
 Ofrecer capacitación especializada sobre cómo utilizar la tecnología avanzada de Baratie para optimizar la cadena de suministro. Esto no solo ayudará a tus clientes a maximizar el uso de la plataforma, sino que también posicionará a Baratie como un experto.
 
-### 2.2. Entrevistas.
-### 2.2.1. Diseño de entrevistas.
+## 2.2. Entrevistas. <a name ="2.2.">
+
+### 2.2.1. Diseño de entrevistas. <a name ="2.2.1.">
 
 **Preguntas para administradores**
 
@@ -601,7 +645,7 @@ Información Complementaria:
 ¿Cuáles son tus principales objetivos profesionales y personales?<br>
 ¿Qué frustraciones encuentras en tu práctica educativa o en tu trabajo actual?<br>
 
-### 2.2.2. Registro de entrevistas.
+### 2.2.2. Registro de Entrevistas. <a name ="2.2.2.">
 
 
 **Sección administrador**
@@ -651,9 +695,9 @@ Información Complementaria:
 
 
 
-### 2.2.3. Análisis de entrevistas.
+### 2.2.3. Análisis de entrevistas. <a name ="2.2.3.">
 
-Proveedores:
+**Proveedores:**
 
 <p>El análisis de las entrevistas revela que el 100% de los entrevistados utiliza WhatsApp para coordinar pedidos, aunque el 66.67% también recurre a herramientas adicionales como Notion, Telegram o Zoom. El 66.67% prefiere usar tanto su celular como su laptop, mientras que Eliana se limita a WhatsApp y su celular. Todos enfrentan dificultades con la comunicación y gestión de pedidos, con el 66.67% experimentando problemas en la gestión de pagos e inventario. Además, el 33.33% menciona el tráfico como un obstáculo logístico.
 
@@ -661,7 +705,7 @@ El 66.67% tiene como objetivo expandir su red de clientes y mejorar la gestión 
 
 Solo el 33.33% menciona influencias de marcas como Gloria y Nestlé, lo que sugiere que las marcas no son un factor clave para todos los entrevistados. En resumen, los proveedores buscan herramientas digitales que mejoren la eficiencia en la gestión de pedidos, pagos y comunicación, ayudándolos a superar sus frustraciones actuales y alcanzar sus objetivos de expansión y optimización del negocio.</p>
 
-Administradores:
+**Administradores:**
 
 <p>El análisis de las entrevistas revela que el 66.67% de los entrevistados utilizan herramientas avanzadas para la gestión de sus restaurantes, como software de inventarios, POS y plataformas de reservas, mientras que el 33.33% usa solo Excel, lo que indica un nivel básico de adopción tecnológica. El 100% de los entrevistados mencionan la necesidad de integrar mejor estas herramientas, ya que la falta de integración es una frustración común.
 
@@ -674,8 +718,8 @@ Todos los entrevistados muestran un enfoque en la eficiencia operativa, la mejor
 En resumen, los entrevistados coinciden en la necesidad de una mayor integración tecnológica, automatización y previsión de la demanda, lo cual les permitiría mejorar sus operaciones, optimizar la gestión de inventarios y proveedores, y facilitar la toma de decisiones basadas en análisis de datos detallados.</p>
 
 
-### 2.3. Needfinding.
-### 2.3.1. User Personas.
+## 2.3. Needfinding. <a name ="2.3.">
+### 2.3.1. User Personas. <a name ="2.3.1.">
 
 - Administrador de restaurante:
 
@@ -685,7 +729,7 @@ En resumen, los entrevistados coinciden en la necesidad de una mayor integració
 
   <img src="./resources/user personas/Ana Pérez.png" alt="Ana Pérez"/>
 
-### 2.3.2. User Task Matrix.
+### 2.3.2. User Task Matrix. <a name ="2.3.2.">
 
 <table border="1" style="text-align: center;">
 	<tbody>
@@ -766,7 +810,7 @@ En resumen, los entrevistados coinciden en la necesidad de una mayor integració
 	</tbody>
 </table>
 
-### 2.3.3. User Journey Mapping.
+### 2.3.3. User Journey Mapping. <a name ="2.3.3.">
 
 - Administrador de restaurante:
 
@@ -776,7 +820,7 @@ En resumen, los entrevistados coinciden en la necesidad de una mayor integració
 
   <img src="./resources/user journey/UJM Proveedores.png" alt="Ana Pérez"/>
 
-### 2.3.4. Empathy Mapping.
+### 2.3.4. Empathy Mapping. <a name ="2.3.4.">
 
 - Administrador de restaurante:
 
@@ -786,7 +830,7 @@ En resumen, los entrevistados coinciden en la necesidad de una mayor integració
 
   <img src="./resources/emphaty mapping/Empathy map proveedor.png" alt="Ana Pérez"/>
 
-### 2.3.5. As-is Scenario Mapping.
+### 2.3.5. As-is Scenario Mapping. <a name ="2.3.5.">
 
 - Administrador de restaurante:
 
@@ -796,14 +840,22 @@ En resumen, los entrevistados coinciden en la necesidad de una mayor integració
 
   <img src="./resources/as is/as is proovedor.png" alt="Ana Pérez"/>
 
-### 2.4. Ubiquitous Language.
-### Capítulo III: Requirements Specification
-### 3.1. To-Be Scenario Mapping.
+## 2.4. Ubiquitous Language. <a name ="2.4.">
+
+falta esto
+
+1. **Cursos virtuales:** Son cursos de diferentes materias que se brindan en plataformas de aprendizaje virtual. Cuentan con material como videos, documentos de teoría y/o exámenes periódicos.  
+2. **Tutores:** Son profesores que ejercen la labor de orientar al estudiante en una sesión corta y previamente agendada en un tema en específico. 
+3. **Alumnos:** Son estudiantes que desean inscribirse en un curso de cualquier plataforma de aprendizaje. Para ello, tendrán que crearse una cuenta en la plataforma.
+4. 
+
+# Capítulo III: Requirements Specification <a name ="cap3">
+## 3.1. To-Be Scenario Mapping. <a name ="3.1.">
 
 <tr><img src="resources\integrantes\adminimp.jpeg" /><tr>
 <tr><img src="resources\proimp.jpeg" /><tr>
 
-### 3.2. User Stories.
+## 3.2. User Stories. <a name ="3.2.">
 | Epic / Story ID 	    | Título 	                                        | Descripción 	                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Criterios de Aceptación 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Relacionado con Epic ID 	 |
 |----------------------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
 | EP01               	 | Gestión de Inventario y Stock	                  | *Como* administrador *Quiero* gestionar eficientemente el inventario y stock del restaurante *Para* asegurar que los ingredientes estén siempre disponibles y reducir el desperdicio.                                                                                                                                                                                                                                                                                   | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | No Corresponde            |
@@ -872,17 +924,17 @@ En resumen, los entrevistados coinciden en la necesidad de una mayor integració
 
 </table>
 
-### 3.3. Impact Mapping.
+## 3.3. Impact Mapping. <a name ="3.3.">
 
 
 <tr><img src="resources\imp1.jpeg" /><tr>
 <tr><img src="resources\imp2.jpeg" /><tr>
 
-### 3.4. Product Backlog.
+## 3.4. Product Backlog. <a name ="3.4.">
 
-## Capítulo IV: Product Des
-### 4.1. Style Guidelines.
-### 4.1.1. General Style Guidelines.
+# Capítulo IV: Product Design <a name ="cap4">
+## 4.1. Style Guidelines. <a name ="4.1.">
+### 4.1.1. General Style Guidelines. <a name ="4.1.1.">
 
 El diseño de la página de destino de RE-GRILL encarna los principios de eficiencia, innovación y apoyo en la gestión de operaciones para restaurantes. Los elementos visuales se eligen para respaldar estos valores fundamentales y ofrecer una experiencia amigable para el usuario.
 
@@ -910,7 +962,7 @@ El diseño de la página de destino de RE-GRILL encarna los principios de eficie
   - **Formal/Approachable**: El estilo de comunicación es profesional pero accesible, entregando la información de manera clara y atractiva.
   - **Respectful/Enthusiastic**: El tono mantiene una postura respetuosa y empática mientras combina entusiasmo para promover la plataforma y sus beneficios.
 
-### 4.1.2. Web Style Guidelines.
+### 4.1.2. Web Style Guidelines. <a name ="4.1.2.">
 
 - **Fonts**:
   - **Roboto** y **Varela Round**: Estas fuentes son elegidas por su apariencia moderna y limpia, mejorando la legibilidad y manteniendo un estilo consistente en todo el sitio web. 'Roboto' se utiliza principalmente para el texto del cuerpo debido a su claridad, mientras que 'Varela Round' añade un toque de amabilidad a los títulos y subtítulos.
@@ -934,9 +986,9 @@ El diseño de la página de destino de RE-GRILL encarna los principios de eficie
   - **Plan Cards**: Los planes de precios se presentan en formato de tarjetas con bordes distintos y efectos hover, facilitando a los usuarios la comparación de opciones y la toma de decisiones.
 
 
-### **4.2 Information Architecture**
+## 4.2. Information Architecture. <a name ="4.2.">
 
-**4.2.1 Organization Systems**
+### 4.2.1. Organization Systems. <a name ="4.2.1.">
 
 | **Página/Sección**                 | **Descripción**                                                                                                                                                     |
 |------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -947,7 +999,7 @@ El diseño de la página de destino de RE-GRILL encarna los principios de eficie
 | **Pedidos y Mesas**                | Gestión de asignación de mesas y control de pedidos, disponible para el rol de **Mesero**.                                                                           |
 | **Perfil de Usuario**              | Cada usuario puede gestionar su perfil, cambiar contraseñas y modificar su información personal.                                                                     |
 
-**4.2.2 Labeling Systems**
+### 4.2.2. Labeling Systems. <a name ="4.2.2.">
 
 | **Etiqueta**                | **Descripción**                                                                                      |
 |-----------------------------|------------------------------------------------------------------------------------------------------|
@@ -957,7 +1009,7 @@ El diseño de la página de destino de RE-GRILL encarna los principios de eficie
 | **Reports**                 | Reportes de ventas, uso de ingredientes, y mermas. Accesible a **Administradores**.                   |
 | **Tables Management**       | Asignar mesas y gestionar pedidos, accesible para el rol de **Mesero**.                               |
 
-**4.2.3 SEO Tags and Meta Tags**
+### 4.2.3. SEO Tags and Meta Tags <a name ="4.2.3.">
 
 Para mejorar la visibilidad de la aplicación web de RE-Grill en motores de búsqueda y facilitar su descubrimiento, se han implementado las siguientes etiquetas SEO y meta:
 
@@ -967,14 +1019,14 @@ Para mejorar la visibilidad de la aplicación web de RE-Grill en motores de bús
 - **Author**: Equipo de RE-Grill
 - **Canonical**: https://app.regrill.com/
 
-**4.2.4 Searching Systems**
+### 4.2.4. Searching Systems. <a name ="4.2.4.">
 
 | **Sistema de Búsqueda**     | **Descripción**                                                                                      |
 |-----------------------------|------------------------------------------------------------------------------------------------------|
 | **Búsqueda Global**         | Permite buscar información clave en diferentes áreas de la aplicación, ajustada según el rol del usuario.|
 | **Filtros Avanzados**       | Opciones para filtrar resultados por categorías específicas como inventario, costos, o pedidos.       |
 
-**4.2.5 Navigation Systems**
+### 4.2.5. Navigation Systems. <a name ="4.2.5.">
 
 | **Sistema de Navegación**   | **Descripción**                                                                                      |
 |-----------------------------|------------------------------------------------------------------------------------------------------|
@@ -984,11 +1036,11 @@ Para mejorar la visibilidad de la aplicación web de RE-Grill en motores de bús
 
 
 
-### 4.3. Landing Page UI Design.
+## 4.3. Landing Page UI Design. <a name ="4.3.">
 
 En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.
 
-### 4.3.1. Landing Page Wireframe.
+### 4.3.1. Landing Page Wireframe. <a name ="4.3.1.">
 
 Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Style Guidelines para el uso de los colores. Como se aprecia, estos tienen un contraste llamativo en cada sección de la landing page.
 
@@ -1000,28 +1052,28 @@ Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Styl
 
   <img src="./resources/wireframes/mobile.png" alt="wireframe mobile"/>
 
-### 4.3.2. Landing Page Mock-up.
+### 4.3.2. Landing Page Mock-up. <a name ="4.3.2.">
 
 Después de haber trabajado con los wireframes previamente diseñados, se procedió a aplicar los Style Guidelines para definir la paleta de colores a utilizar. Se puede observar que estos colores presentan un contraste llamativo en cada sección de la landing page, lo que contribuye a destacar visualmente los distintos elementos y mejorar la legibilidad y la estética general del diseño.
 
 <img src="./resources/mockup/mockup.png" alt="mockup"/>
-
+**Enlace para ver el Figma:**
 [Link Figma](https://www.figma.com/design/wFyfD3jahh7mqHvwN2Vgst/Landing-Page-Wireframe-re-gril?node-id=0-1&t=Y6wxyMupDN9tDuuE-1)
 
-### 4.4. Web Applications UX/UI Design.
-### 4.4.1. Web Applications Wireframes.
-### 4.4.2. Web Applications Wireflow Diagrams.
-### 4.4.2. Web Applications Mock-ups.
-### 4.4.3. Web Applications User Flow Diagrams.
-### 4.5. Web Applications Prototyping.
-### 4.6. Domain-Driven Software Architecture.
-### 4.6.1. Software Architecture Context Diagram.
+## 4.4. Web Applications UX/UI Design. <a name ="4.4.">
+### 4.4.1. Web Applications Wireframes. <a name ="4.4.1.">
+### 4.4.2. Web Applications Wireflow Diagrams. <a name ="4.4.2.">
+### 4.4.3. Web Applications Mock-ups. <a name ="4.4.3.">
+### 4.4.4. Web Applications User Flow Diagrams. <a name ="4.4.4.">
+## 4.5. Web Applications Prototyping. <a name ="4.5.">
+## 4.6. Domain-Driven Software Architecture. <a name ="4.6.">
+### 4.6.1. Software Architecture Context Diagram. <a name ="4.6.1.">
 <img src="resources/c4 diagram/contexto.png" alt="Context Diagram">
 
-### 4.6.2. Software Architecture Container Diagrams.
+### 4.6.2. Software Architecture Container Diagrams. <a name ="4.6.2.">
 <img src="resources/c4 diagram/contenedor.png" alt="Context Diagram">
 
-### 4.6.3. Software Architecture Components Diagrams.
+### 4.6.3. Software Architecture Components Diagrams. <a name ="4.6.3.">
 <ul>
   <li>
     <p>Usuarios</p>
@@ -1053,27 +1105,32 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
   </li>
 </ul>
 
-### 4.7. Software Object-Oriented Design.
-### 4.7.1. Class Diagrams.
+## 4.7. Software Object-Oriented Design. <a name ="4.7.">
+### 4.7.1. Class Diagrams. <a name ="4.7.1.">
 
 <tr><img src="resources\dc.jpeg" /><tr>
 
-### 4.7.2. Class Dictionary.
-### 4.8. Database Design.
-### 4.8.1. Database Diagram.
+### 4.7.2. Class Dictionary. <a name ="4.7.2.">
+## 4.8. Database Design. <a name ="4.8.">
+### 4.8.1. Database Diagram. <a name ="4.8.1.">
 
-### 5.1. Software Configuration Management.
+# Capítulo V: Product Implementation, Validation & Deployment <a name ="cap5">
+
+## 5.1. Software Configuration Management. <a name ="5.1.">
 A continuación, presentaremos el proceso por el cual organizamos, gestionamos y controlamos los cambios en el desarrollo de este proyecto.
-### 5.1.1. Software Development Environment Configuration.
 
-**Requirements Management**
-1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de
+### 5.1.1. Software Development Environment Configuration. <a name ="5.1.1.">
+
+#### Requirements Management
+1. **Trello**: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de
    trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario
    pertenecientes al sprint a desarrollar.  
    Ruta de referencia: https://trello.com/es
+2. **Vertabelo:** Plataforma enfocada en el diseño colaborativo de bases de datos. En ella hemos desarrollado el esquema de nuestra base de datos. Enlace de referencia: <https://vertabelo.com/>
+3. **Figma:** Herramienta para la creación de prototipos y diseño gráfico, que utilizamos principalmente para nuestra Landing Page y Aplicación Web. La empleamos tanto en la elaboración de Wireframes y Mock-ups como en la creación de nuestros Wireflow Diagrams. Enlace de referencia: <https://www.figma.com/>
 
 
-**Product UX/UI Design**
+#### Product UX/UI Design
 
 1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el
    caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
@@ -1085,7 +1142,7 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
    Ruta de referencia: https://www.lucidchart.com/
 
 
-**Software Development**
+#### Software Development
 1. Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de
    dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del
    proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples
@@ -1116,20 +1173,20 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
 
  <br>
 
-**Software Deployment**
+#### Software Deployment
 1. Git: Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo
    accederán a través de la línea de comandos en sus sistemas locales.
 
    Ruta de referencia: https://git-scm.com/
    <br>
    <br>
-   **Software Documentation and Project Management**
+#### Software Documentation and Project Management
 2. Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitirá la colaboración en
    tiempo real y la revisión de contribuciones de cada miembro del equipo. Los integrantes del equipo podrán acceder a través de sus navegadores web.
 
    Ruta de referencia: https://github.com/
 
-### 5.1.2. Source Code Management.
+### 5.1.2. Source Code Management. <a name ="5.1.2.">
 
 El proyecto seguirá las convenciones del flujo de trabajo establecido por el modelo GitFlow para el control de versiones, empleando GitHub como plataforma y sistema de control de versiones. A continuación, se describirá la implementación de GitFlow como un flujo de trabajo para el control de versiones, junto con el enlace del Landing Page.
 
@@ -1150,7 +1207,7 @@ El flujo de trabajo a ser implementado para el desarrollo del proyecto se basar�
 2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es facilitar los avances del proyecto en equipo y mantener los archivos centrales del desarrollo continuo.
 3. **Feature branch(Ramas de funcionalidad):** Cada capitulo desarrollado por el equipo, o separada del enfoque actual del desarrollo, tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/chapter-#".
 
-### 5.1.3. Source Code Style Guide & Conventions.
+### 5.1.3. Source Code Style Guide & Conventions. <a name ="5.1.3.">
 
 **HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las
 siguientes:
@@ -1180,7 +1237,7 @@ siguientes:
 
    CSS: (https://google.github.io/styleguide/htmlcssguide.html)
 
-### 5.1.4. Software Deployment Configuration.
+### 5.1.4. Software Deployment Configuration. <a name ="5.1.4.">
  <ol>
       <li><strong>Crear una carpeta para el despliegue:</strong> Creamos una carpeta llamada <code>"docs"</code> en el repositorio. Esta carpeta alojará todos los archivos necesarios para la landing page.</li>
       <li><strong>Organizar los archivos:</strong> Aseguramos que los archivos de la landing page sigan las siguientes nomenclaturas:
@@ -1195,20 +1252,20 @@ siguientes:
       <li><strong>Esperar la publicación:</strong> Esperamos a que GitHub realice las comprobaciones necesarias. Una vez finalizado el proceso, obtendremos un enlace que llevará a la landing page desplegada.</li>
    </ol>
 
-### 5.2. Landing Page, Services & Applications Implementation.
+## 5.2. Landing Page, Services & Applications Implementation. <a name ="5.2.">
 
 <h4 id="landing-page-services-applications-implementation">5.2. Landing Page, Services & Applications Implementation.</h4>
 <p>
     En esta sección, explicamos y documentamos el proceso de implementación, pruebas, documentación y despliegue de la Landing Page, Web Services y Frontend Web Applications. A medida que avanzamos en el desarrollo, desglosamos el trabajo en secciones específicas para cada Sprint, comenzando con el Sprint 1, donde detallamos la planificación y ejecución de las tareas.
 </p>
 
-### 5.2.1. Sprint n
+### 5.2.1. Sprint 1 <a name ="5.2.1.">
 
 <p>Es fundamental que el equipo dedique especial atención a la identificación del Sprint Goal, siguiendo las guías establecidas por el Scrum Guide. El Sprint Goal debe enfocarse en el negocio o en la perspectiva de los usuarios, buscando la entrega de un nuevo feature o un set de features.</p>
 <p>Para nuestro Sprint, utilizamos la estructura sugerida por Scrum.org para redactar el Sprint Goal:</p>
 
 
-### 5.2.1.1. Sprint Planning n.
+#### 5.2.1.1. Sprint Planning 1. <a name ="5.2.1.1.">
 <p>En el Sprint #1, que comienza el 29/08/2024, nos enfocaremos en desarrollar una landing page  para Re-Grill. El objetivo es crear una página que no solo capte la atención de los visitantes, sino que también transmita claramente los beneficios de nuestro producto. Este sprint estará dedicado al diseño y desarrollo de la landing page para cumplir con nuestros objetivos estratégicos.</p>
 
 <table>
@@ -1256,7 +1313,7 @@ siguientes:
     </tr>
 </table>
 
-### 5.2.1.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog 1. <a name ="5.2.1.2.">
 
 
 <p>El Sprint Backlog para el Sprint #1 tiene como objetivo principal el desarrollo de una landing page para Re-Grill. Este sprint se centrará en la creación y despliegue de una página web atractiva que comunique de manera efectiva los beneficios del producto. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente.</p>
@@ -1329,7 +1386,7 @@ siguientes:
     </tr>
 </table>
 
-### 5.2.1.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review. <a name ="5.2.1.3.">
 
 <p>Durante el Sprint #1, se lograron avances significativos en la implementación de los componentes clave del proyecto Re-Grill, centrados principalmente en el desarrollo de la Landing Page. Estos avances se alinean con el objetivo principal del sprint, que es diseñar y desplegar una página web atractiva y funcional para captar la atención de los usuarios y comunicar los beneficios del producto de manera efectiva.</p>
 <table>
@@ -1395,7 +1452,7 @@ siguientes:
 </table>
 
 
-### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.1.4.">
 
 <p>En esta sección, presentamos las evidencias relacionadas con las pruebas de aceptación automatizadas realizadas para la landing page de Re-Grill, desarrollada en el Sprint 1. A lo largo de este sprint, se lograron los objetivos planteados: planificación, desarrollo y despliegue de la landing page. Las pruebas de aceptación se diseñaron para garantizar que la landing page cumpla con los requisitos y expectativas definidos en los User Stories correspondientes. </p>
 
@@ -1418,7 +1475,7 @@ siguientes:
     </tr>
 </table>
 
-### 5.2.1.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review. <a name ="5.2.1.5.">
 
 <p>En este Sprint, se logró desarrollar y desplegar exitosamente la landing page para Re-Grill. Se completaron todas las tareas planificadas, incluyendo la creación del wireframe, el desarrollo de la página, su revisión y ajuste, así como el despliegue en el entorno de producción. La landing page refleja fielmente el diseño y la funcionalidad esperados, proporcionando una interfaz atractiva y funcional para los usuarios.  </p>
 <h5>Screenshots de las Principales Vistas Implementadas</h5>
@@ -1437,11 +1494,11 @@ siguientes:
 <p>En esta sección se muestra la información de contacto de la empresa, así como un formulario para que los usuarios puedan enviar sus consultas.</p>
 <img src="/images/landing-page-contact-footer-img.png" alt="Footer de la landing page">
 
-### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 <p>En este Sprint, el enfoque principal fue el desarrollo y despliegue de la landing page de Re-Grill. No se implementaron Web Services en esta etapa, por lo que no se incluye documentación relacionada con endpoints o servicios web. La implementación y documentación de Web Services será abordada en Sprints futuros, conforme se expanda la funcionalidad del producto.</p>
 
-### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 <p>
     Durante el Sprint 1, nos enfocamos en el despliegue de la landing page de Re-Grill. El objetivo fue asegurar que la página esté accesible para los usuarios finales a través de un entorno de producción confiable. A continuación, se detalla el proceso de despliegue, incluyendo la creación de cuentas necesarias, la configuración de recursos en GitHub Pages, y la automatización de ciertas tareas para facilitar futuros despliegues.
@@ -1460,7 +1517,7 @@ siguientes:
 <img src="/images/landing-page-benefits-q&a-img.png" alt="Benefits and Questions & Answers de la landing page">
 <img src="/images/landing-page-contact-footer-img.png" alt="Contact Footer de la landing page">
 
-### 5.2.1.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint. <a name ="5.2.1.8.">
 
 <p>
     Durante el Sprint 1, nos aseguramos de que todas las actividades de implementación fueran realizadas con la colaboración de todos los miembros del equipo. Cada integrante contribuyó a la creación y desarrollo de la landing page de Re-Grill, utilizando diversas herramientas de colaboración. A continuación, se presentan los detalles sobre las actividades del equipo y las evidencias gráficas que reflejan la colaboración y los commits en GitHub.
