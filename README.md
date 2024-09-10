@@ -653,7 +653,26 @@ Información Complementaria:
 
 ### 2.2.3. Análisis de entrevistas.
 
-<p>Las entrevistas revelan una necesidad común de integración tecnológica y optimización operativa en la industria gastronómica. Tanto administradores como proveedores enfrentan problemas con la previsión de demanda, la gestión de inventarios, y la falta de integración entre sistemas. Además, los proveedores mencionan la limitación de herramientas como WhatsApp para gestionar pedidos y pagos, mientras los administradores destacan la importancia de reportes y análisis de datos para la toma de decisiones. La solución ideal sería una plataforma integral e intuitiva que centralice la gestión, optimice la comunicación, y automatice procesos clave.</p>
+Proveedores:
+
+<p>El análisis de las entrevistas revela que el 100% de los entrevistados utiliza WhatsApp para coordinar pedidos, aunque el 66.67% también recurre a herramientas adicionales como Notion, Telegram o Zoom. El 66.67% prefiere usar tanto su celular como su laptop, mientras que Eliana se limita a WhatsApp y su celular. Todos enfrentan dificultades con la comunicación y gestión de pedidos, con el 66.67% experimentando problemas en la gestión de pagos e inventario. Además, el 33.33% menciona el tráfico como un obstáculo logístico.
+
+El 66.67% tiene como objetivo expandir su red de clientes y mejorar la gestión de su negocio mediante plataformas más avanzadas. El 100% quiere mejorar la gestión de pedidos, y el 33.33% utiliza encuestas para medir la satisfacción del cliente. Todos se describen como responsables y puntuales, con el 66.67% destacando su organización y habilidades de negociación.
+
+Solo el 33.33% menciona influencias de marcas como Gloria y Nestlé, lo que sugiere que las marcas no son un factor clave para todos los entrevistados. En resumen, los proveedores buscan herramientas digitales que mejoren la eficiencia en la gestión de pedidos, pagos y comunicación, ayudándolos a superar sus frustraciones actuales y alcanzar sus objetivos de expansión y optimización del negocio.</p>
+
+Administradores:
+
+<p>El análisis de las entrevistas revela que el 66.67% de los entrevistados utilizan herramientas avanzadas para la gestión de sus restaurantes, como software de inventarios, POS y plataformas de reservas, mientras que el 33.33% usa solo Excel, lo que indica un nivel básico de adopción tecnológica. El 100% de los entrevistados mencionan la necesidad de integrar mejor estas herramientas, ya que la falta de integración es una frustración común.
+
+El 66.67% enfrenta dificultades con la previsión de la demanda de los clientes y problemas con la precisión de los insumos de proveedores. Además, el 66.67% destaca la gestión de inventarios como un desafío clave y buscan automatizar este proceso para mejorar la eficiencia.
+
+El 100% de los entrevistados tiene como objetivo optimizar sus operaciones a través de la automatización de áreas como la gestión de mesas, reservas e inventarios. El 66.67% busca herramientas que proporcionen reportes detallados y análisis de datos para mejorar la toma de decisiones.
+
+Todos los entrevistados muestran un enfoque en la eficiencia operativa, la mejora continua y la innovación, considerando estos elementos cruciales para el éxito en la industria restaurantera.
+
+En resumen, los entrevistados coinciden en la necesidad de una mayor integración tecnológica, automatización y previsión de la demanda, lo cual les permitiría mejorar sus operaciones, optimizar la gestión de inventarios y proveedores, y facilitar la toma de decisiones basadas en análisis de datos detallados.</p>
+
 
 ### 2.3. Needfinding.
 ### 2.3.1. User Personas.
