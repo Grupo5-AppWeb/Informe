@@ -1591,11 +1591,10 @@ siguientes:
 <p>Se adjuntan capturas de pantalla de las principales vistas de la landing page desarrollada en el Sprint 1, mostrando el diseño y la estructura de la página.</p>
 <h5>Se implementó el Header</h5>
 <p>En esta sección se pueden observar las principales opciones de la página, un call to action y una descripción sobre nuestra compañía y nuestros valores. </p>
-<img src="/images/landing-page-header-img.png" alt="Landing page header img">
-<img src="/images/landing-page-body-img.png" alt="Descripción del producto">
+<img src="/resources/hea.jpeg" alt="Landing page header img">
 <h5>Se implementó la sección de features y plans.</h5>
 <p>En estas secciones se describen las principales características que tiene Re-grill, así como los diferentes planes de suscripción ques se ofrece.</p>
-<img src="/images/landing-page-feature-plans-img.png" alt="Features and plans del producto">
+<img src="/resources/pla.jpeg" alt="Features and plans del producto">
 <h5>Se implementó la sección de Benefits y Questions & Answers </h5>
 <p>En esta sección se describen los beneficios de Re-Grill y se resuelven las preguntas más frecuentes que los usuarios puedan tener.</p>
 <img src="/images/landing-page-benefits-q&a-img.png" alt="Benefits and Questions & Answers">
