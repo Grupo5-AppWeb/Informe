@@ -71,8 +71,8 @@
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Nombre: <br> TB1: <br>|
-| Comunica por escrito con efectividad a diferentes rangos de audiencia.|Nombre: <br> TB1: <br>|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Nombre: Fabrisio Belahonia: <br> TB1: <br> El trabajo en equipo para proporcionar liderazgo conjunto fue esencial en el desarrollo de la startup. Desde la elaboración de entrevistas hasta el análisis de competidores y el diseño de estrategias, cada miembro contribuyó activamente. Esto fue clave para la creación exitosa de los User Personas, User Task Matrix y User Journey Mapping, cuyo éxito dependió de la colaboración de todo el equipo. Además, el diseño de wireframes, prototipos y diagramas técnicos reflejó una integración sólida y coherente entre todas las áreas del proyecto. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos|Nombre: Fabrisio Belahonia: <br> TB1: <br> Crear un entorno colaborativo e inclusivo fue esencial para el éxito del desarrollo de la startup. El equipo trabajó junto para establecer metas claras, planificar tareas y cumplir objetivos. La colaboración abierta permitió realizar entrevistas efectivas, analizar competidores y diseñar estrategias de manera conjunta. Al desarrollar los User Personas, User Task Matrix y User Journey Mapping, se lograron construir las user stories, que guiaron el diseño de las pantallas en Figma. Este enfoque inclusivo y participativo ayudó a reflejar todas las perspectivas y asegurar que el prototipo final cumpliera con las necesidades del proyecto.|
 
 # Contenido
 
