@@ -652,7 +652,12 @@ Información Complementaria:
 ### 2.2.2. Registro de Entrevistas. <a name ="2.2.2.">
 
 
+
+
 **Sección administrador**
+
+**enlace de grabaciones :** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EVUrbYOYJZRJtaT_Hm3uvUsBBbgZdHVeHU81XN7LoXjO4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wY3S1P
+
 | Entrevistado 1 | Keyner Hancco  |
 | ------ | -- |
 | Edad | 26 |
@@ -675,6 +680,8 @@ Información Complementaria:
 | Timing: 10:09 - 24:33  | URL: |
 
 **Sección provedores**
+
+**Enlace de grabaciones:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EVUrbYOYJZRJtaT_Hm3uvUsBBbgZdHVeHU81XN7LoXjO4A?e=tLfSgl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTQ3NC45NX19
 
 | Entrevistado 4 | Eliana Rodríguez   |
 | ------ | -- |
