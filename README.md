@@ -1621,7 +1621,6 @@ siguientes:
 <p>A continuación, se muestran capturas de pantalla que ilustran el proceso despliegue:</p>
 <img src="/resources/hea.jpeg" alt="Header de la landing page">
 <img src="/resources/pla.jpeg" alt="Body de la landing page">
-<img src="/resources/pla.jpeg" alt="Features and plans de la landing page">
 <img src="/resources/Q.jpeg" alt="Benefits and Questions & Answers de la landing page">
 <img src="/resources/FO.jpeg" alt="Contact Footer de la landing page">
 
