@@ -1125,6 +1125,8 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
 ## 4.8. Database Design. <a name ="4.8.">
 ### 4.8.1. Database Diagram. <a name ="4.8.1.">
 
+    <img src="resources/databasediagram.jpg" alt="database">
+
 # Capítulo V: Product Implementation, Validation & Deployment <a name ="cap5">
 
 ## 5.1. Software Configuration Management. <a name ="5.1.">
