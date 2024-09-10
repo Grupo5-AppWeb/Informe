@@ -1174,6 +1174,10 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
 ### 4.4.3. Web Applications Mock-ups. <a name ="4.4.3.">
 ### 4.4.4. Web Applications User Flow Diagrams. <a name ="4.4.4.">
 ## 4.5. Web Applications Prototyping. <a name ="4.5.">
+Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyecto en general, mostrando paso a paso las secciones enlazadas y como es el punto de vista del proveedor y del administrador de cocina del restaurante. A continuación se presentará una captura sobre este prototipo y como se uso.
+
+<img src="./resources/PrototypeVideo.png" alt="Prototype-Video">
+
 ## 4.6. Domain-Driven Software Architecture. <a name ="4.6.">
 ### 4.6.1. Software Architecture Context Diagram. <a name ="4.6.1.">
 <img src="resources/c4 diagram/contexto.png" alt="Context Diagram">
@@ -1718,3 +1722,6 @@ siguientes:
 ### Video About-the-Team.
 ### Bibliografía
 ### Anexos
+
+**Video del prototipo**
+* Enlace del prototipo en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EbxRs_9CZ4tJjThX374mNRgBV4vFlULX4JkTWm2ga9lyiA?e=nb4m7C&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
