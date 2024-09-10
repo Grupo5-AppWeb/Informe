@@ -67,10 +67,9 @@
 
 
 <h4 id="student-outcome"> Student Outcome</h4>
-Criterio: Demuestra capacidad de comunicarse efectivamente con un rango de audiencias
-<p>En el siguiente cuadro se describe las acciones realizadas y enunciados de 
-conclusiones cual por parte del grupo, que permiten sustentar el haber 
-alcanzado el logro del ABET – EAC - Student Outcome 3.</p>
+<p>El presente curso contribuye al cumplimiento del Student Outcome 5 de la ABET – EAC, que se enfoca en la capacidad para desempeñarse eficazmente en equipos. Esto incluye asumir roles adecuados, proporcionar liderazgo cuando sea necesario, establecer objetivos claros, planificar tareas y promover una colaboración efectiva entre los miembros del grupo para alcanzar las metas propuestas.
+
+En el siguiente cuadro se detallan las acciones realizadas por el equipo, así como las conclusiones alcanzadas durante el proceso. Estas evidencias demuestran el cumplimiento del Student Outcome 5, resaltando la capacidad del grupo para trabajar de manera colaborativa, asumir responsabilidades compartidas y gestionar proyectos de manera exitosa, alineándose con los criterios de desempeño establecidos por la ABET – EAC.</p>
 
 
 <table><thead>
@@ -1166,6 +1165,7 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
 <img src="./resources/mockup/mockup.png" alt="mockup"/>
 
 #### Enlace para ver el Figma:
+
 [Link Figma](https://www.figma.com/design/wFyfD3jahh7mqHvwN2Vgst/Landing-Page-Wireframe-re-gril?node-id=0-1&t=Y6wxyMupDN9tDuuE-1)
 
 ## 4.4. Web Applications UX/UI Design. <a name ="4.4.">
