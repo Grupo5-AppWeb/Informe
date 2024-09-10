@@ -1218,6 +1218,51 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
 <tr><img src="resources\dc.jpeg" /><tr>
 
 ### 4.7.2. Class Dictionary. <a name ="4.7.2.">
+
+
+#### User
+
+Representa a cualquier usuario que interactúa con el sistema (clientes, administradores o camareros). Gestiona las credenciales y el acceso al sistema.
+#### Administrator
+
+Extiende la clase User y representa a los administradores del sistema, quienes tienen permisos especiales para gestionar reportes de ventas, inventario y usuarios.
+#### Waiter
+
+Extiende la clase User y representa a los camareros, quienes pueden registrar pedidos y gestionar el estado de las mesas.
+#### Reservation
+
+Representa las reservas de mesas hechas por los clientes. Permite la creación, cancelación y verificación de las reservas.
+#### Table
+
+Representa una mesa en el restaurante. Permite la gestión del estado de las mesas (disponible, ocupada, reservada).
+#### Order
+
+Representa los pedidos que hacen los clientes. Incluye la lista de productos pedidos y su estado.
+#### Product
+
+Representa los productos o platos disponibles en el restaurante. Permite la gestión de su precio y disponibilidad en el inventario.
+#### Stock
+
+Representa el inventario del restaurante, incluyendo la cantidad de productos disponibles y su gestión.
+#### Invoice
+
+Representa las facturas generadas por los pedidos. Permite la creación y visualización de facturas para los clientes.
+#### Supplier
+
+Representa a los proveedores que suministran productos al restaurante. Gestiona los productos suministrados y el contacto con el proveedor.
+#### KitchenOrder
+
+Representa los pedidos enviados a la cocina para su preparación. Permite la gestión y seguimiento de los pedidos dentro de la cocina.
+#### SalesReport
+
+Genera reportes de ventas dentro de un periodo específico. Ayuda a analizar el rendimiento de ventas del restaurante.
+#### StockReport
+
+Genera reportes del inventario, proporcionando información sobre los niveles actuales de stock y productos disponibles.
+#### OrderReport
+
+Genera reportes sobre los pedidos realizados, detallando los productos pedidos y otros datos relevantes.
+
 ## 4.8. Database Design. <a name ="4.8.">
 ### 4.8.1. Database Diagram. <a name ="4.8.1.">
 
