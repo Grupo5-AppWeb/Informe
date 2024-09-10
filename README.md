@@ -894,12 +894,67 @@ En resumen, los entrevistados coinciden en la necesidad de una mayor integració
 
 ## 2.4. Ubiquitous Language. <a name ="2.4.">
 
-falta esto
 
-1. **Cursos virtuales:** Son cursos de diferentes materias que se brindan en plataformas de aprendizaje virtual. Cuentan con material como videos, documentos de teoría y/o exámenes periódicos.  
-2. **Tutores:** Son profesores que ejercen la labor de orientar al estudiante en una sesión corta y previamente agendada en un tema en específico. 
-3. **Alumnos:** Son estudiantes que desean inscribirse en un curso de cualquier plataforma de aprendizaje. Para ello, tendrán que crearse una cuenta en la plataforma.
-4. 
+### Reservation (Reserva): 
+
+Proceso en el cual un cliente solicita una mesa en un restaurante para una fecha y hora específicas. Las reservas ayudan a gestionar el flujo de clientes y evitar tiempos de espera prolongados.
+
+### Table Management (Gestión de Mesas): 
+
+Asignación y organización de las mesas disponibles en el restaurante para optimizar el uso del espacio y mejorar la eficiencia del servicio.
+
+### Stock (Inventario): 
+
+Conjunto de insumos o ingredientes disponibles en el restaurante para la preparación de los platos. El stock debe controlarse cuidadosamente para evitar tanto el exceso como la escasez de productos.
+
+### Supplier (Proveedor): 
+
+Empresa o individuo externo que suministra ingredientes y otros insumos al restaurante. La gestión de proveedores incluye la colocación de pedidos, la coordinación de entregas y el seguimiento de la calidad de los productos recibidos.
+
+### Order (Pedido): 
+
+Solicitud que un cliente hace al restaurante para consumir uno o más platos. El pedido puede incluir alimentos y bebidas, y es gestionado por el personal del restaurante y el sistema de ventas.
+
+### Billing (Facturación): 
+
+Proceso de cálculo del costo total de los pedidos realizados por un cliente, incluyendo impuestos y otros cargos adicionales. La facturación es gestionada de forma automática por el sistema al finalizar un pedido.
+
+### Waste (Merma): 
+
+Pérdida de insumos o productos durante el proceso de almacenamiento o preparación de los platos, ya sea por vencimiento o daños en la cocina (ej. ingredientes dañados, platos quemados).
+
+### Customer Satisfaction (Satisfacción del Cliente): 
+
+Medida de la experiencia general del cliente en el restaurante, basada en la calidad del servicio, la comida, y el tiempo de espera. La satisfacción del cliente es crucial para el éxito y la fidelización.
+
+### Menu (Menú): 
+
+Conjunto de platos y bebidas que ofrece el restaurante a sus clientes. El menú puede variar dependiendo de la disponibilidad de ingredientes y las especialidades del restaurante.
+
+
+### Staff (Personal): 
+
+Grupo de empleados que trabaja en el restaurante y se encarga de diferentes funciones, como la atención al cliente, la cocina, y la administración. La gestión eficiente del personal es fundamental para el buen funcionamiento del restaurante.
+
+### Shift (Turno): 
+
+Periodo de tiempo asignado a un miembro del personal para trabajar en el restaurante. Los turnos pueden ser rotativos y deben gestionarse de manera eficiente para asegurar que siempre haya suficiente personal disponible.
+
+### Order Queue (Cola de Pedidos): 
+
+Lista de pedidos que los clientes han realizado y que aún están en proceso de preparación o entrega. La gestión de la cola de pedidos es importante para garantizar que los tiempos de entrega sean razonables.
+
+### Sales Report (Informe de Ventas): 
+
+Documento o conjunto de datos que muestra el rendimiento financiero del restaurante en términos de ingresos generados por las ventas durante un período determinado.
+
+### Dish (Plato): 
+
+Preparación específica de alimentos ofrecida en el menú del restaurante. Cada plato tiene un conjunto de ingredientes y un proceso de preparación definido.
+
+### Table Turnover (Rotación de Mesas): 
+
+Cantidad de veces que una mesa es utilizada por diferentes clientes durante un periodo de tiempo específico. Aumentar la rotación de mesas puede mejorar la eficiencia operativa y los ingresos del restaurante.
 
 # Capítulo III: Requirements Specification <a name ="cap3">
 ## 3.1. To-Be Scenario Mapping. <a name ="3.1.">
