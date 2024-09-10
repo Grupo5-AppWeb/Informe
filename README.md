@@ -1181,6 +1181,32 @@ En este wireflow se tomó el proceso que se realiza al momento de ver el costo d
 <img src="./resources/wireflowProduccion.png" alt="Wireflow-Produccion">
 
 ### 4.4.3. Web Applications Mock-ups. <a name ="4.4.3.">
+
+Para este mock-upc se muestra las recetas disponibles al administrador de la cocina en el cual él tiene la opcion de añadir recetas, ver la receta y eliminar la receta
+
+  <img src="./resources/recetas.png" alt="recetas"/>
+
+Para este mock-upc se muestra el registro de perdida de insumos del restaurante para que puede tener un buen control de caja
+
+<img src="./resources/Registro de mermas.png" alt="merma"/>
+
+Para este mock-upc se muestra la receta ya editada por el chef y el aumento de precio respectivo
+
+<img src="./resources/PLato editado-costo.png" alt="plato"/>
+
+Para este mock-upc se muestra el area del restaurante al mesero para que pueda seleccinar los pedidos
+
+<img src="./resources/AREA restaurante.png" alt="restaurante"/>
+
+Para este mock-upc se muestra las ordenes que tiene los proveedores con los restaurantes
+
+<img src="./resources/orden-provedores.png" alt="orden"/>
+
+Para este mock-upc el registro de facturas del restaurante
+
+<img src="./resources/Historial facturas.png" alt="factura"/>
+
+
 ### 4.4.4. Web Applications User Flow Diagrams. <a name ="4.4.4.">
 ## 4.5. Web Applications Prototyping. <a name ="4.5.">
 Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyecto en general, mostrando paso a paso las secciones enlazadas y como es el punto de vista del proveedor y del administrador de cocina del restaurante. A continuación se presentará una captura sobre este prototipo y como se uso.
