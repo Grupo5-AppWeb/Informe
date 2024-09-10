@@ -1597,10 +1597,10 @@ siguientes:
 <img src="/resources/pla.jpeg" alt="Features and plans del producto">
 <h5>Se implementó la sección de Benefits y Questions & Answers </h5>
 <p>En esta sección se describen los beneficios de Re-Grill y se resuelven las preguntas más frecuentes que los usuarios puedan tener.</p>
-<img src="/images/landing-page-benefits-q&a-img.png" alt="Benefits and Questions & Answers">
+<img src="/resources/Q.jpeg" alt="Benefits and Questions & Answers">
 <h5>Se implementó el footer con la opción de contacto</h5>
 <p>En esta sección se muestra la información de contacto de la empresa, así como un formulario para que los usuarios puedan enviar sus consultas.</p>
-<img src="/images/landing-page-contact-footer-img.png" alt="Footer de la landing page">
+<img src="/resources/FO.jpeg" alt="Footer de la landing page">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -1619,11 +1619,11 @@ siguientes:
         </ul>
 <h5>Evidencias Gráficas del Despliegue</h5>
 <p>A continuación, se muestran capturas de pantalla que ilustran el proceso despliegue:</p>
-<img src="/images/landing-page-header-img.png" alt="Header de la landing page">
-<img src="/images/landing-page-body-img.png" alt="Body de la landing page">
-<img src="/images/landing-page-feature-plans-img.png" alt="Features and plans de la landing page">
-<img src="/images/landing-page-benefits-q&a-img.png" alt="Benefits and Questions & Answers de la landing page">
-<img src="/images/landing-page-contact-footer-img.png" alt="Contact Footer de la landing page">
+<img src="/resources/hea.jpeg" alt="Header de la landing page">
+<img src="/resources/pla.jpeg" alt="Body de la landing page">
+<img src="/resources/pla.jpeg" alt="Features and plans de la landing page">
+<img src="/resources/Q.jpeg" alt="Benefits and Questions & Answers de la landing page">
+<img src="/resources/FO.jpeg" alt="Contact Footer de la landing page">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint. <a name ="5.2.1.8.">
 
