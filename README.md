@@ -1747,4 +1747,4 @@ siguientes:
 ### Anexos
 
 **Video del prototipo**
-* Enlace del prototipo en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EbxRs_9CZ4tJjThX374mNRgBV4vFlULX4JkTWm2ga9lyiA?e=nb4m7C&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+* Enlace del prototipo en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EbxRs_9CZ4tJjThX374mNRgBPy9_qXegdOOmw6rqj1FVrQ?e=S24iJ3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
