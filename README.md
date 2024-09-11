@@ -1170,6 +1170,22 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
 
 ## 4.4. Web Applications UX/UI Design. <a name ="4.4.">
 ### 4.4.1. Web Applications Wireframes. <a name ="4.4.1.">
+- **Wireframe Vista de platos**<br>
+  En este wireframe vemos la vista de los platos que hay en el restaurante, donde al momento de seleccionar una de las imágenes mostrará más detalles sobre las recetas.
+  <img src="./resources/Vista de platos.png" alt="Wireframe-Platos">
+- **Wireframe Registro de Mermas**<br>
+  En este wireframe vemos el registro de las mermas que se realiza al momento de registrar una merma dealizada por un plato.
+  <img src="./resources/Registro de mermasWire.png" alt="Wireframe-RegistroMermas">
+- **Wireframe Información de la receta**<br>
+  En este wireframe vemos la información que tiene cada receta del restaurante, mostrando sus ingredientes y el costo de cada uno de ellos.
+  <img src="./resources/InfoReceta.png" alt="Wireframe-Recetas">
+- **Wireframe Buscar receta para eliminar o modificar**<br>
+  En este wireframe vemos la lista de recetas donde el administrador busca una de ellas para modificar o eliminarla de la plataforma.
+  <img src="./resources/ELIMINAR O MODIFCAR RECETA.png" alt="Wireframe-BuscarReceta">
+- **Wireframe Receta eliminada**<br>
+  En este wireframe vemos la confirmación sobre una eliminación de una receta.<br>
+  <img src="./resources/ELIMINADO.png" alt="Wireframe-Eliminacion">
+
 ### 4.4.2. Web Applications Wireflow Diagrams. <a name ="4.4.2.">
 **Wireflow Pedidos y Mesas**<br>
 Para este wireflow se tomó el funcionamiento de las mesas, donde se podrá reservar una mesa y las órdenes que pidió el cliente, observando el pedido y los detalles de este.
