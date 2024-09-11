@@ -72,47 +72,13 @@
 En el siguiente cuadro se detallan las acciones realizadas por el equipo, así como las conclusiones alcanzadas durante el proceso. Estas evidencias demuestran el cumplimiento del Student Outcome 5, resaltando la capacidad del grupo para trabajar de manera colaborativa, asumir responsabilidades compartidas y gestionar proyectos de manera exitosa, alineándose con los criterios de desempeño establecidos por la ABET – EAC.</p>
 
 
-<table><thead>
-  <tr>
-    <th>Criterio específico</th>
-    <th>Acciones realizadas</th>
-    <th>Conclusiones</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>Demuestra capacidad de comunicarse efectivamente con un rango de audiencias</td>
-    <td><b> Huapaya Cuevas, Anthony Martin	</b><br>
-TB1: En este caso yo realize todo el capitulo numero 5 , el cual incluye Software Configuration Management, Landing Page, Services & Applications Implementation y Validation Interviews.
 
-<br><b> Belahonia Miranda, Fabrisio Andre</b>   <br>
-TB1: Para esta entrega yo realize el punto 4, el cual incluye Product design,Styles guidelines,Information architecture,Landing page and  UI design
-
-<br><b> Hardie Alfonso Holguín Gamarra</b><br>
-TB1: Yo me encargue de el capitulo 3 , el cual incluye Requirements Specification, To-Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog.
-
-<br><b> Marzál Pérez, Jamir Ángel</b> <br>
-TB1: En esta entrega , se implemento todo el capitulo 1 , en este caso el startup profile , el solution profile , los antecedentes y problematica y todos los puntos del Lean UX Process.
-
-<br><br><b> Arce Huaman Luis Andresl</b>
-TB1: Yo realize todo el capitulo 2 para esta entrega , incluyendo los competidores , las entrevistas , el needfinding y el ubiquitous language.
-
-
-<br><br><b> Garayar Mori, Oscar Nathaniel</b>
-TB1: Yo realize todo el capitulo 1 para esta entrega , incluyendo los competidores , las entrevistas , el needfinding y el ubiquitous language.
-
-</td>
-    <td>Se lograron los objetivos establecidos<br>gracias a la constante comunicación y<br>organización de<br>nuestro equipo para la correcta elaboración e<br>implementación del presente proyecto</td>
-  </tr>
-  <tr>
-  </tr>
-</tbody>
-</table>
 
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Nombre: Fabrisio Belahonia: <br> TB1: <br> El trabajo en equipo para proporcionar liderazgo conjunto fue esencial en el desarrollo de la startup. Desde la elaboración de entrevistas hasta el análisis de competidores y el diseño de estrategias, cada miembro contribuyó activamente. Esto fue clave para la creación exitosa de los User Personas, User Task Matrix y User Journey Mapping, cuyo éxito dependió de la colaboración de todo el equipo. Además, el diseño de wireframes, prototipos y diagramas técnicos reflejó una integración sólida y coherente entre todas las áreas del proyecto.<br>Nombre: Anthony Huapaya: <br> TB1: <br> El trabajo en equipo con respecto a la comunicación para tener el mismo punto de vista fue beneficioso para el desarrollo del startup. Desde el planteamiento de la problemática, las hipótesis e ideas de solución y la verificación del segmento objetivo; donde coordinamos como equipo sobre toda esa información. Esto nos ayudo para plantear de mejor manera nuestro modelo de Domain Driven Design y los Wireframes para lograr un prototipo sobre como se vería la aplicación que se está desarrollando.<br>  Luis Andres Arce Huaman: <br>TB1 <br> El trabajo que hemos hecho nos ayuda a ejercer un rol de lider individualmente , trabajar en equipo nos ayuda a discutir sobre nuestros temas de interes y en el trabajo nos ayudo a enfocarnos en desarrollar una buena entrega. Al desarrollar el estudio de competidores y Users Persona nos ayuda a entender la relevancia de definir bien nuestros segmentos objetivos para hacer estudio de ellos.|
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos|Nombre: Fabrisio Belahonia: <br> TB1: <br> Crear un entorno colaborativo e inclusivo fue esencial para el éxito del desarrollo de la startup. El equipo trabajó junto para establecer metas claras, planificar tareas y cumplir objetivos. La colaboración abierta permitió realizar entrevistas efectivas, analizar competidores y diseñar estrategias de manera conjunta. Al desarrollar los User Personas, User Task Matrix y User Journey Mapping, se lograron construir las user stories, que guiaron el diseño de las pantallas en Figma. Este enfoque inclusivo y participativo ayudó a reflejar todas las perspectivas y asegurar que el prototipo final cumpliera con las necesidades del proyecto.<br>Nombre: Anthony Huapaya: <br> TB1: <br> La planificación sobre las fechas que se va realizando en cada parte del documento fue beneficioso para lograr cumplir con los objetivos de esta entrega. Esto nos ayudo a ir agregando las informaciones necesarias para que el otro compañero pueda avanzar con la parte que se le asignó y organizar mejor nuestros tiempos para la entrega final.<br> Nombre: Luis Andres Arce Huaman: <br> TB1: <br> En nuestro trabajo, hemos creado un entorno colaborativo basado en tareas, lo que nos permitió visualizar las actividades de cada miembro del equipo y colaborar activamente en conjunto. Como equipo, hemos cumplido con todos los objetivos propuestos gracias a este enfoque. Creemos que, si continuamos utilizando este método de desarrollo, podremos realizar de manera más eficiente todas las entregas correspondientes.
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Nombre: Fabrisio Belahonia: <br> TB1: <br> El trabajo en equipo para proporcionar liderazgo conjunto fue esencial en el desarrollo de la startup. Desde la elaboración de entrevistas hasta el análisis de competidores y el diseño de estrategias, cada miembro contribuyó activamente. Esto fue clave para la creación exitosa de los User Personas, User Task Matrix y User Journey Mapping, cuyo éxito dependió de la colaboración de todo el equipo. Además, el diseño de wireframes, prototipos y diagramas técnicos reflejó una integración sólida y coherente entre todas las áreas del proyecto.<br>Nombre: Anthony Huapaya: <br> TB1: <br> El trabajo en equipo con respecto a la comunicación para tener el mismo punto de vista fue beneficioso para el desarrollo del startup. Desde el planteamiento de la problemática, las hipótesis e ideas de solución y la verificación del segmento objetivo; donde coordinamos como equipo sobre toda esa información. Esto nos ayudo para plantear de mejor manera nuestro modelo de Domain Driven Design y los Wireframes para lograr un prototipo sobre como se vería la aplicación que se está desarrollando.<br>Nombre:  Luis Andres Arce Huaman: <br>TB1 <br> El trabajo que hemos hecho nos ayuda a ejercer un rol de lider individualmente , trabajar en equipo nos ayuda a discutir sobre nuestros temas de interes y en el trabajo nos ayudo a enfocarnos en desarrollar una buena entrega. Al desarrollar el estudio de competidores y Users Persona nos ayuda a entender la relevancia de definir bien nuestros segmentos objetivos para hacer estudio de ellos.<br>Nombre:  Jamir Ángel Marzál Pérez: <br>TB1 <br> En el proyecto, lideré el desarrollo de las user personas, facilitando discusiones que integraron las ideas del equipo. Además, coordiné la creación de la matriz de tareas, asignando roles de manera equitativa, y guié las sesiones de user journey mapping y empathy mapping, asegurando una visión clara del usuario. Durante el desarrollo del wireframe y mockup de la landing page, colaboré estrechamente con el equipo, garantizando coherencia y liderazgo compartido en cada fase.|
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos|Nombre: Fabrisio Belahonia: <br> TB1: <br> Crear un entorno colaborativo e inclusivo fue esencial para el éxito del desarrollo de la startup. El equipo trabajó junto para establecer metas claras, planificar tareas y cumplir objetivos. La colaboración abierta permitió realizar entrevistas efectivas, analizar competidores y diseñar estrategias de manera conjunta. Al desarrollar los User Personas, User Task Matrix y User Journey Mapping, se lograron construir las user stories, que guiaron el diseño de las pantallas en Figma. Este enfoque inclusivo y participativo ayudó a reflejar todas las perspectivas y asegurar que el prototipo final cumpliera con las necesidades del proyecto.<br>Nombre: Anthony Huapaya: <br> TB1: <br> La planificación sobre las fechas que se va realizando en cada parte del documento fue beneficioso para lograr cumplir con los objetivos de esta entrega. Esto nos ayudo a ir agregando las informaciones necesarias para que el otro compañero pueda avanzar con la parte que se le asignó y organizar mejor nuestros tiempos para la entrega final.<br> Nombre: Luis Andres Arce Huaman: <br> TB1: <br> En nuestro trabajo, hemos creado un entorno colaborativo basado en tareas, lo que nos permitió visualizar las actividades de cada miembro del equipo y colaborar activamente en conjunto. Como equipo, hemos cumplido con todos los objetivos propuestos gracias a este enfoque. Creemos que, si continuamos utilizando este método de desarrollo, podremos realizar de manera más eficiente todas las entregas correspondientes.<br>Nombre:  Jamir Ángel Marzál Pérez: <br>TB1 <br> Promoví un ambiente inclusivo al asegurar que todos los miembros participaran activamente en la creación de user personas y el as-is scenario mapping. Definí metas claras y organicé las tareas con una task matrix, planificando en conjunto los plazos y responsabilidades. Durante el user journey mapping y el diseño de la landing page, trabajé en la planificación estructurada para cumplir con los objetivos del proyecto dentro de los tiempos acordados.
 
 # Contenido
 
