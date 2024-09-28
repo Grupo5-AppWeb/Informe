@@ -1247,6 +1247,123 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
 
 ## 3.4. Product Backlog. <a name ="3.4.">
 
+<table border="1" style="text-align: left;">
+	<tbody>
+        <tr>
+            <td style="text-align:center;"><strong># Orden</strong></td>
+            <td style="text-align:center;"><strong>User Story Id</strong></td>
+            <td style="text-align:center;"><strong>Título</strong></td>
+            <td style="text-align:center;"><strong>Descripción</strong></td>
+            <td style="text-align:center;"><strong>Story Points (1/2/3/4/5/8)</strong></td>
+        </tr>
+		<tr>
+			<td>1</td>
+            <td>US001</td>
+			<td>Registro de usuarios en la plataforma</td>
+			<td>Como usuario cliente quiero crearme una cuenta para poder acceder a la aplicación y sus funciones.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>2</td>
+            <td>US002</td>
+			<td>Iniciar sesión en la plataforma</td>
+			<td>Como usuario cliente quiero iniciar sesión para acceder a mi cuenta y gestionar mis órdenes.</td>
+			<td>2</td>
+		</tr>
+        <tr>
+			<td>3</td>
+            <td>US003</td>
+			<td>Gestión de inventario</td>
+			<td>Como administrador quiero gestionar el inventario de ingredientes para asegurar que no se agoten durante las operaciones del restaurante.</td>
+			<td>5</td>
+		</tr>
+        <tr>
+			<td>4</td>
+            <td>US004</td>
+			<td>Alertas de bajo inventario</td>
+			<td>Como administrador quiero recibir alertas cuando el inventario de ingredientes esté bajo para tomar acciones oportunas.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>5</td>
+            <td>US005</td>
+			<td>Registro de pedidos de clientes</td>
+			<td>Como administrador quiero registrar los pedidos de los clientes para gestionar la entrega de platos y mantener un registro histórico.</td>
+			<td>5</td>
+		</tr>
+        <tr>
+			<td>6</td>
+            <td>US006</td>
+			<td>Registro de merma</td>
+			<td>Como administrador quiero registrar y monitorear las mermas de ingredientes para ajustar las compras futuras y reducir pérdidas.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>7</td>
+            <td>US007</td>
+			<td>Gestión de proveedores</td>
+			<td>Como administrador quiero gestionar proveedores y sus productos para poder hacer órdenes de compra fácilmente.</td>
+			<td>4</td>
+		</tr>
+        <tr>
+			<td>8</td>
+            <td>US008</td>
+			<td>Ordenar insumos a proveedores</td>
+			<td>Como administrador quiero realizar órdenes de compra a proveedores de manera rápida y eficiente para asegurar la disponibilidad de insumos.</td>
+			<td>5</td>
+		</tr>
+        <tr>
+			<td>9</td>
+            <td>US009</td>
+			<td>Creación de menús</td>
+			<td>Como administrador quiero crear menús personalizados con platos del sistema para ofrecer a los clientes una variedad adecuada.</td>
+			<td>4</td>
+		</tr>
+        <tr>
+			<td>10</td>
+            <td>US010</td>
+			<td>Calificación de clientes</td>
+			<td>Como administrador quiero permitir a los clientes calificar su experiencia para mejorar el servicio en el restaurante.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>11</td>
+            <td>US011</td>
+			<td>Informe de ventas</td>
+			<td>Como administrador quiero generar informes de ventas diarios y mensuales para evaluar el rendimiento del restaurante.</td>
+			<td>4</td>
+		</tr>
+        <tr>
+			<td>12</td>
+            <td>US012</td>
+			<td>Historial de órdenes</td>
+			<td>Como administrador quiero ver un historial de órdenes de clientes para identificar patrones y preferencias.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>13</td>
+            <td>US013</td>
+			<td>Integración con aplicaciones de delivery</td>
+			<td>Como administrador quiero integrar el sistema con aplicaciones de delivery para aumentar las ventas del restaurante.</td>
+			<td>5</td>
+		</tr>
+        <tr>
+			<td>14</td>
+            <td>US014</td>
+			<td>Notificaciones automáticas a clientes</td>
+			<td>Como administrador quiero enviar notificaciones automáticas a los clientes para informarles sobre promociones y descuentos.</td>
+			<td>3</td>
+		</tr>
+        <tr>
+			<td>15</td>
+            <td>US015</td>
+			<td>Administración de empleados</td>
+			<td>Como administrador quiero gestionar la información y horarios de empleados para asegurar la correcta operación del restaurante.</td>
+			<td>4</td>
+		</tr>
+    </tbody>
+</table>
+
 # Capítulo IV: Product Design <a name ="cap4">
 
 ## 4.1. Style Guidelines. <a name ="4.1.">
