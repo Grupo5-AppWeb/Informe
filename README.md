@@ -2211,46 +2211,46 @@ style="width:128px;height:128px">`
     </tr>
 <!--US01 -->  
     <tr>
-        <td>US01</td>
-        <td>Crear Wireframe de la Landing Page</td>
+        <td>US05</td>
+        <td>Crear Lista de órdenes</td>
         <td>WI01</td>
-        <td>Definir estructura de la página</td>
-        <td>Definir la estructura y los elementos principales de la landing page, incluyendo la ubicación de los elementos y la jerarquía visual.</td>
-        <td>4</td>
-        <td>Garayar Mori, Oscar Nathaniel</td>
+        <td>Lista de órdenes para proveedores</td>
+        <td>Implementar una lista de órdenes a las que atenderá un proveedor de un restaurante mediante Re-Grill</td>
+        <td>8</td>
+        <td>Luis Arce, Oscar Nathaniel, Jamir Marzál</td>
         <td>Done</td>
     </tr>
 <!--US02 --> 
     <tr>
-        <td>US02</td>
-        <td>Desarrollar la Landing Page</td>
+        <td>US06</td>
+        <td>creación de dashboard para proveedores</td>
         <td>WI02</td>
         <td>Implementar el diseño de la página</td>
-        <td>Desarrollar la landing page siguiendo el wireframe definido, incluyendo la estructura HTML y los estilos CSS necesarios.</td>
+        <td>Se logra desarrollar e implementar un dashboard con el fin de ver datos relevantes del restaurante como ventas , ordenes , ganancias , clientes , etc.</td>
         <td>12</td>
-        <td>Hardie Alfonso Holguín Gamarra / Arce Huaman Luis Andres </td>
+        <td>Luis Arce, Oscar Nathaniel, Jamir Marzál</td>
         <td>Done</td>
     </tr>
 <!--US03 --> 
     <tr>
-        <td>US03</td>
-        <td>Revisar y Ajustar la Landing Page</td>
+        <td>US07</td>
+        <td>Desarrollo de gestión de inventario</td>
         <td>WI03</td>
-        <td>Realizar pruebas y ajustes</td>
-        <td>Revisar la landing page para identificar posibles mejoras y ajustes. Realizar pruebas de usabilidad y correcciones necesarias.</td>
-        <td>6</td>
-        <td>Marzál Pérez, Jamir Ángel </td>
+        <td>Gestión de inventario de productos</td>
+        <td>Creación de apartado gestión de inventario de productos para los administradores de un restaurante en la cual se podrá ver datos como ingredientes, fechas de compra,etc. </td>
+        <td>7</td>
+        <td>Fabrisio Belahonia, Anthony Huapaya , Hardie Holguin </td>
         <td>Done</td>
     </tr> 
 <!--US04 -->
     <tr>
-        <td>US04</td>
-        <td>Desplegar la Landing Page</td>
+        <td>US08</td>
+        <td>Creación de apartado recetas</td>
         <td>WI04</td>
-        <td>Configurar el despliegue</td>
-        <td>Configurar el despliegue de la landing page en un entorno de producción. Asegurar que la página esté accesible y funcional.</td>
-        <td>8</td>
-        <td>Belahonia Miranda, Fabrisio Andre</td>
+        <td>Implementación de recetas</td>
+        <td>Desarrollo de apartado sobre agregación de recetas para los restaurantes.</td>
+        <td>6</td>
+        <td>Fabrisio Belahonia, Anthony Huapaya , Hardie Holguin</td>
         <td>Done</td>
     </tr>
 </table>
