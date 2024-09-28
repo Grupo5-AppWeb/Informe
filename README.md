@@ -2136,7 +2136,7 @@ style="width:128px;height:128px">`
 
 #### 5.2.2.1. Sprint Planning 2. <a name ="5.2.2.1.">
 
-<p>En el Sprint #2, que comienza el 10/09/2024, nos enfocaremos en desarrollar el frontend para Re-Grill. El objetivo es crear las vistas del frontend que no solo capten la atención de los visitantes, sino que también transmita claramente los beneficios de nuestro producto. Este sprint estará dedicado al desarrollo del frontend de nuestra aplicación para cumplir con nuestros objetivos estratégicos.</p>
+<p>En el Sprint #2, que comienza el 21/09/2024, nos enfocaremos en desarrollar las pantallas y funcionalidades de nuestro aplicativo Re-Grill. El objetivo es implementar  funcionalidades en base a los requerimientos de los usuarios con el fin de crear un aplicativo de calidad para nuestros segmentos objetivos.</p>
 
 <table>
     <tr>
@@ -2148,11 +2148,11 @@ style="width:128px;height:128px">`
     </tr>
     <tr>
         <td>Date</td>
-        <td>2024-09-10</td>
+        <td>2024-09-21</td>
     </tr>
     <tr>
         <td>Time</td>
-        <td>15:00 PM</td>
+        <td>18:00 PM</td>
     </tr>
     <tr>
         <td>Location</td>
@@ -2160,7 +2160,7 @@ style="width:128px;height:128px">`
     </tr>
     <tr>
         <td>Prepared By </td>
-        <td>Jamir Marzál Pérez</td>
+        <td>Hardie Alfonso Holguín Gamarra , Oscar Nathaniel Garayar Mori</td>
     </tr>
     <tr>
         <td>Attendees (to planning <br>meeting) </td>
@@ -2170,16 +2170,16 @@ style="width:128px;height:128px">`
         <td>Sprint Goal &amp; User Stories </td>
     </tr>
     <tr>
-        <td>Sprint 1 Goal </td>
-        <td>Desarrollar una landing page atractiva para Re-Grill, diseñada para captar la atención de los visitantes y comunicar de manera efectiva los beneficios del producto. El cumplimiento se medirá en función de la finalización del diseño, la implementación y la puesta en producción de la landing page.</td>
+        <td>Sprint 2 Goal </td>
+        <td>Desarrollar las pantallas de nuestro aplicativo para nuestros segmentos objetivos. El cumplimiento se medirá en función de las tareas como lista de órdenes para los administradores de restaurantes como también gestión en el inventario de estos.</td>
     </tr>
     <tr>
-        <td>Sprint 1 Velocity </td>
-        <td>El equipo ha establecido una capacidad de 30 Story Points para el Sprint 1, enfocándose en completar todas las tareas necesarias para el desarrollo de la landing page de Re-Grill.  </td>
+        <td>Sprint 2 Velocity </td>
+        <td>El equipo ha establecido una capacidad de 33 Story Points para el Sprint 2, enfocándose en completar todas las tareas necesarias para el desarrollo de estos apartados.  </td>
     </tr>
     <tr>
         <td>Sum of Story Points </td>
-        <td>30</td>
+        <td>33</td>
     </tr>
 </table>
 
