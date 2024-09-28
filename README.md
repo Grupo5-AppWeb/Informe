@@ -2129,6 +2129,298 @@ style="width:128px;height:128px">`
     
 </table>
 
+### 5.2.2. Sprint 2 <a name ="5.2.2.">
+
+<p>Es fundamental que el equipo dedique especial atención a la identificación del Sprint Goal, siguiendo las guías establecidas por el Scrum Guide. El Sprint Goal debe enfocarse en el negocio o en la perspectiva de los usuarios, buscando la entrega de un nuevo feature o un set de features.</p>
+<p>Para nuestro Sprint, utilizamos la estructura sugerida por Scrum.org para redactar el Sprint Goal:</p>
+
+#### 5.2.2.1. Sprint Planning 2. <a name ="5.2.2.1.">
+
+<p>En el Sprint #1, que comienza el 29/08/2024, nos enfocaremos en desarrollar una landing page  para Re-Grill. El objetivo es crear una página que no solo capte la atención de los visitantes, sino que también transmita claramente los beneficios de nuestro producto. Este sprint estará dedicado al diseño y desarrollo de la landing page para cumplir con nuestros objetivos estratégicos.</p>
+
+<table>
+    <tr>
+        <td>Sprint #</td>
+        <td>Sprint 2</td>
+    </tr>
+    <tr>
+        <td>Sprint Planning Background  </td>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>2024-08-29</td>
+    </tr>
+    <tr>
+        <td>Time</td>
+        <td>16:00 PM</td>
+    </tr>
+    <tr>
+        <td>Location</td>
+        <td>Virtual via discord</td>
+    </tr>
+    <tr>
+        <td>Prepared By </td>
+        <td>Huapaya Cuevas, Anthony Martin , Hardie Alfonso Holguín Gamarra</td>
+    </tr>
+    <tr>
+        <td>Attendees (to planning <br>meeting) </td>
+        <td>Marzál Pérez Jamir Ángel , Belahonia Miranda, Fabrisio Andre , Hardie Alfonso Holguín Gamarra, Arce Huaman Luis Andres, Garayar Mori Oscar Nathaniel, Huapaya Cuevas, Anthony Martin</td>
+    </tr>
+    <tr>
+        <td>Sprint Goal &amp; User Stories </td>
+    </tr>
+    <tr>
+        <td>Sprint 1 Goal </td>
+        <td>Desarrollar una landing page atractiva para Re-Grill, diseñada para captar la atención de los visitantes y comunicar de manera efectiva los beneficios del producto. El cumplimiento se medirá en función de la finalización del diseño, la implementación y la puesta en producción de la landing page.</td>
+    </tr>
+    <tr>
+        <td>Sprint 1 Velocity </td>
+        <td>El equipo ha establecido una capacidad de 30 Story Points para el Sprint 1, enfocándose en completar todas las tareas necesarias para el desarrollo de la landing page de Re-Grill.  </td>
+    </tr>
+    <tr>
+        <td>Sum of Story Points </td>
+        <td>30</td>
+    </tr>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2. <a name ="5.2.2.2.">
+
+<p>El Sprint Backlog para el Sprint #1 tiene como objetivo principal el desarrollo de una landing page para Re-Grill. Este sprint se centrará en la creación y despliegue de una página web atractiva que comunique de manera efectiva los beneficios del producto. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente.</p>
+<p><a href="https://trello.com/invite/b/66c93d50416dba8bfedcae30/ATTIf9ead74d9d706f220f5e3c257dbe2220B5697DD1/appweb-grupo5">Link a Trello</a></p>
+
+<table>
+    <tr>
+        <td>Sprint # </td>
+        <td>Sprint 2 </td>
+    </tr>
+    <tr>
+        <td>User Story  </td>
+        <td></td>        
+        <td>Work-Item / Task </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours) </td>
+        <td>Assigned To</td>
+        <td>Status (To-do/In Process / To Review / Done)</td>
+    </tr>
+<!--US01 -->  
+    <tr>
+        <td>US01</td>
+        <td>Crear Wireframe de la Landing Page</td>
+        <td>WI01</td>
+        <td>Definir estructura de la página</td>
+        <td>Definir la estructura y los elementos principales de la landing page, incluyendo la ubicación de los elementos y la jerarquía visual.</td>
+        <td>4</td>
+        <td>Garayar Mori, Oscar Nathaniel</td>
+        <td>Done</td>
+    </tr>
+<!--US02 --> 
+    <tr>
+        <td>US02</td>
+        <td>Desarrollar la Landing Page</td>
+        <td>WI02</td>
+        <td>Implementar el diseño de la página</td>
+        <td>Desarrollar la landing page siguiendo el wireframe definido, incluyendo la estructura HTML y los estilos CSS necesarios.</td>
+        <td>12</td>
+        <td>Hardie Alfonso Holguín Gamarra / Arce Huaman Luis Andres </td>
+        <td>Done</td>
+    </tr>
+<!--US03 --> 
+    <tr>
+        <td>US03</td>
+        <td>Revisar y Ajustar la Landing Page</td>
+        <td>WI03</td>
+        <td>Realizar pruebas y ajustes</td>
+        <td>Revisar la landing page para identificar posibles mejoras y ajustes. Realizar pruebas de usabilidad y correcciones necesarias.</td>
+        <td>6</td>
+        <td>Marzál Pérez, Jamir Ángel </td>
+        <td>Done</td>
+    </tr> 
+<!--US04 -->
+    <tr>
+        <td>US04</td>
+        <td>Desplegar la Landing Page</td>
+        <td>WI04</td>
+        <td>Configurar el despliegue</td>
+        <td>Configurar el despliegue de la landing page en un entorno de producción. Asegurar que la página esté accesible y funcional.</td>
+        <td>8</td>
+        <td>Belahonia Miranda, Fabrisio Andre</td>
+        <td>Done</td>
+    </tr>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review. <a name ="5.2.2.3.">
+
+<p>Durante el Sprint #2, se lograron avances significativos en la implementación de los componentes clave del proyecto Re-Grill, centrados principalmente en el desarrollo de la Landing Page. Estos avances se alinean con el objetivo principal del sprint, que es diseñar y desplegar una página web atractiva y funcional para captar la atención de los usuarios y comunicar los beneficios del producto de manera efectiva.</p>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id </td>
+        <td>Commit Message </td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date) </td>
+    </tr>
+    <tr>
+        <td>OscarGarayar/landing-page </td>
+        <td>feature/landing-page</td>
+        <td>557bf8a</td>
+        <td>feat: add links to the head, header, main section, about us section and features section.</td>
+        <td>Add images for landing page, add html file for english page.</td>
+        <td>05/09/2024</td>
+    </tr>
+    <tr>
+        <td>HOLGUINUPC/landing-page </td>
+        <td>main</td>
+        <td>e2a6afe</td>
+        <td>feat: css 50% completed</td>
+        <td>add benefits style, hero style, added logo img nav nav ul styles, added .container adn section style</td>
+        <td>05/09/2024</td>
+    </tr>
+    <tr>
+        <td>devfab17/landing-page </td>
+        <td>main</td>
+        <td>6d41e03</td>
+        <td>feat(styles): added features and footer on styles layer.</td>
+        <td>added mobile responsive config on styles layer,  added tables responsive config on styles layer.</td>
+        <td>05/09/2024</td>
+    </tr>
+    <tr>
+        <td>JamirMarzal/landing-page </td>
+        <td>main</td>
+        <td>f778cda</td>
+        <td>feat(es-page): create spanish page</td>
+        <td>create spanish page</td>
+        <td>05/09/2024</td>
+    </tr>    
+    <tr>
+        <td>AndresArceUPC/landing-page </td>
+        <td>main</td>
+        <td>bdf0608</td>
+        <td>feat:Update index.html</td>
+        <td>report-1</td>
+        <td>05/09/2024</td>
+    </tr>
+      <tr>
+        <td>AnthonyHuapaya/landing-page </td>
+        <td>main</td>
+        <td>6d41e03</td>
+        <td>feat(styles): added features and footer on styles layer.</td>
+        <td>added mobile responsive config on styles layer,  added tables responsive config on styles layer.</td>
+        <td>05/09/2024</td>
+    </tr>
+    <tr><td>https://github.com/Grupo5-AppWeb/LandingPage</td></tr>
+
+
+</table>
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.2.4.">
+
+<p>En esta sección, presentamos las evidencias relacionadas con las pruebas de aceptación automatizadas realizadas para la landing page de Re-Grill, desarrollada en el Sprint 1. A lo largo de este sprint, se lograron los objetivos planteados: planificación, desarrollo y despliegue de la landing page. Las pruebas de aceptación se diseñaron para garantizar que la landing page cumpla con los requisitos y expectativas definidos en los User Stories correspondientes. </p>
+
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id </td>
+        <td>Commit Message </td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date) </td>
+    </tr>
+    <tr>
+        <td>JamirMarzal/landing-page</td>
+        <td>feat/testing</td>
+        <td>ee1b2de</td>
+        <td>feat:add acceptance tests for landing page.</td>
+        <td>acceptance tests based on user stories designed for landing page development</td>
+        <td>31/08/2021</td>
+    </tr>
+</table>
+
+#### 5.2.2.5. Execution Evidence for Sprint Review. <a name ="5.2.2.5.">
+
+<p>En este Sprint, se logró desarrollar y desplegar exitosamente la landing page para Re-Grill. Se completaron todas las tareas planificadas, incluyendo la creación del wireframe, el desarrollo de la página, su revisión y ajuste, así como el despliegue en el entorno de producción. La landing page refleja fielmente el diseño y la funcionalidad esperados, proporcionando una interfaz atractiva y funcional para los usuarios.  </p>
+<h5>Screenshots de las Principales Vistas Implementadas</h5>
+<p>Se adjuntan capturas de pantalla de las principales vistas de la landing page desarrollada en el Sprint 1, mostrando el diseño y la estructura de la página.</p>
+<h5>Se implementó el Header</h5>
+<p>En esta sección se pueden observar las principales opciones de la página, un call to action y una descripción sobre nuestra compañía y nuestros valores. </p>
+<img src="resources\hea.png" />
+
+<h5>Se implementó la sección de features y plans.</h5>
+<p>En estas secciones se describen las principales características que tiene Re-grill, así como los diferentes planes de suscripción ques se ofrece.</p>
+<img src="resources\pla.png">
+<h5>Se implementó la sección de Benefits y Questions & Answers </h5>
+<p>En esta sección se describen los beneficios de Re-Grill y se resuelven las preguntas más frecuentes que los usuarios puedan tener.</p>
+<img src="resources\Q.png" alt="Benefits and Questions & Answers">
+<h5>Se implementó el footer con la opción de contacto</h5>
+<p>En esta sección se muestra la información de contacto de la empresa, así como un formulario para que los usuarios puedan enviar sus consultas.</p>
+<img src="resources\FO.png" alt="Footer de la landing page">
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+<p>En este Sprint, el enfoque principal fue el desarrollo y despliegue de la landing page de Re-Grill. No se implementaron Web Services en esta etapa, por lo que no se incluye documentación relacionada con endpoints o servicios web. La implementación y documentación de Web Services será abordada en Sprints futuros, conforme se expanda la funcionalidad del producto.</p>
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+<p>
+    Durante el Sprint 1, nos enfocamos en el despliegue de la landing page de Re-Grill. El objetivo fue asegurar que la página esté accesible para los usuarios finales a través de un entorno de producción confiable. A continuación, se detalla el proceso de despliegue, incluyendo la creación de cuentas necesarias, la configuración de recursos en GitHub Pages, y la automatización de ciertas tareas para facilitar futuros despliegues.
+</p>
+<h5>Creación y Configuración de Repositorio en GitHub</h5>
+        <ul>
+            <li>Se creó un repositorio en GitHub dentro de la organización, donde se alojó el código fuente de la landing page.</li>
+            <li>Se configuró la rama <code>main</code> como la principal para el despliegue, y la rama <code>feat/testing</code> para pruebas de aceptación.</li>
+            <li>Se habilitó GitHub Pages en la rama <code>main</code> para facilitar el despliegue automático de la landing page.</li>
+        </ul>
+<h5>Evidencias Gráficas del Despliegue</h5>
+<p>A continuación, se muestran capturas de pantalla que ilustran el proceso despliegue:</p>
+<img src="resources\hea.png" alt="Header de la landing page">
+<img src="resources\pla.png" alt="Body de la landing page">
+<img src="resources\Q.png" alt="Benefits and Questions & Answers de la landing page">
+<img src="resources\FO.png" alt="Contact Footer de la landing page">
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint. <a name ="5.2.2.8">
+
+<p>
+    Durante el Sprint 2, nos aseguramos de que todas las actividades de implementación fueran realizadas con la colaboración de todos los miembros del equipo. Cada integrante contribuyó a la creación y desarrollo del fronted de Re-Grill, utilizando diversas herramientas de colaboración. A continuación, se presentan los detalles sobre las actividades del equipo y las evidencias gráficas que reflejan la colaboración y los commits en GitHub.
+</p>
+<table>
+    <tr>
+        <td>Team Member</td>
+        <td>Activity </td>
+    </tr>
+    <tr>
+        <td>Arce Huaman Luis Andres</td>
+        <td>Implementación de las secciones log out y reporte.</td>
+    </tr>
+    <tr>
+        <td>Marzál Pérez, Jamir Ángel</td>
+        <td>Implementación de las secciones facturas y perfil.</td>
+    </tr>
+    <tr>
+        <td>Belahonia Miranda, Fabrisio Andre	</td>
+        <td>Implementación de las secciones ordenes y costos.</td>
+    </tr>
+    <tr>
+        <td>Huapaya Cuevas, Anthony Martin</td>
+        <td>Implementación de las secciones costos, registro e inicio de sesion.</td>
+    </tr>
+    <tr>
+        <td>Holguin Gamarra, Hardie Alfonso </td>
+        <td>Implementación de las secciones gestion de inventario y merma.</td>
+    </tr>
+     <tr>
+        <td>Garayar Mori, Oscar Nathaniel</td>
+        <td>Implementación de las secciones lista de ordenes, notificaciones y  ordenes pendientes.</td>
+    </tr>
+    
+</table>
+
 ### 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
