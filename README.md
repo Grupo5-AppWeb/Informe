@@ -70,8 +70,8 @@ En el siguiente cuadro se detallan las acciones realizadas por el equipo, así c
 
 | Criterio Especifico                                                                            | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Conclusiones |
 | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | Nombre: Fabrisio Belahonia: <br> TB1: <br> El trabajo en equipo para proporcionar liderazgo conjunto fue esencial en el desarrollo de la startup. Desde la elaboración de entrevistas hasta el análisis de competidores y el diseño de estrategias, cada miembro contribuyó activamente. Esto fue clave para la creación exitosa de los User Personas, User Task Matrix y User Journey Mapping, cuyo éxito dependió de la colaboración de todo el equipo. Además, el diseño de wireframes, prototipos y diagramas técnicos reflejó una integración sólida y coherente entre todas las áreas del proyecto.<br>Nombre: Anthony Huapaya: <br> TB1: <br> El trabajo en equipo con respecto a la comunicación para tener el mismo punto de vista fue beneficioso para el desarrollo del startup. Desde el planteamiento de la problemática, las hipótesis e ideas de solución y la verificación del segmento objetivo; donde coordinamos como equipo sobre toda esa información. Esto nos ayudo para plantear de mejor manera nuestro modelo de Domain Driven Design y los Wireframes para lograr un prototipo sobre como se vería la aplicación que se está desarrollando.<br>Nombre: Luis Andres Arce Huaman: <br>TB1 <br> El trabajo que hemos hecho nos ayuda a ejercer un rol de lider individualmente , trabajar en equipo nos ayuda a discutir sobre nuestros temas de interes y en el trabajo nos ayudo a enfocarnos en desarrollar una buena entrega. Al desarrollar el estudio de competidores y Users Persona nos ayuda a entender la relevancia de definir bien nuestros segmentos objetivos para hacer estudio de ellos.<br>Nombre: Jamir Ángel Marzál Pérez: <br>TB1 <br> En el proyecto, lideré el desarrollo de las user personas, facilitando discusiones que integraron las ideas del equipo. Además, coordiné la creación de la matriz de tareas, asignando roles de manera equitativa, y guié las sesiones de user journey mapping y empathy mapping, asegurando una visión clara del usuario. Durante el desarrollo del wireframe y mockup de la landing page, colaboré estrechamente con el equipo, garantizando coherencia y liderazgo compartido en cada fase. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Nombre: Fabrisio Belahonia: <br> TB1: <br> Crear un entorno colaborativo e inclusivo fue esencial para el éxito del desarrollo de la startup. El equipo trabajó junto para establecer metas claras, planificar tareas y cumplir objetivos. La colaboración abierta permitió realizar entrevistas efectivas, analizar competidores y diseñar estrategias de manera conjunta. Al desarrollar los User Personas, User Task Matrix y User Journey Mapping, se lograron construir las user stories, que guiaron el diseño de las pantallas en Figma. Este enfoque inclusivo y participativo ayudó a reflejar todas las perspectivas y asegurar que el prototipo final cumpliera con las necesidades del proyecto.<br>Nombre: Anthony Huapaya: <br> TB1: <br> La planificación sobre las fechas que se va realizando en cada parte del documento fue beneficioso para lograr cumplir con los objetivos de esta entrega. Esto nos ayudo a ir agregando las informaciones necesarias para que el otro compañero pueda avanzar con la parte que se le asignó y organizar mejor nuestros tiempos para la entrega final.<br> Nombre: Luis Andres Arce Huaman: <br> TB1: <br> En nuestro trabajo, hemos creado un entorno colaborativo basado en tareas, lo que nos permitió visualizar las actividades de cada miembro del equipo y colaborar activamente en conjunto. Como equipo, hemos cumplido con todos los objetivos propuestos gracias a este enfoque. Creemos que, si continuamos utilizando este método de desarrollo, podremos realizar de manera más eficiente todas las entregas correspondientes.<br>Nombre: Jamir Ángel Marzál Pérez: <br>TB1 <br> Promoví un ambiente inclusivo al asegurar que todos los miembros participaran activamente en la creación de user personas y el as-is scenario mapping. Definí metas claras y organicé las tareas con una task matrix, planificando en conjunto los plazos y responsabilidades. Durante el user journey mapping y el diseño de la landing page, trabajé en la planificación estructurada para cumplir con los objetivos del proyecto dentro de los tiempos acordados.                                                        |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | Nombre: Fabrisio Belahonia: <br> TB1: <br> El trabajo en equipo para proporcionar liderazgo conjunto fue esencial en el desarrollo de la startup. Desde la elaboración de entrevistas hasta el análisis de competidores y el diseño de estrategias, cada miembro contribuyó activamente. Esto fue clave para la creación exitosa de los User Personas, User Task Matrix y User Journey Mapping, cuyo éxito dependió de la colaboración de todo el equipo. Además, el diseño de wireframes, prototipos y diagramas técnicos reflejó una integración sólida y coherente entre todas las áreas del proyecto.<br>Nombre: Anthony Huapaya: <br> TB1: <br> El trabajo en equipo con respecto a la comunicación para tener el mismo punto de vista fue beneficioso para el desarrollo del startup. Desde el planteamiento de la problemática, las hipótesis e ideas de solución y la verificación del segmento objetivo; donde coordinamos como equipo sobre toda esa información. Esto nos ayudo para plantear de mejor manera nuestro modelo de Domain Driven Design y los Wireframes para lograr un prototipo sobre como se vería la aplicación que se está desarrollando.<br>Nombre: Luis Andres Arce Huaman: <br>TB1 <br> El trabajo que hemos hecho nos ayuda a ejercer un rol de lider individualmente , trabajar en equipo nos ayuda a discutir sobre nuestros temas de interes y en el trabajo nos ayudo a enfocarnos en desarrollar una buena entrega. Al desarrollar el estudio de competidores y Users Persona nos ayuda a entender la relevancia de definir bien nuestros segmentos objetivos para hacer estudio de ellos.<br>Nombre: Jamir Ángel Marzál Pérez: <br>TB1 <br> En el proyecto, lideré el desarrollo de las user personas, facilitando discusiones que integraron las ideas del equipo. Además, coordiné la creación de la matriz de tareas, asignando roles de manera equitativa, y guié las sesiones de user journey mapping y empathy mapping, asegurando una visión clara del usuario. Durante el desarrollo del wireframe y mockup de la landing page, colaboré estrechamente con el equipo, garantizando coherencia y liderazgo compartido en cada fase. <br>TP <br> <br>TB1 <br> En el proyecto, lideré el desarrollo de las user personas, facilitando discusiones que integraron las ideas del equipo. Además, coordiné la creación de la matriz de tareas, asignando roles de manera equitativa, y guié las sesiones de user journey mapping y empathy mapping, asegurando una visión clara del usuario. Durante el desarrollo del wireframe y mockup de la landing page, colaboré estrechamente con el equipo, garantizando coherencia y liderazgo compartido en cada fase. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Nombre: Fabrisio Belahonia: <br> TB1: <br> Crear un entorno colaborativo e inclusivo fue esencial para el éxito del desarrollo de la startup. El equipo trabajó junto para establecer metas claras, planificar tareas y cumplir objetivos. La colaboración abierta permitió realizar entrevistas efectivas, analizar competidores y diseñar estrategias de manera conjunta. Al desarrollar los User Personas, User Task Matrix y User Journey Mapping, se lograron construir las user stories, que guiaron el diseño de las pantallas en Figma. Este enfoque inclusivo y participativo ayudó a reflejar todas las perspectivas y asegurar que el prototipo final cumpliera con las necesidades del proyecto.<br>Nombre: Anthony Huapaya: <br> TB1: <br> La planificación sobre las fechas que se va realizando en cada parte del documento fue beneficioso para lograr cumplir con los objetivos de esta entrega. Esto nos ayudo a ir agregando las informaciones necesarias para que el otro compañero pueda avanzar con la parte que se le asignó y organizar mejor nuestros tiempos para la entrega final.<br> Nombre: Luis Andres Arce Huaman: <br> TB1: <br> En nuestro trabajo, hemos creado un entorno colaborativo basado en tareas, lo que nos permitió visualizar las actividades de cada miembro del equipo y colaborar activamente en conjunto. Como equipo, hemos cumplido con todos los objetivos propuestos gracias a este enfoque. Creemos que, si continuamos utilizando este método de desarrollo, podremos realizar de manera más eficiente todas las entregas correspondientes.<br>Nombre: Jamir Ángel Marzál Pérez: <br>TB1 <br> Promoví un ambiente inclusivo al asegurar que todos los miembros participaran activamente en la creación de user personas y el as-is scenario mapping. Definí metas claras y organicé las tareas con una task matrix, planificando en conjunto los plazos y responsabilidades. Durante el user journey mapping y el diseño de la landing page, trabajé en la planificación estructurada para cumplir con los objetivos del proyecto dentro de los tiempos acordados.<br>TP: <br> He fomentado un entorno inclusivo en el que cada miembro del equipo ha contribuido con sus habilidades para establecer metas claras. Me he encargado de planificar las tareas necesarias, asignando roles equitativos y asegurando que cumplamos los objetivos del proyecto 'Regrill', incluyendo la actualización del informe del proyecto en tiempo y forma.                                                        |
 
 # Contenido
 
@@ -2257,7 +2257,7 @@ style="width:128px;height:128px">`
 
 #### 5.2.2.3. Development Evidence for Sprint Review. <a name ="5.2.2.3.">
 
-<p>Durante el Sprint #2, se lograron avances significativos en la implementación de los componentes clave del proyecto Re-Grill, centrados principalmente en el desarrollo de la Landing Page. Estos avances se alinean con el objetivo principal del sprint, que es diseñar y desplegar una página web atractiva y funcional para captar la atención de los usuarios y comunicar los beneficios del producto de manera efectiva.</p>
+<p>Durante el Sprint #2, se logró la implementación de los componentes más relevantes para el aplicativo Re-Grill, Este avance se alinea con el objetivo principal del sprint el cual es desarrollar las pantallas con funcionalidades intuitivas para nuestros segmentos objetivos.</p>
 <table>
     <tr>
         <td>Repository</td>
@@ -2268,121 +2268,100 @@ style="width:128px;height:128px">`
         <td>Commited on (Date) </td>
     </tr>
     <tr>
-        <td>OscarGarayar/landing-page </td>
-        <td>feature/landing-page</td>
-        <td>557bf8a</td>
-        <td>feat: add links to the head, header, main section, about us section and features section.</td>
-        <td>Add images for landing page, add html file for english page.</td>
-        <td>05/09/2024</td>
+        <td>Grupo5-AppWeb/ReGrill-WebApplication </td>
+        <td>login_register</td>
+        <td>7dcfe3b</td>
+        <td>feat: Order list implementation</td>
+        <td>Added order list.</td>
+        <td>27/09/2024</td>
     </tr>
     <tr>
-        <td>HOLGUINUPC/landing-page </td>
+        <td>Grupo5-AppWeb/ReGrill-WebApplication </td>
         <td>main</td>
         <td>e2a6afe</td>
         <td>feat: css 50% completed</td>
         <td>add benefits style, hero style, added logo img nav nav ul styles, added .container adn section style</td>
-        <td>05/09/2024</td>
+        <td>25/09/2024</td>
     </tr>
     <tr>
-        <td>devfab17/landing-page </td>
+        <td>Grupo5-AppWeb/ReGrill-WebApplication </td>
         <td>main</td>
         <td>6d41e03</td>
         <td>feat(styles): added features and footer on styles layer.</td>
         <td>added mobile responsive config on styles layer,  added tables responsive config on styles layer.</td>
-        <td>05/09/2024</td>
+        <td>26/09/2024</td>
     </tr>
     <tr>
-        <td>JamirMarzal/landing-page </td>
+        <td>Grupo5-AppWeb/ReGrill-WebApplication </td>
         <td>main</td>
         <td>f778cda</td>
         <td>feat(es-page): create spanish page</td>
         <td>create spanish page</td>
-        <td>05/09/2024</td>
+        <td>24/09/2024</td>
     </tr>    
     <tr>
-        <td>AndresArceUPC/landing-page </td>
+        <td>Grupo5-AppWeb/ReGrill-WebApplication </td>
         <td>main</td>
         <td>bdf0608</td>
         <td>feat:Update index.html</td>
         <td>report-1</td>
-        <td>05/09/2024</td>
+        <td>23/09/2024</td>
     </tr>
       <tr>
         <td>AnthonyHuapaya/landing-page </td>
-        <td>main</td>
-        <td>6d41e03</td>
-        <td>feat(styles): added features and footer on styles layer.</td>
-        <td>added mobile responsive config on styles layer,  added tables responsive config on styles layer.</td>
-        <td>05/09/2024</td>
+        <td>login_register</td>
+        <td>8c4fc5d</td>
+        <td>feat: added login and register components</td>
+        <td>Added login and register components</td>
+        <td>27/09/2024</td>
     </tr>
-    <tr><td>https://github.com/Grupo5-AppWeb/LandingPage</td></tr>
-
-
 </table>
 
+[Link Frontend](https://github.com/Grupo5-AppWeb/ReGrill-WebApplication)
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review. <a name ="5.2.2.4.">
 
-<p>En esta sección, presentamos las evidencias relacionadas con las pruebas de aceptación automatizadas realizadas para la landing page de Re-Grill, desarrollada en el Sprint 1. A lo largo de este sprint, se lograron los objetivos planteados: planificación, desarrollo y despliegue de la landing page. Las pruebas de aceptación se diseñaron para garantizar que la landing page cumpla con los requisitos y expectativas definidos en los User Stories correspondientes. </p>
-
-<table>
-    <tr>
-        <td>Repository</td>
-        <td>Branch</td>
-        <td>Commit Id </td>
-        <td>Commit Message </td>
-        <td>Commit Message Body</td>
-        <td>Commited on (Date) </td>
-    </tr>
-    <tr>
-        <td>JamirMarzal/landing-page</td>
-        <td>feat/testing</td>
-        <td>ee1b2de</td>
-        <td>feat:add acceptance tests for landing page.</td>
-        <td>acceptance tests based on user stories designed for landing page development</td>
-        <td>31/08/2021</td>
-    </tr>
-</table>
+Para este sprint no se realizaron pruebas debido a que solo se realizaron versiones preliminares.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review. <a name ="5.2.2.5.">
 
-<p>En este Sprint, se logró desarrollar y desplegar exitosamente la landing page para Re-Grill. Se completaron todas las tareas planificadas, incluyendo la creación del wireframe, el desarrollo de la página, su revisión y ajuste, así como el despliegue en el entorno de producción. La landing page refleja fielmente el diseño y la funcionalidad esperados, proporcionando una interfaz atractiva y funcional para los usuarios.  </p>
-<h5>Screenshots de las Principales Vistas Implementadas</h5>
-<p>Se adjuntan capturas de pantalla de las principales vistas de la landing page desarrollada en el Sprint 1, mostrando el diseño y la estructura de la página.</p>
-<h5>Se implementó el Header</h5>
-<p>En esta sección se pueden observar las principales opciones de la página, un call to action y una descripción sobre nuestra compañía y nuestros valores. </p>
-<img src="resources\hea.png" />
+<p>En este Sprint, se logró desarrollar los componentes de las pantallas asociadas a nuestro aplicativo Re-Grill. Se completaron todas las tareas planificadas y se realizó el despliegue en el entorno de producción. Los componentes reflejan las necesidades que requieren nuestros segmentos.  </p>
+<h5>screenshots de las pantallas y funcionalidades.</h5>
+<p>Se adjunta capturas de pantalla de las principales funcionalidades realizadas para el Sprint 2</p>
+<h5>Se implementó el dashboard para proveedores.</h5>
+<p>En esta sección se observa el panel con la vista para los proveedores como número de órdenes , ventas recientes , clientes , ganancias , etc. </p>
+<img src="./resources/execution_evidence/dashboard.jpeg" />
 
-<h5>Se implementó la sección de features y plans.</h5>
-<p>En estas secciones se describen las principales características que tiene Re-grill, así como los diferentes planes de suscripción ques se ofrece.</p>
-<img src="resources\pla.png">
-<h5>Se implementó la sección de Benefits y Questions & Answers </h5>
-<p>En esta sección se describen los beneficios de Re-Grill y se resuelven las preguntas más frecuentes que los usuarios puedan tener.</p>
-<img src="resources\Q.png" alt="Benefits and Questions & Answers">
-<h5>Se implementó el footer con la opción de contacto</h5>
-<p>En esta sección se muestra la información de contacto de la empresa, así como un formulario para que los usuarios puedan enviar sus consultas.</p>
-<img src="resources\FO.png" alt="Footer de la landing page">
+<h5>Se implementó una Order List para proveedores</h5>
+<p>En esta sección se observa una lista de órdenes la cual nos da una información más clara sobre los órdenes de los proveedores.</p>
+<img src="./resources/execution_evidence/order_list.jpeg">
+<h5>Se implementó agregación de recetas para restaurantes </h5>
+<p>En esta sección se observa la agregación de diversas recetas a través de título de receta, ingredientes y preparación.</p>
+<img src="./resources/execution_evidence/recetas.jpeg" alt="Benefits and Questions & Answers">
+<h5>Se implementó gestión de inventario para restaurantes</h5>
+<p>En esta sección se desarrollo el apartado de gestión de inventario en base a productos del restaurante donde se puede monitorear los diversos productos con los que se cuenta</p>
+<img src="./resources/execution_evidence/gestion de inventario.jpeg" alt="Footer de la landing page">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-<p>En este Sprint, el enfoque principal fue el desarrollo y despliegue de la landing page de Re-Grill. No se implementaron Web Services en esta etapa, por lo que no se incluye documentación relacionada con endpoints o servicios web. La implementación y documentación de Web Services será abordada en Sprints futuros, conforme se expanda la funcionalidad del producto.</p>
+<p>En este Sprint, el enfoque principal fue el desarrollo de los componentes así mismo hemos desarrollado nuestra Fake API con los datos relacionados a Suppliers</p>
+<img src="./resources/execution_evidence/Screenshot 2024-09-28 065333.png" alt="Footer de la landing page">
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 <p>
-    Durante el Sprint 2, nos enfocamos en el despliegue de la landing page de Re-Grill. El objetivo fue asegurar que la página esté accesible para los usuarios finales a través de un entorno de producción confiable. A continuación, se detalla el proceso de despliegue, incluyendo la creación de cuentas necesarias, la configuración de recursos en GitHub Pages, y la automatización de ciertas tareas para facilitar futuros despliegues.
+    Durante el Sprint 2, nos enfocamos en el despliegue de la landing page de Re-Grill. El objetivo fue asegurar que la página esté accesible para los usuarios finales a través de un entorno de producción confiable. A continuación, se detalla el proceso de despliegue, incluyendo la creación de cuentas necesarias, la configuración de recursos en github, y la automatización de ciertas tareas para facilitar futuros despliegues.
 </p>
 <h5>Creación y Configuración de Repositorio en GitHub</h5>
         <ul>
-            <li>Se creó un repositorio en GitHub dentro de la organización, donde se alojó el código fuente de la landing page.</li>
-            <li>Se configuró la rama <code>main</code> como la principal para el despliegue, y la rama <code>feat/testing</code> para pruebas de aceptación.</li>
-            <li>Se habilitó GitHub Pages en la rama <code>main</code> para facilitar el despliegue automático de la landing page.</li>
+            <li>Se creó un repositorio en GitHub dentro de la organización, donde se alojó el código fuente del frontend.</li>
+            <li>Se configuró la rama <code>main</code> como la principal para el despliegue </li>            
         </ul>
 <h5>Evidencias Gráficas del Despliegue</h5>
 <p>A continuación, se muestran capturas de pantalla que ilustran el proceso despliegue:</p>
-<img src="resources\hea.png" alt="Header de la landing page">
-<img src="resources\pla.png" alt="Body de la landing page">
-<img src="resources\Q.png" alt="Benefits and Questions & Answers de la landing page">
-<img src="resources\FO.png" alt="Contact Footer de la landing page">
+<img src="./resources/execution_evidence/dashboard.jpeg" alt="Header de la landing page">
+<img src="./resources/execution_evidence/gestion de inventario.jpeg" alt="Body de la landing page">
+<img src="./resources/execution_evidence/recetas.jpeg" alt="Benefits and Questions & Answers de la landing page">
+<img src="./resources/execution_evidence/order_list.jpeg" alt="Contact Footer de la landing page">
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint. <a name ="5.2.2.8">
 
@@ -2420,6 +2399,11 @@ style="width:128px;height:128px">`
     </tr>
     
 </table>
+
+<img src="./resources/collaboration/Screenshot 2024-09-28 070318.png ">
+
+<img src="./resources/collaboration/Screenshot 2024-09-28 070359.png ">
+
 
 ### 5.3. Validation Interviews.
 
