@@ -2131,12 +2131,12 @@ style="width:128px;height:128px">`
 
 ### 5.2.2. Sprint 2 <a name ="5.2.2.">
 
-<p>Es fundamental que el equipo dedique especial atención a la identificación del Sprint Goal, siguiendo las guías establecidas por el Scrum Guide. El Sprint Goal debe enfocarse en el negocio o en la perspectiva de los usuarios, buscando la entrega de un nuevo feature o un set de features.</p>
+<p>Para este sprint nos hemos enfocado en la creación de pantallas intuitivas y eficientes para los proveedores y  administradores de restaurantes, con el objetivo de mejorar la experiencia de gestión de productos y pedidos en la plataforma.</p>
 <p>Para nuestro Sprint, utilizamos la estructura sugerida por Scrum.org para redactar el Sprint Goal:</p>
 
 #### 5.2.2.1. Sprint Planning 2. <a name ="5.2.2.1.">
 
-<p>En el Sprint #1, que comienza el 29/08/2024, nos enfocaremos en desarrollar una landing page  para Re-Grill. El objetivo es crear una página que no solo capte la atención de los visitantes, sino que también transmita claramente los beneficios de nuestro producto. Este sprint estará dedicado al diseño y desarrollo de la landing page para cumplir con nuestros objetivos estratégicos.</p>
+<p>En el Sprint #2, que comienza el 10/09/2024, nos enfocaremos en desarrollar el frontend para Re-Grill. El objetivo es crear las vistas del frontend que no solo capten la atención de los visitantes, sino que también transmita claramente los beneficios de nuestro producto. Este sprint estará dedicado al desarrollo del frontend de nuestra aplicación para cumplir con nuestros objetivos estratégicos.</p>
 
 <table>
     <tr>
@@ -2148,11 +2148,11 @@ style="width:128px;height:128px">`
     </tr>
     <tr>
         <td>Date</td>
-        <td>2024-08-29</td>
+        <td>2024-09-10</td>
     </tr>
     <tr>
         <td>Time</td>
-        <td>16:00 PM</td>
+        <td>15:00 PM</td>
     </tr>
     <tr>
         <td>Location</td>
@@ -2160,7 +2160,7 @@ style="width:128px;height:128px">`
     </tr>
     <tr>
         <td>Prepared By </td>
-        <td>Huapaya Cuevas, Anthony Martin , Hardie Alfonso Holguín Gamarra</td>
+        <td>Jamir Marzál Pérez</td>
     </tr>
     <tr>
         <td>Attendees (to planning <br>meeting) </td>
@@ -2369,7 +2369,7 @@ style="width:128px;height:128px">`
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 <p>
-    Durante el Sprint 1, nos enfocamos en el despliegue de la landing page de Re-Grill. El objetivo fue asegurar que la página esté accesible para los usuarios finales a través de un entorno de producción confiable. A continuación, se detalla el proceso de despliegue, incluyendo la creación de cuentas necesarias, la configuración de recursos en GitHub Pages, y la automatización de ciertas tareas para facilitar futuros despliegues.
+    Durante el Sprint 2, nos enfocamos en el despliegue de la landing page de Re-Grill. El objetivo fue asegurar que la página esté accesible para los usuarios finales a través de un entorno de producción confiable. A continuación, se detalla el proceso de despliegue, incluyendo la creación de cuentas necesarias, la configuración de recursos en GitHub Pages, y la automatización de ciertas tareas para facilitar futuros despliegues.
 </p>
 <h5>Creación y Configuración de Repositorio en GitHub</h5>
         <ul>
