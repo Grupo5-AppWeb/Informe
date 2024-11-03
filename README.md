@@ -154,6 +154,8 @@ En el siguiente cuadro se detallan las acciones realizadas por el equipo, así c
    5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
    5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
    5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
+   5.3. [Validation Interviews](#5.3.)<br>
+   5.3.1. [Diseño de entrevistas](#5.3.1.)
 6. [Conclusiones](#conclusiones)<br>
 7. [Bibliografía](#bibliografía)<br>
 8. [Anexos](#anexos) <br>
@@ -2408,9 +2410,26 @@ Para este sprint no se realizaron pruebas debido a que solo se realizaron versio
 <img src="./resources/collaboration/Screenshot 2024-09-28 070359.png ">
 
 
-### 5.3. Validation Interviews.
+### 5.3. Validation Interviews. <a name ="5.3.">
 
-### 5.3.1. Diseño de Entrevistas.
+### 5.3.1. Diseño de Entrevistas. <a name ="5.3.1.">
+**Preguntas en general:**
+
+¿Cómo fue tu primera impresión al navegar por la página?
+¿Te resultó sencillo completar tareas comunes, como añadir o revisar recetas/proveedores/inventario?
+¿Hay alguna sección o botón que no te haya quedado claro cómo utilizar?
+¿Hay alguna característica o funcionalidad que crees que falta y que te sería útil?
+
+**Preguntas de proveedores:**
+
+¿Consideras útil la forma en que la página organiza y muestra la información de los pedidos?
+¿Te resultó sencillo buscar restaurantes que buscan pedidos de lo que usted provee?
+
+**Preguntas de administrador:**
+
+¿Consideras que la página te permite gestionar bien la cantidad de ingredientes disponibles para tus recetas?
+¿Qué tan intuitivo te resulta añadir, modificar o eliminar recetas?
+¿Te parece que la información disponible en la página es suficiente para tomar decisiones diarias en la cocina?
 
 ### 5.3.2. Registro de Entrevistas.
 
