@@ -2473,9 +2473,9 @@ https://www.youtube.com/watch?v=IrHx4bwdHu8
 # Conclusiones
 
 <p style="text-align: justify">
-En conclusión, AquaEngine se basa en un análisis exhaustivo de las necesidades operativas de nuestros usuarios en el 
+En conclusión, RestauMaster se basa en un análisis exhaustivo de las necesidades operativas de nuestros usuarios en el 
 sector de servicios, resultado de una investigación detallada y retroalimentación directa. Hemos identificado los puntos 
-clave en la gestión de inventarios, organizzacion de toma de pedido,y estrategias específicas de conteopara optimizar
+clave en la gestión de inventarios, organizzacion de toma de pedido,y estrategias específicas de conteo para optimizar
 estos procesos.  
 </p>
 
@@ -2497,7 +2497,7 @@ sprint.
 <p style="text-align: justify">
 Asimismo, aplicamos la arquitectura de Domain-Driven Design (DDD), lo cual nos permitió modelar y estructurar los 
 contextos de negocio específicos, asegurando una separación adecuada de las preocupaciones y una lógica de negocio 
-precisa en cada módulo de AquaEngine. Esta metodología nos ha ayudado a construir una base sólida y flexible para el 
+precisa en cada módulo de Restaumaster. Esta metodología nos ha ayudado a construir una base sólida y flexible para el 
 sistema, facilitando tanto el mantenimiento como su evolución a medida que se expanden los requerimientos del negocio.
 </p>
 
