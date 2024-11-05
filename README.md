@@ -2409,6 +2409,722 @@ Para este sprint no se realizaron pruebas debido a que solo se realizaron versio
 
 <img src="./resources/collaboration/Screenshot 2024-09-28 070359.png ">
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+En el siguiente apartado, se presentará el sprint planning 3, donde se mostrará la planificación e implementación del back end en la web application. Además, se mostrarán los avances del proyecto e insights de colaboración a través de Github.
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 3 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 16/10/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 11:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad presencial en la Universidad <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Webworks <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Zavala Quedena, Gonzalo Andre
+        <br>
+          Arroyo Ormeño, André Alonso
+           <br>
+          Principe Godoy, Johan
+          <br>
+          Espino Flores, Alejandro
+          <br>
+	        Holguin Gamarra, Hardie
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+        <td> Se logró la implementación del fronted de la Aplicación Web y su conexión con una fake api, esta fue desplegada en Netlify<td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+        <td style="text-align: justify"> 
+          En este sprint como equipo logramos desplegar la Aplicación Web consumiendo una fake api de forma adecuada  debido a la correcta division de tareas y aporte de cada uno. Sin embargo, algunos miembros del equipo tuvieron cierta complicaciones a la hora de hacer merge a la rama develop. Aspecto el cual planeamos mejorar. Como equipo esperamos poder cumplir con
+          los objetivos para el sprint 3.
+        <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Goal</td>
+          <td style="text-align: justify"> 
+            Nuestro enfoque en este sprint es optimizar la eficiencia en la gestión agrícola y ofrecer un control más preciso sobre las operaciones diarias, 
+            mediante nuevas vistas y funcionalidades para el monitoreo financiero y la planificación de actividades. Creemos que esto proporcionará a los productores una 
+            herramienta integral para gestionar sus recursos de forma estratégica, dándoles la flexibilidad necesaria para tomar decisiones 
+            informadas en cada etapa del ciclo agrícola. El impacto esperado es que los agricultores puedan visualizar claramente sus ingresos y gastos en tiempo real, lo que les permitirá ajustar sus operaciones según sus necesidades y oportunidades emergentes. También buscamos que la plataforma les ofrezca un calendario integrado para organizar actividades clave, como la siembra, el riego y la cosecha, promoviendo una gestión más ordenada y previsora de sus recursos. Esto se confirmará cuando los usuarios puedan acceder a reportes financieros detallados, que incluyan ingresos y costos desglosados por actividad, y puedan planificar y visualizar sus actividades agrícolas de forma intuitiva y eficiente dentro del sistema. Esta funcionalidad no solo facilitará una gestión precisa, sino que también aumentará la confianza de los agricultores en la plataforma como una herramienta esencial para el éxito de su operación agrícola.
+          <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+          <td> 11 <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 30 <td>
+      </tr>
+
+</table>  
+
+ ### 5.2.3.2 Sprint BackLog 3  
+ En esta sección se presentarán las tareas completadas durante el sprint actual, acompañadas de una captura de pantalla y el enlace al tablero de tareas en la plataforma Trello.  
+ 
+ Enlace de Trello: https://shorturl.at/YbuJM  
+
+ <table style="height:1000px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 3 </th>
+   </tr>
+   <tr>
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Bounded Context </th>
+     <th> Functionality </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To-Review / Done) </th>
+   </tr>
+   <tr>
+      <th> E6-US02 </th>
+      <th colspan="3"> Register User </th>
+      <th> W23 </th>
+      <th> iam </th>
+      <th> Implementar registro de usuario a través del API </th>
+      <th> 4 </th>
+      <th> André Arroyo </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US03 </th>
+      <th colspan="3"> User Login </th>
+      <th> W23 </th>
+      <th> iam </th>
+      <th> Crear funcionalidad de inicio de sesión mediante el API </th>
+      <th> 3 </th>
+      <th> André Arroyo </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US04 </th>
+      <th colspan="3"> Get User Information </th>
+      <th> W23 </th>
+      <th> iam </th>
+      <th> Implementar endpoint para obtener información del usuario </th>
+      <th> 3 </th>
+      <th> André Arroyo </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US05 </th>
+      <th colspan="3"> Create Planting Record </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Crear registro de plantación a través de API </th>
+      <th> 5 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US06 </th>
+      <th colspan="3"> Get Plantation Registration Information </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Implementar endpoint para obtener información de plantación </th>
+      <th> 4 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US07 </th>
+      <th colspan="3"> End Planting Cycle </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Función para finalizar ciclo de plantación </th>
+      <th> 6 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US08 </th>
+      <th colspan="3"> Add Worker Record </th>
+      <th> W23 </th>
+      <th> fields </th>
+      <th> Crear registro de trabajador a través del API </th>
+      <th> 3 </th>
+      <th> Alejandro Espino </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US09 </th>
+      <th colspan="3"> Get Worker Registration </th>
+      <th> W23 </th>
+      <th> fields </th>
+      <th> Obtener información de registro de trabajadores </th>
+      <th> 3 </th>
+      <th> Alejandro Espino </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US10 </th>
+      <th colspan="3"> Delete Worker Record </th>
+      <th> W23 </th>
+      <th> fields </th>
+      <th> Eliminar registro de trabajador a través del API </th>
+      <th> 4 </th>
+      <th> Alejandro Espino </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US11 </th>
+      <th colspan="3"> Edit Worker Record </th>
+      <th> W23 </th>
+      <th> fields </th>
+      <th> Implementar edición de registro de trabajador </th>
+      <th> 4 </th>
+      <th> Alejandro Espino </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US12 </th>
+      <th colspan="3"> Create Irrigation Dates </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Crear fechas de irrigación mediante el API </th>
+      <th> 5 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US13 </th>
+      <th colspan="3"> Get Irrigation Dates </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Obtener fechas de irrigación de un campo </th>
+      <th> 3 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US14 </th>
+      <th colspan="3"> Delete Irrigation </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Función para eliminar registros de irrigación </th>
+      <th> 4 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US15 </th>
+      <th colspan="3"> Add Treatment </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Crear registro de tratamiento para los cultivos </th>
+      <th> 6 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US16 </th>
+      <th colspan="3"> Get Treatment </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Obtener información de tratamientos aplicados </th>
+      <th> 3 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US17 </th>
+      <th colspan="3"> Delete Treatment </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Función para eliminar tratamientos de cultivos </th>
+      <th> 4 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US18 </th>
+      <th colspan="3"> Create Harvest </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Implementar registro de cosecha a través del API </th>
+      <th> 6 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US19 </th>
+      <th colspan="3"> Get Harvest </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Obtener información de cosechas registradas </th>
+      <th> 3 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US20 </th>
+      <th colspan="3"> Delete Harvest </th>
+      <th> W23 </th>
+      <th> agriculturalProcess </th>
+      <th> Eliminar registros de cosechas </th>
+      <th> 4 </th>
+      <th> Johan Principe </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US21 </th>
+      <th colspan="3"> Create Financing </th>
+      <th> W23 </th>
+      <th> finances </th>
+      <th> Crear registro de financiamiento a través del API </th>
+      <th> 5 </th>
+      <th> Gonzalo Quedena </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US22 </th>
+      <th colspan="3"> Get Financing </th>
+      <th> W23 </th>
+      <th> finances </th>
+      <th> Obtener información de financiamiento </th>
+      <th> 3 </th>
+      <th> Gonzalo Quedena </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US23 </th>
+      <th colspan="3"> Delete Financing </th>
+      <th> W23 </th>
+      <th> finances </th>
+      <th> Función para eliminar registros de financiamiento </th>
+      <th> 4 </th>
+      <th> Gonzalo Quedena </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US24 </th>
+      <th colspan="3"> Process Payment Subscription </th>
+      <th> W23 </th>
+      <th> payment </th>
+      <th> Implementar el procesamiento de pagos internamente en el sistema </th>
+      <th> 7 </th>
+      <th> Hardie Olguin </th>
+      <th> Done </th>
+   </tr>
+</table>  
+
+### 5.2.3.3 Development Evidence for Sprint Review.  
+
+En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> develop  </th>
+   <th> e6b16d9 </th>
+   <th>  Initial commit </th>
+   <th> </th>
+   <th> 10/10/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/store  </th>
+   <th> bd4512  </th>
+   <th>  feat(store): add product command and query service implementations.  </th>
+   <th> </th>
+   <th> 15/10/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/store  </th>
+   <th>  f9b1e4  </th>
+   <th>  feat(store): add payment inbound service.</th>
+   <th> </th>
+   <th> 15/10/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/store  </th>
+   <th> 5d29de4  </th>
+   <th>  feat(store): add interface layer resource and transform types. </th>
+   <th> </th>
+   <th> 15/10/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/subscriptions  </th>
+   <th> 85dad5  </th>
+   <th> feat(payments): add payment command and query service implementations. </th>
+   <th> </th>
+   <th> 15/10/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/subscriptions  </th>
+   <th> 7c84d25  </th>
+   <th>  feat(payments): add payment inbound service. </th>
+   <th> </th>
+   <th> 20/10/24   </th>
+ </tr>
+
+   <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/subscriptions  </th>
+   <th> 5ef950  </th>
+   <th>  fix: add missing @EnableJpaAuditing annotation.  </th>
+   <th> </th>
+   <th> 20/10/24 </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/payments  </th>
+   <th> 29b944  </th>
+   <th> feat(payments): add payment outbound service  </th>
+   <th> </th>
+   <th> 20/10/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/payments  </th>
+   <th> 3755a9  </th>
+   <th> feat(payments): add payment command and query service implementations.  </th>
+   <th> </th>
+   <th> 20/10/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/payments  </th>
+   <th> 29b944  </th>
+   <th> feat(payments): add payment outbound service  </th>
+   <th> </th>
+   <th> 20/10/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/payments  </th>
+   <th> 28ef78  </th>
+   <th>  feat(payments): add interface layer resource and transform types  </th>
+   <th> </th>
+   <th> 20/10/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/iam-and-profile  </th>
+   <th> 1d200c8  </th>
+   <th>  feat: dependencies of security and jwt added  </th>
+   <th> </th>
+   <th> 10/10/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/iam-and-profile  </th>
+   <th> 37fce5  </th>
+   <th> feat: commandservices, queryservices and eventhandlers of iam added  </th>
+   <th> </th>
+   <th> 10/10/24   </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/iam-and-profile  </th>
+   <th> 11386b2  </th>
+   <th> feat: controllers of iam and profile added  </th>
+   <th> </th>
+   <th> 10/10/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/iam-and-profile  </th>
+   <th> 68968a  </th>
+   <th> feat(iam): add transctional of services and documentation in controller </th>
+   <th> </th>
+   <th> 10/10/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/iam-and-profile  </th>
+   <th> 4799f6  </th>
+   <th> feat(iam): change username for email in User  </th>
+   <th> </th>
+   <th> 10/10/24  </th>
+ </tr>
+
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/finances  </th>
+   <th> 435f46  </th>
+   <th> feat(finances): add finance aggregate, commands, queries, repository, services, controller, etc.  </th>
+   <th> </th>
+   <th> 30/10/24  </th>
+ </tr>
+
+<tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields  </th>
+   <th> a1df68 </th>
+   <th>  feat(monetization): added queries with params and search by id  </th>
+   <th> </th>
+   <th> 29/05/24  </th>
+ </tr>
+
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields </th>
+   <th> 8e137d </th>
+   <th>  feat(field): add field aggregate.  </th>
+   <th> </th>
+   <th> 25/05/24  </th>
+ </tr>
+
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields </th>
+   <th> bc55cd </th>
+   <th>  feat(field): added UpdateFieldCommandFromResourceAssembler transform.  </th>
+   <th> </th>
+   <th> 25/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields </th>
+   <th> 9a4b76 </th>
+   <th>  fix(field): fixed Field Command and Query Implementation.  </th>
+   <th> </th>
+   <th> 25/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields </th>
+   <th> eb6572 </th>
+   <th>  fix(field): fixed GetFieldsByProducerIdQuery query. </th>
+   <th> </th>
+   <th> 25/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields  </th>
+   <th> 3496ff </th>
+   <th>  fix(field): remove GetAllFieldsQuery. </th>
+   <th> </th>
+   <th> 25/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/fields  </th>
+   <th> 655447 </th>
+   <th>  feat(workers): added commands, queries, resources, etc </th>
+   <th> </th>
+   <th> 25/05/24  </th>
+ </tr>
+
+   <tr> 
+   <th> Agrocontrol-backend </th>
+   <th> feature/agriculturalProcess  </th>
+   <th> 40a619 </th>
+   <th> feat(agricultural-processes): add agricultural process inbound service. </th>
+   <th> </th>
+   <th> 15/10/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/agriculturalProcess </th>
+   <th> 9707b9 </th>
+   <th> feat(agricultural-processes): add GetAgriculturalProcessByFieldIdQuery. </th>
+   <th> </th>
+   <th> 15/10/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/agriculturalProcess  </th>
+   <th> 87e64f </th>
+   <th> fix(agricultural-processes): manage of list in AgriculturalProcessesController. </th>
+   <th> </th>
+   <th> 15/10/24   </th>
+ </tr>
+
+  <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/agriculturalProcess  </th>
+   <th> c1f067 </th>
+   <th> feat: added dependecies </th>
+   <th> </th>
+   <th> 15/10/24   </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/agriculturalProcess  </th>
+   <th> 016b7a </th>
+   <th> feat(agricultural-processes): add query to retrieve activities by type of an agricultural process. </th>
+   <th> </th>
+   <th> 15/10/24   </th>
+ </tr>
+
+ <tr> 
+   <th> Agrocontrol-backend </th>
+   <th>  feature/agriculturalProcess  </th>
+   <th> 9b20f8 </th>
+   <th> feat(agricultural-processes): add harvest entity. </th>
+   <th> </th>
+   <th> 26/10/24  </th>
+ </tr>
+
+ </table>
+
+
+
+### 5.2.3.4 Testing Suite Evidence for Sprint Review.
+
+En este sprint no se llevaron a cabo pruebas de aceptación en la herramienta Gherkin, ya que no fueron necesarias.
+
+### 5.2.3.5 Execution Evidence for Sprint Review.  
+
+Actualmente, no hemos realizado modificaciones en el frontend, ya que cumplimos con todos los requisitos funcionales en el sprint anterior.   
+La aplicación web sigue siendo accesible a través del siguiente enlace: http://agrocontrol-frontend.vercel.app/
+
+En la página de aterrizaje se incorporaron los videos "about the product" y "about the team", con el objetivo de dar a conocer de manera más efectiva nuestro producto a través de un video promocional y de presentar a nuestro equipo  
+Link de acceso al Landing Page: https://agrocontrol-landing-page-upc.vercel.app/  
+
+### 5.2.3.6 Services Documentation Evidence for Sprint Review.  
+En esta sección se mostrarán los endpoints creados durante el sprint actual, junto con capturas de pantalla de las acciones CRUD y otros métodos implementados. En el alcance del sprint, se han desarrollado los bounded contexts de monetización, colaboración, usuario y contenido.  
+
+Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/Agrocontrol-backend  
+
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> agriculturalProcess Bounded Context </strong> </th>
+    <th> <strong> /api/v1/agricultural-processes </strong> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/agricultural-process.png"> </th>
+  </tr>
+
+
+  <tr>
+   <th> <strong> fields Bounded Context </strong> </th>
+    <th> <strong> /api/v1/fields | /api/v1/workers </strong> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/fields.png"> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> finances Bounded Context </strong> </th>
+    <th> <strong> /api/v1/finances </strong> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/finances.png"> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> iam Bounded Context </strong> </th>
+    <th> <strong> /api/v1/users | /api/v1/roles | /api/v1/authentication </strong> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/Authentication.png"> </th>
+  </tr>
+
+<tr>
+   <th> <strong> payments Bounded Context </strong> </th>
+    <th> <strong> /api/v1/payments </strong> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/Payments.png"> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> profiles Bounded Context </strong> </th>
+    <th> <strong> /api/v1/profiles </strong> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/PROFILES.png"> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> store Bounded Context </strong> </th>
+    <th> <strong> /api/v1/products </strong> </th>
+    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/sprint3/products.png"> </th>
+  </tr>
+
+</table>
+
+### 5.2.3.7 Software Deployment Evidence for Sprint Review.  
+
+En este sprint, se ha desarrollado la API de la aplicación web, utilizando las siguientes herramientas. No obstante, el despliegue de la API no está incluido en el alcance de este sprint.  
+
+<ul>
+
+<li> Git: Sistema de control de versiones que utilizamos para colaborar y rastrear las versiones de la aplicación web en un repositorio remoto.</li>
+<li> Gitflow: Proceso de trabajo colaborativo que nos permitió organizar el trabajo en ramas dentro de nuestro repositorio, facilitando así la colaboración en el desarrollo.</li>
+<li> GitHub: Plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto. </li>
+<li> Swagger Ui: Herramienta destinada a probar y documentar nuestra API.</li>
+
+</ul>
+
+### 5.2.3.8 Team Collaboration Insights during Sprint.  
+
+A continuación se mostrarán el gráfico de insights durante el sprint:
+
+<img src="./assets/collaboration insights/insights-sprint3.jpg"/>
+
 
 ### 5.3. Validation Interviews. <a name ="5.3.">
 
