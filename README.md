@@ -2432,22 +2432,97 @@ Para este sprint no se realizaron pruebas debido a que solo se realizaron versio
 ¿Te parece que la información disponible en la página es suficiente para tomar decisiones diarias en la cocina?
 
 ### 5.3.2. Registro de Entrevistas.
+**Segmento 1**  
+Nombre: _____
+Edad: _ años
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)  
+{texto mucho}
+
+**Segmento 2**  
+Nombre: _____
+Edad: _ años
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)
+{texto}
 
 ### 5.3.3. Evaluaciones según heurísticas.
+| HEURÍSTICA                                    | EVALUACIÓN    | NOTA    |
+|-----------------------------------------------|-----------------|---------|
+| Visibilidad del estado del sistema            |                 | {texto} |
+| Coincidencia entre el sistema y el mundo real |                 | {texto} |
+| Control y libertad del usuario                |                 | {texto} |
+| Consistencia y estándares                     |                 | {texto} |
+| Prevención de errores                         |                 | {texto} |
+| Mostrar antes que recordar                    |                 | {texto} |
+| Flexibilidad y eficiencia de uso              |                 | {texto} |
+| Diseño estético y minimalista                 |                 | {texto} |
+| Comunicar errores con facilidad               |                 | {texto} |
+| Ayuda y documentación                         |                 | {texto} |
 
-### 5.4. Video About-the-Product.
+## 5.4. Video About-the-Product.  
 
-###
+Este video presenta de forma concisa las características y beneficios clave del producto, ofreciendo a los usuarios una visión rápida de su utilidad y valor.  
 
-### Conclusiones
+https://www.youtube.com/watch?v=IrHx4bwdHu8  
 
-### Conclusiones y recomendaciones.
+<img src="/assets/images/chapter-V/5.2.3/about-the-product-screenshot.png" alt="about-the-product-evidence"/>  
 
-### Video About-the-Team.
+# Conclusiones
 
-### Bibliografía
+<p style="text-align: justify">
+En conclusión, AquaEngine se basa en un análisis exhaustivo de las necesidades operativas de nuestros usuarios en el 
+sector pesquero, resultado de una investigación detallada y retroalimentación directa. Hemos identificado los puntos 
+clave en la gestión de inventarios, equipos y mantenimiento de maquinaria pesquera, y formulado estrategias específicas
+para optimizar estos procesos.  
+</p>
 
-### Anexos
+<p style="text-align: justify">
+El desarrollo de funcionalidades clave, como la administración de solicitudes de compra, el monitoreo del estado del 
+equipo y el registro de historiales de mantenimiento, apunta a reducir la carga operativa de nuestros usuarios, 
+permitiéndoles una gestión más ágil y centrada en datos. Estas mejoras están diseñadas para aumentar la eficiencia 
+en la operación diaria y fortalecer la confianza en el sistema, lo que se traduce en una mayor continuidad y control 
+de las actividades de los usuarios.
+</p>
+
+<p style="text-align: justify">
+El enfoque ágil que adoptamos nos permite dividir el trabajo en sprints manejables, lo cual facilita la adaptación 
+constante a nuevas necesidades y la incorporación de feedback en cada etapa. Esto garantiza que cada desarrollo se 
+realice de manera ordenada y orientada al valor, con una planificación clara y transparencia en la ejecución de cada 
+sprint.
+</p>
+
+<p style="text-align: justify">
+Asimismo, aplicamos la arquitectura de Domain-Driven Design (DDD), lo cual nos permitió modelar y estructurar los 
+contextos de negocio específicos, asegurando una separación adecuada de las preocupaciones y una lógica de negocio 
+precisa en cada módulo de AquaEngine. Esta metodología nos ha ayudado a construir una base sólida y flexible para el 
+sistema, facilitando tanto el mantenimiento como su evolución a medida que se expanden los requerimientos del negocio.
+</p>
+
+# Video About-the-Team
+En esta sección se presenta el video "About the Team", en el cual describimos el proceso de desarrollo llevado a cabo 
+para la aplicación web y la API, incluyendo escenas del trabajo en equipo. También se detallan aspectos del planeamiento,
+como las historias de usuario y el diseño de la aplicación. Además, este proyecto nos permitió, como equipo, ampliar 
+nuestros conocimientos en desarrollo frontend y backend, brindándonos la oportunidad de tener una primera experiencia 
+en la creación de una aplicación web completa.  
+
+Video About-the-Team: https://youtu.be/utn09GWWGXs  
+
+# Bibliografía
+
+Miles, R., & Hamilton, K. (2006). Learning UML 2.0. O'Reilly Media. Retrieved from https://bit.ly/4fmPE7k
+
+Jansen, S. M. (2019). Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and 
+Microservices. Apress. Retrieved from https://bit.ly/4flQyB7
+
+# Anexos
+| Sección        | Enlace al video |
+|----------------|-----------------|
+| Vídeo Sprint 1 | 
+| Vídeo Sprint 2 |                 |
+| Vídeo Sprint 3 |                 |
+
+Video about the product for sprint 3: https://youtu.be/IrHx4bwdHu8
 
 **Video del prototipo**
 
