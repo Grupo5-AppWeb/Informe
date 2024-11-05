@@ -2466,9 +2466,9 @@ Eliana Rodríguez es proveedora de alimentos, principalmente verduras, para rest
 
 Este video presenta de forma concisa las características y beneficios clave del producto, ofreciendo a los usuarios una visión rápida de su utilidad y valor.  
 
-https://www.youtube.com/watch?v=IrHx4bwdHu8  
+Video About The Product: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EXXCwx-ZagtMhJJeoSrNY6cBa303ogL09r6s552NHgFDYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fF11Fu"
 
-<img src="/assets/images/chapter-V/5.2.3/about-the-product-screenshot.png" alt="about-the-product-evidence"/>  
+<img src="./resources/about-the-product.png" alt="About The Product"/>  
 
 # Conclusiones
 
@@ -2524,7 +2524,7 @@ Microservices. Apress. Retrieved from https://bit.ly/4flQyB7
 | Vídeo Sprint 2 |                 |
 | Vídeo Sprint 3 |                 |
 
-Video about the product for sprint 3: https://youtu.be/IrHx4bwdHu8
+Video about the product for sprint 3: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EXXCwx-ZagtMhJJeoSrNY6cBa303ogL09r6s552NHgFDYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fF11Fu"
 
 **Video del prototipo**
 
