@@ -2513,7 +2513,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> iam </th>
       <th> Implementar registro de usuario a travﾃｩs del API </th>
       <th> 4 </th>
-      <th> Andrﾃｩ Arroyo </th>
+      <th> Hardie Alfonso </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2523,7 +2523,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> iam </th>
       <th> Crear funcionalidad de inicio de sesiﾃｳn mediante el API </th>
       <th> 3 </th>
-      <th> Andrﾃｩ Arroyo </th>
+      <th> Hardie Alfonso </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2533,7 +2533,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> iam </th>
       <th> Implementar endpoint para obtener informaciﾃｳn del usuario </th>
       <th> 3 </th>
-      <th> Andrﾃｩ Arroyo </th>
+      <th> Hardie Alfonso </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2543,7 +2543,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> agriculturalProcess </th>
       <th> Crear registro de plantaciﾃｳn a travﾃｩs de API </th>
       <th> 5 </th>
-      <th> Johan Principe </th>
+      <th> Huapaya Cuevas </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2553,7 +2553,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> agriculturalProcess </th>
       <th> Implementar endpoint para obtener informaciﾃｳn de plantaciﾃｳn </th>
       <th> 4 </th>
-      <th> Johan Principe </th>
+      <th> Huapaya Cuevas </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2563,7 +2563,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> agriculturalProcess </th>
       <th> Funciﾃｳn para finalizar ciclo de plantaciﾃｳn </th>
       <th> 6 </th>
-      <th> Johan Principe </th>
+      <th> Huapaya Cuevas </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2573,7 +2573,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> fields </th>
       <th> Crear registro de trabajador a travﾃｩs del API </th>
       <th> 3 </th>
-      <th> Alejandro Espino </th>
+      <th> Jamir ﾃ］gel </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2583,7 +2583,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> fields </th>
       <th> Obtener informaciﾃｳn de registro de trabajadores </th>
       <th> 3 </th>
-      <th> Alejandro Espino </th>
+      <th> Jamir ﾃ］gel </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2593,7 +2593,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> fields </th>
       <th> Eliminar registro de trabajador a travﾃｩs del API </th>
       <th> 4 </th>
-      <th> Alejandro Espino </th>
+      <th> Jamir ﾃ］gel </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2603,7 +2603,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> fields </th>
       <th> Implementar ediciﾃｳn de registro de trabajador </th>
       <th> 4 </th>
-      <th> Alejandro Espino </th>
+      <th> Jamir ﾃ］gel </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2613,7 +2613,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> agriculturalProcess </th>
       <th> Crear fechas de irrigaciﾃｳn mediante el API </th>
       <th> 5 </th>
-      <th> Johan Principe </th>
+      <th> Jamir ﾃ］gel </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2623,7 +2623,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> agriculturalProcess </th>
       <th> Obtener fechas de irrigaciﾃｳn de un campo </th>
       <th> 3 </th>
-      <th> Johan Principe </th>
+      <th> Huapaya Cuevas </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2633,7 +2633,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> agriculturalProcess </th>
       <th> Funciﾃｳn para eliminar registros de irrigaciﾃｳn </th>
       <th> 4 </th>
-      <th> Johan Principe </th>
+      <th> Huapaya Cuevas </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2643,7 +2643,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> agriculturalProcess </th>
       <th> Crear registro de tratamiento para los cultivos </th>
       <th> 6 </th>
-      <th> Johan Principe </th>
+      <th> Huapaya Cuevas </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2653,7 +2653,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> agriculturalProcess </th>
       <th> Obtener informaciﾃｳn de tratamientos aplicados </th>
       <th> 3 </th>
-      <th> Johan Principe </th>
+      <th> Huapaya Cuevas </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2663,7 +2663,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> agriculturalProcess </th>
       <th> Funciﾃｳn para eliminar tratamientos de cultivos </th>
       <th> 4 </th>
-      <th> Johan Principe </th>
+      <th> Oscar Nathaniel </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2673,7 +2673,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> agriculturalProcess </th>
       <th> Implementar registro de cosecha a travﾃｩs del API </th>
       <th> 6 </th>
-      <th> Johan Principe </th>
+      <th> Oscar Nathaniel </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2683,7 +2683,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> agriculturalProcess </th>
       <th> Obtener informaciﾃｳn de cosechas registradas </th>
       <th> 3 </th>
-      <th> Johan Principe </th>
+      <th> Oscar Nathaniel </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2693,7 +2693,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> agriculturalProcess </th>
       <th> Eliminar registros de cosechas </th>
       <th> 4 </th>
-      <th> Johan Principe </th>
+      <th> Oscar Nathaniel </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2703,7 +2703,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> finances </th>
       <th> Crear registro de financiamiento a travﾃｩs del API </th>
       <th> 5 </th>
-      <th> Gonzalo Quedena </th>
+      <th> Oscar Nathaniel </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2713,7 +2713,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> finances </th>
       <th> Obtener informaciﾃｳn de financiamiento </th>
       <th> 3 </th>
-      <th> Gonzalo Quedena </th>
+      <th> Oscar Nathaniel </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2723,7 +2723,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> finances </th>
       <th> Funciﾃｳn para eliminar registros de financiamiento </th>
       <th> 4 </th>
-      <th> Gonzalo Quedena </th>
+      <th> Oscar Nathaniel </th>
       <th> Done </th>
    </tr>
    <tr>
@@ -2733,7 +2733,7 @@ En el siguiente apartado, se presentarﾃ｡ el sprint planning 3, donde se mostrarﾃ
       <th> payment </th>
       <th> Implementar el procesamiento de pagos internamente en el sistema </th>
       <th> 7 </th>
-      <th> Hardie Olguin </th>
+      <th> Hardie Holguin </th>
       <th> Done </th>
    </tr>
 </table>  
