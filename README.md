@@ -2508,7 +2508,9 @@ como las historias de usuario y el diseño de la aplicación. Además, este proy
 nuestros conocimientos en desarrollo frontend y backend, brindándonos la oportunidad de tener una primera experiencia 
 en la creación de una aplicación web completa.  
 
-Video About-the-Team: https://youtu.be/utn09GWWGXs  
+Video About-the-Team: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ETFUb-q-4DdAjHbvo74Y_BwBoK-2F5IbV8R1naPl9YONow?e=WAYSbY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"  
+
+<img src="./resources/about-the-team.png" alt="About The Team"/>  
 
 # Bibliografía
 
