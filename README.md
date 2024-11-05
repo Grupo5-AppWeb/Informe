@@ -1754,7 +1754,7 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
 
 1. Git: Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo
    accederán a través de la línea de comandos en sus sistemas locales.
-
+   
    Ruta de referencia: https://git-scm.com/
    <br>
    <br>
@@ -2433,18 +2433,20 @@ Para este sprint no se realizaron pruebas debido a que solo se realizaron versio
 
 ### 5.3.2. Registro de Entrevistas.
 **Segmento 1**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
+Nombre: Keyner Hancco
+Edad: 27 años
+Ocupación: Administrador  
 ![Imagen de entrevista](image.jpg)  
-{texto mucho}
+
+El entrevistado, administrador de restaurante, subraya que un software de gestión esencial debe integrar funciones como la gestión de mesas y reservas, control de inventario, seguimiento de ventas, y gestión de pedidos en cocina. También considera crucial la integración con proveedores y capacidades de análisis financiero para automatizar procesos y optimizar operaciones diarias. Prefiere herramientas que faciliten la toma de decisiones mediante reportes detallados y análisis de datos, y busca mejorar la intuitividad del software y la fluidez en la integración con proveedores. Esto refleja su necesidad de un sistema eficiente que simplifique la gestión y mejore la precisión operativa.
 
 **Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
+Nombre: Eliana Rodríguez  
+Edad: 29 años
+Ocupación: Proveedora  
 ![Imagen de entrevista](image.jpg)
-{texto}
+
+Eliana Rodríguez es proveedora de alimentos, principalmente verduras, para restaurantes, un negocio que inició durante la pandemia. Utiliza WhatsApp para coordinar pedidos y destaca por su puntualidad, la frescura de sus productos y la honestidad en el peso de sus entregas. A pesar de esto, enfrenta dificultades con el tráfico y siente que WhatsApp tiene limitaciones, especialmente en la gestión de pagos. Le gustaría una aplicación más avanzada que le permita gestionar pedidos de manera más eficiente, con listas fijas y sin restricciones en los montos de pago, facilitando su trabajo y mejorando la relación con sus clientes.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 | HEURÍSTICA                                    | EVALUACIÓN    | NOTA    |
@@ -2472,14 +2474,14 @@ https://www.youtube.com/watch?v=IrHx4bwdHu8
 
 <p style="text-align: justify">
 En conclusión, AquaEngine se basa en un análisis exhaustivo de las necesidades operativas de nuestros usuarios en el 
-sector pesquero, resultado de una investigación detallada y retroalimentación directa. Hemos identificado los puntos 
-clave en la gestión de inventarios, equipos y mantenimiento de maquinaria pesquera, y formulado estrategias específicas
-para optimizar estos procesos.  
+sector de servicios, resultado de una investigación detallada y retroalimentación directa. Hemos identificado los puntos 
+clave en la gestión de inventarios, organizzacion de toma de pedido,y estrategias específicas de conteopara optimizar
+estos procesos.  
 </p>
 
 <p style="text-align: justify">
-El desarrollo de funcionalidades clave, como la administración de solicitudes de compra, el monitoreo del estado del 
-equipo y el registro de historiales de mantenimiento, apunta a reducir la carga operativa de nuestros usuarios, 
+El desarrollo de funcionalidades clave, como la administración de solicitudes de pedido, el monitoreo del estado del 
+pedido y el registro de pedido de restaurante, apunta a reducir la carga operativa de nuestros usuarios, 
 permitiéndoles una gestión más ágil y centrada en datos. Estas mejoras están diseñadas para aumentar la eficiencia 
 en la operación diaria y fortalecer la confianza en el sistema, lo que se traduce en una mayor continuidad y control 
 de las actividades de los usuarios.
