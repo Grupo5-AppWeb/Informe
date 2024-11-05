@@ -2435,19 +2435,17 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
      </tr>
       <tr>
         <td style="font-weight: bold;"> Prepared By </td>
-        <td> Webworks <td>
+        <td> RE-GRILL <td>
      </tr>
         <tr>
         <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
-        <td> Zavala Quedena, Gonzalo Andre
+        <td> Hardie Alfonso Holguin Gamarra
         <br>
-          Arroyo Ormeño, André Alonso
+          Oscar Nathaniel Garayar Mori
            <br>
-          Principe Godoy, Johan
+          Anthony Martin Huapaya Cuevas
           <br>
-          Espino Flores, Alejandro
-          <br>
-	        Holguin Gamarra, Hardie
+          Jamir Ángel Marzál Pérez
          <td>
      </tr>
      <tr>
@@ -2467,10 +2465,10 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
        <tr>
           <td style="font-weight: bold;"> Sprint 3 Goal</td>
           <td style="text-align: justify"> 
-            Nuestro enfoque en este sprint es optimizar la eficiencia en la gestión agrícola y ofrecer un control más preciso sobre las operaciones diarias, 
+            Nuestro enfoque en este sprint es optimizar la eficiencia en la gestión de restaurante y ofrecer un control más preciso sobre las operaciones diarias, 
             mediante nuevas vistas y funcionalidades para el monitoreo financiero y la planificación de actividades. Creemos que esto proporcionará a los productores una 
             herramienta integral para gestionar sus recursos de forma estratégica, dándoles la flexibilidad necesaria para tomar decisiones 
-            informadas en cada etapa del ciclo agrícola. El impacto esperado es que los agricultores puedan visualizar claramente sus ingresos y gastos en tiempo real, lo que les permitirá ajustar sus operaciones según sus necesidades y oportunidades emergentes. También buscamos que la plataforma les ofrezca un calendario integrado para organizar actividades clave, como la siembra, el riego y la cosecha, promoviendo una gestión más ordenada y previsora de sus recursos. Esto se confirmará cuando los usuarios puedan acceder a reportes financieros detallados, que incluyan ingresos y costos desglosados por actividad, y puedan planificar y visualizar sus actividades agrícolas de forma intuitiva y eficiente dentro del sistema. Esta funcionalidad no solo facilitará una gestión precisa, sino que también aumentará la confianza de los agricultores en la plataforma como una herramienta esencial para el éxito de su operación agrícola.
+            informadas en cada pedido en cualquier restaurante. El impacto esperado es que los administradores puedan visualizar claramente sus ingresos y gastos en tiempo real, lo que les permitirá ajustar sus operaciones según sus necesidades y oportunidades emergentes. También buscamos que la plataforma les ofrezca un apartado para proveedores para organizar sus actividades y relaciones con los restaurantes. Esto se confirmará cuando los usuarios puedan acceder a reportes detallados, que incluyan ingresos y costos desglosados por actividad, y puedan planificar y visualizar sus actividades de forma intuitiva y eficiente dentro del sistema. Esta funcionalidad no solo facilitará una gestión precisa, sino que también aumentará la confianza de los usuarios en la plataforma como una herramienta esencial para el éxito de sus operaciones.
           <td>
       </tr>
        <tr>
