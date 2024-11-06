@@ -3150,7 +3150,7 @@ A continuación se mostrarán el gráfico de insights durante el sprint:
 Nombre: Keyner Hancco
 Edad: 27 años
 Ocupación: Administrador  
-![Imagen de entrevista](image.jpg)  
+![Imagen de entrevista](resources/entrevistado-1.png)  
 
 El entrevistado, administrador de restaurante, subraya que un software de gestión esencial debe integrar funciones como la gestión de mesas y reservas, control de inventario, seguimiento de ventas, y gestión de pedidos en cocina. También considera crucial la integración con proveedores y capacidades de análisis financiero para automatizar procesos y optimizar operaciones diarias. Prefiere herramientas que faciliten la toma de decisiones mediante reportes detallados y análisis de datos, y busca mejorar la intuitividad del software y la fluidez en la integración con proveedores. Esto refleja su necesidad de un sistema eficiente que simplifique la gestión y mejore la precisión operativa.
 
@@ -3158,7 +3158,7 @@ El entrevistado, administrador de restaurante, subraya que un software de gesti�
 Nombre: Eliana Rodríguez  
 Edad: 29 años
 Ocupación: Proveedora  
-![Imagen de entrevista](image.jpg)
+![Imagen de entrevista](resources/entrevistado-4-eliana.png)
 
 Eliana Rodríguez es proveedora de alimentos, principalmente verduras, para restaurantes, un negocio que inició durante la pandemia. Utiliza WhatsApp para coordinar pedidos y destaca por su puntualidad, la frescura de sus productos y la honestidad en el peso de sus entregas. A pesar de esto, enfrenta dificultades con el tráfico y siente que WhatsApp tiene limitaciones, especialmente en la gestión de pagos. Le gustaría una aplicación más avanzada que le permita gestionar pedidos de manera más eficiente, con listas fijas y sin restricciones en los montos de pago, facilitando su trabajo y mejorando la relación con sus clientes.
 
