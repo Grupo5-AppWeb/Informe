@@ -68,10 +68,10 @@
 
 En el siguiente cuadro se detallan las acciones realizadas por el equipo, así como las conclusiones alcanzadas durante el proceso. Estas evidencias demuestran el cumplimiento del Student Outcome 5, resaltando la capacidad del grupo para trabajar de manera colaborativa, asumir responsabilidades compartidas y gestionar proyectos de manera exitosa, alineándose con los criterios de desempeño establecidos por la ABET – EAC.</p>
 
-| Criterio Específico | Acciones Realizadas | Conclusiones |
-|---------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Nombre: Fabrisio Belahonia:** <br> **TB1:** El trabajo en equipo para proporcionar liderazgo conjunto fue esencial en el desarrollo de la startup. Desde la elaboración de entrevistas hasta el análisis de competidores y el diseño de estrategias, cada miembro contribuyó activamente. Esto fue clave para la creación exitosa de los User Personas, User Task Matrix y User Journey Mapping, cuyo éxito dependió de la colaboración de todo el equipo. Además, el diseño de wireframes, prototipos y diagramas técnicos reflejó una integración sólida y coherente entre todas las áreas del proyecto. <br> **TP1:** En nuestro equipo, tomamos el liderazgo de manera conjunta para desarrollar una plataforma para un restaurante y sus proveedores. Nos dividimos las tareas: yo trabajé en la visualización de recetas, mientras otros gestionaban usuarios e inventario. A lo largo del proyecto, todos participamos en la toma de decisiones, asegurando que el progreso fuera coordinado. Al final, integramos nuestras partes, probamos la plataforma y garantizamos su correcto funcionamiento. Asumir el liderazgo de forma compartida fue clave para cumplir nuestros objetivos con éxito. <br> **Nombre: Anthony Huapaya:** <br> **TB1:** El trabajo en equipo con respecto a la comunicación para tener el mismo punto de vista fue beneficioso para el desarrollo del startup. Desde el planteamiento de la problemática, las hipótesis e ideas de solución y la verificación del segmento objetivo; donde coordinamos como equipo sobre toda esa información. Esto nos ayudó a plantear de mejor manera nuestro modelo de Domain Driven Design y los Wireframes para lograr un prototipo sobre cómo se vería la aplicación que se está desarrollando. <br> **TP:** Como equipo, decidimos tomar el liderazgo de manera conjunta para el desarrollo de la plataforma de administración de un restaurante y los proveedores. Para llevarlo a cabo, decidimos dividirnos el trabajo para lograr un avance rápido, donde me tocó realizar las pantallas de registro y de inicio de sesión y la pantalla donde se muestra las recetas y los ingredientes que se usan, con la suma total de los precios de estos.<br>**TB2:** Una correcta coordinación y delegación de las actividades que debemías desarrollar para esta entrega, donde la primera reunión coordinamos como mejoraríamos nuestro front-end de la aplicación, y en la segunda la coordinación de nuestro back-end.<br> **Nombre: Luis Andres Arce Huaman:** <br> **TB1:** El trabajo que hemos hecho nos ayuda a ejercer un rol de líder individualmente. Trabajar en equipo nos ayuda a discutir sobre nuestros temas de interés y en el trabajo nos ayudó a enfocarnos en desarrollar una buena entrega. Al desarrollar el estudio de competidores y los User Persona nos ayudó a entender la relevancia de definir bien nuestros segmentos objetivos para hacer estudio de ellos. <br> **TP1:** El trbabajo en equipo fue realmente importante debido a que de esta forma todos podemos aporar ideas y decisiones de manera conjunta. Haciendo que esto sea mucho mejor de trabajar como lo haria una persona individualmente<br> **Nombre: Jamir Ángel Marzál Pérez:** <br> **TB1:** En el proyecto, lideré el desarrollo de las User Personas, facilitando discusiones que integraron las ideas del equipo. Además, coordiné la creación de la matriz de tareas, asignando roles de manera equitativa, y guié las sesiones de User Journey Mapping y Empathy Mapping, asegurando una visión clara del usuario. Durante el desarrollo del wireframe y mockup de la landing page, colaboré estrechamente con el equipo, garantizando coherencia y liderazgo compartido en cada fase. <br> **TP:** He liderado colaborativamente a mi equipo en el desarrollo del proyecto 'Regrill', asegurando que todos los miembros participen activamente en las decisiones y aporten ideas. Mi enfoque ha sido promover la toma de decisiones compartida y garantizar que las correcciones del product backlog se implementen de manera eficiente. <br> **Nombre: Oscar Garayar:** <br> **TB1:** El trabajo en equipo fue fundamental para proporcionar un liderazgo compartido en el desarrollo de nuestra startup. Desde la realización de entrevistas hasta el análisis competitivo y la formulación de estrategias, cada integrante participó de manera activa. Esta colaboración fue clave para la creación de User Personas, User Task Matrix y User Journey Mapping, cuyo éxito fue el resultado del esfuerzo conjunto. Además, el diseño de wireframes, prototipos y diagramas técnicos demostró una integración fluida y consistente en todas las áreas del proyecto. <br> **TP1:** En nuestro equipo, adoptamos un enfoque de liderazgo compartido para desarrollar una plataforma destinada a un restaurante y sus proveedores. Dividimos responsabilidades: yo me encargué de la visualización de recetas, mientras otros miembros del equipo gestionaron usuarios e inventarios. A lo largo del proyecto, participamos juntos en la toma de decisiones, lo que nos permitió coordinar el progreso de manera eficiente. Al final, integramos nuestras contribuciones, realizamos pruebas exhaustivas y aseguramos el correcto funcionamiento de la plataforma. Este enfoque colaborativo fue clave para cumplir con éxito nuestros objetivos.<br> **Nombre: Hardie Holguin:** <br> **TB1:** El trabajo en equipo y la implementación de un liderazgo compartido fueron fundamentales para el éxito de la startup. cada integrante aportó de manera activa. Esta colaboración fue crucial para desarrollar con éxito los User Personas, User Task Matrix y User Journey Mapping, logrados gracias al esfuerzo conjunto del equipo. Además, la creación de wireframes, prototipos y diagramas técnicos reflejó una integración eficiente entre las distintas áreas del proyecto, asegurando coherencia y solidez en cada etapa del desarrollo|<br> |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Nombre: Fabrisio Belahonia:** <br> **TB1:** Crear un entorno colaborativo e inclusivo fue esencial para el éxito del desarrollo de la startup. El equipo trabajó junto para establecer metas claras, planificar tareas y cumplir objetivos. La colaboración abierta permitió realizar entrevistas efectivas, analizar competidores y diseñar estrategias de manera conjunta. Al desarrollar los User Personas, User Task Matrix y User Journey Mapping, se lograron construir las User Stories, que guiaron el diseño de las pantallas en Figma. Este enfoque inclusivo y participativo ayudó a reflejar todas las perspectivas y asegurar que el prototipo final cumpliera con las necesidades del proyecto. <br> **TP1:** En nuestro equipo, trabajamos de manera colaborativa en una plataforma para un restaurante y proveedores de insumos. Usando Vue.js en WebStorm, nos dividimos el proyecto: yo me encargué de la visualización de recetas, mientras otros gestionaban usuarios e inventario. Planificamos tareas y revisamos avances periódicamente. Al final, juntamos todo, probamos la plataforma y nos aseguramos de que funcionara correctamente. Al trabajar en equipo y con buena organización, logramos cumplir nuestros objetivos. <br> **Nombre: Anthony Huapaya:** <br> **TB1:** La planificación sobre las fechas en cada parte del documento fue beneficiosa para cumplir con los objetivos de esta entrega. Esto nos ayudó a ir agregando la información necesaria para que el otro compañero avanzara con la parte que se le asignó y organizara mejor nuestros tiempos para la entrega final. <br> **TP1:** Nos hemos propuesto como meta culminar todas las pantallas que se han propuesto en los mock-up que se han planificado dentro del figma, también colocando fechas para revisar como van cada avance que tenía cada uno en ese momento y tratar de entregar lo más cercano posible a lo diseñado en las mock-up. Esto se logro usando Vue.js en el IDE WebStorm, donde cada uno agregaba las pantallas en una rama del repositorio general para no interferir en el avance del otro compañero para luego unirlos todos al principal.<br>**TB2:** Nuestra meta para esta entrega era mejorar nuestro front-end, ya que estaba incompleto, y comenzar a desarrollar nuestro back-end de la aplicación. Con ello vemos como vamos continuando nuestro avance para cumplir nuestros objetivos, además de estar en constante comunicación con el resto del equipo para conocer la situación de avance de los demás. <br> **Nombre: Luis Andres Arce Huaman:** <br> **TB1:** En nuestro trabajo, hemos creado un entorno colaborativo basado en tareas, lo que nos permitió visualizar las actividades de cada miembro del equipo y colaborar activamente en conjunto. Como equipo, hemos cumplido con todos los objetivos propuestos gracias a este enfoque. Creemos que, si continuamos utilizando este método de desarrollo, podremos realizar de manera más eficiente todas las entregas correspondientes. <br> **TP1:** Para el desarrollo de nuestro proyecto hemos considerado un entorno colaborativo en base a entregables y metas de equipo. sobre todo esto se visualiza en los sprints. Gracias a estos metodos de trabajo podemos entregar una mejor propuesta de solucion la cual se puede retroalimentar por todo el equipo <br> **Nombre: Jamir Ángel Marzál Pérez:** <br> **TB1:** Promoví un ambiente inclusivo al asegurar que todos los miembros participaran activamente en la creación de User Personas y el As-Is Scenario Mapping. Definí metas claras y organicé las tareas con una matriz de tareas, planificando en conjunto los plazos y responsabilidades. Durante el User Journey Mapping y el diseño de la landing page, trabajé en la planificación estructurada para cumplir con los objetivos del proyecto dentro de los tiempos acordados. <br> **TP:** He fomentado un entorno inclusivo en el que cada miembro del equipo ha contribuido con sus habilidades para establecer metas claras. Me he encargado de planificar las tareas necesarias, asignando roles equitativos y asegurando que cumplamos los objetivos del proyecto 'Regrill', incluyendo la actualización del informe del proyecto en tiempo y forma. <br> **Nombre: Oscar Garayar** <br> **TB1:** Fomentar un entorno inclusivo y colaborativo fue clave para el éxito en el desarrollo de nuestra startup. El equipo trabajó unido para definir metas claras, planificar tareas y alcanzar los objetivos establecidos. La colaboración abierta facilitó la realización de entrevistas, el análisis de competidores y el diseño de estrategias de manera conjunta. Al desarrollar los User Personas, User Task Matrix y User Journey Mapping, se construyeron User Stories que sirvieron como guía para el diseño de las pantallas en Figma. Este enfoque participativo ayudó a integrar todas las perspectivas y garantizó que el prototipo final cumpliera con los requisitos del proyecto. <br> **TP1:** En nuestro equipo, colaboramos en el desarrollo de una plataforma para un restaurante y sus proveedores. Usando Vue.js en WebStorm, dividimos el trabajo: yo me ocupé de la visualización de recetas, mientras que otros gestionaban usuarios e inventario. Planificamos las tareas y revisamos el progreso de forma periódica. Al final, integramos todas las partes, realizamos pruebas y aseguramos que la plataforma funcionara correctamente. La colaboración y una buena organización fueron claves para alcanzar nuestros objetivos. <br> **Nombre: Hardie Holguin:** <br> **TP1:** Crear un entorno colaborativo e inclusivo resultó clave para el éxito en el desarrollo del trabajo. El equipo se unió para definir metas claras, planificar tareas y alcanzar los objetivos planteados. Esta colaboración permitió llevar a cabo el desarrollo de los apartados de este entregable de forma clara y eficiente.  | || |
+| Criterio Específico | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Conclusiones |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Nombre: Fabrisio Belahonia:** <br> **TB1:** El trabajo en equipo para proporcionar liderazgo conjunto fue esencial en el desarrollo de la startup. Desde la elaboración de entrevistas hasta el análisis de competidores y el diseño de estrategias, cada miembro contribuyó activamente. Esto fue clave para la creación exitosa de los User Personas, User Task Matrix y User Journey Mapping, cuyo éxito dependió de la colaboración de todo el equipo. Además, el diseño de wireframes, prototipos y diagramas técnicos reflejó una integración sólida y coherente entre todas las áreas del proyecto. <br> **TP1:** En nuestro equipo, tomamos el liderazgo de manera conjunta para desarrollar una plataforma para un restaurante y sus proveedores. Nos dividimos las tareas: yo trabajé en la visualización de recetas, mientras otros gestionaban usuarios e inventario. A lo largo del proyecto, todos participamos en la toma de decisiones, asegurando que el progreso fuera coordinado. Al final, integramos nuestras partes, probamos la plataforma y garantizamos su correcto funcionamiento. Asumir el liderazgo de forma compartida fue clave para cumplir nuestros objetivos con éxito. <br> **Nombre: Anthony Huapaya:** <br> **TB1:** El trabajo en equipo con respecto a la comunicación para tener el mismo punto de vista fue beneficioso para el desarrollo del startup. Desde el planteamiento de la problemática, las hipótesis e ideas de solución y la verificación del segmento objetivo; donde coordinamos como equipo sobre toda esa información. Esto nos ayudó a plantear de mejor manera nuestro modelo de Domain Driven Design y los Wireframes para lograr un prototipo sobre cómo se vería la aplicación que se está desarrollando. <br> **TP:** Como equipo, decidimos tomar el liderazgo de manera conjunta para el desarrollo de la plataforma de administración de un restaurante y los proveedores. Para llevarlo a cabo, decidimos dividirnos el trabajo para lograr un avance rápido, donde me tocó realizar las pantallas de registro y de inicio de sesión y la pantalla donde se muestra las recetas y los ingredientes que se usan, con la suma total de los precios de estos.<br>**TB3:** Una correcta coordinación y delegación de las actividades que debemías desarrollar para esta entrega, donde la primera reunión coordinamos como mejoraríamos nuestro front-end de la aplicación, y en la segunda la coordinación de nuestro back-end.<br> **Nombre: Luis Andres Arce Huaman:** <br> **TB1:** El trabajo que hemos hecho nos ayuda a ejercer un rol de líder individualmente. Trabajar en equipo nos ayuda a discutir sobre nuestros temas de interés y en el trabajo nos ayudó a enfocarnos en desarrollar una buena entrega. Al desarrollar el estudio de competidores y los User Persona nos ayudó a entender la relevancia de definir bien nuestros segmentos objetivos para hacer estudio de ellos. <br> **TP1:** El trbabajo en equipo fue realmente importante debido a que de esta forma todos podemos aporar ideas y decisiones de manera conjunta. Haciendo que esto sea mucho mejor de trabajar como lo haria una persona individualmente<br> **Nombre: Jamir Ángel Marzál Pérez:** <br> **TB1:** En el proyecto, lideré el desarrollo de las User Personas, facilitando discusiones que integraron las ideas del equipo. Además, coordiné la creación de la matriz de tareas, asignando roles de manera equitativa, y guié las sesiones de User Journey Mapping y Empathy Mapping, asegurando una visión clara del usuario. Durante el desarrollo del wireframe y mockup de la landing page, colaboré estrechamente con el equipo, garantizando coherencia y liderazgo compartido en cada fase. <br> **TP:** He liderado colaborativamente a mi equipo en el desarrollo del proyecto 'Regrill', asegurando que todos los miembros participen activamente en las decisiones y aporten ideas. Mi enfoque ha sido promover la toma de decisiones compartida y garantizar que las correcciones del product backlog se implementen de manera eficiente. <br> **TB3:** he liderado la organización del trabajo en equipo, asignando roles específicos a cada miembro y supervisando el progreso tanto en frontend como en backend. Ha mantenido a todos alineados con los objetivos generales de Regrill, asegurando que cada componente avance según lo planeado. <br> **Nombre: Oscar Garayar:** <br> **TB1:** El trabajo en equipo fue fundamental para proporcionar un liderazgo compartido en el desarrollo de nuestra startup. Desde la realización de entrevistas hasta el análisis competitivo y la formulación de estrategias, cada integrante participó de manera activa. Esta colaboración fue clave para la creación de User Personas, User Task Matrix y User Journey Mapping, cuyo éxito fue el resultado del esfuerzo conjunto. Además, el diseño de wireframes, prototipos y diagramas técnicos demostró una integración fluida y consistente en todas las áreas del proyecto. <br> **TP1:** En nuestro equipo, adoptamos un enfoque de liderazgo compartido para desarrollar una plataforma destinada a un restaurante y sus proveedores. Dividimos responsabilidades: yo me encargué de la visualización de recetas, mientras otros miembros del equipo gestionaron usuarios e inventarios. A lo largo del proyecto, participamos juntos en la toma de decisiones, lo que nos permitió coordinar el progreso de manera eficiente. Al final, integramos nuestras contribuciones, realizamos pruebas exhaustivas y aseguramos el correcto funcionamiento de la plataforma. Este enfoque colaborativo fue clave para cumplir con éxito nuestros objetivos.<br> **TB3:** He liderado el equipo en la planificación y mejora de la landing page, asegurando que el frontend tenga un diseño moderno y atractivo. Ha coordinado las tareas del equipo para que el frontend refleje el propósito de Regrill, gestionando también las revisiones de los diseños antes de implementarlos. <br> **Nombre: Hardie Holguin:** <br> **TB1:** El trabajo en equipo y la implementación de un liderazgo compartido fueron fundamentales para el éxito de la startup. cada integrante aportó de manera activa. Esta colaboración fue crucial para desarrollar con éxito los User Personas, User Task Matrix y User Journey Mapping, logrados gracias al esfuerzo conjunto del equipo. Además, la creación de wireframes, prototipos y diagramas técnicos reflejó una integración eficiente entre las distintas áreas del proyecto, asegurando coherencia y solidez en cada etapa del desarrollo. <br> **TB3:** he asumido un rol de liderazgo en la optimización de las funcionalidades del frontend, asegurándose de que todas las páginas sean accesibles y de fácil navegación. Ha coordinado las pruebas de usuario en la landing page para verificar que el diseño cumpla con los objetivos del proyecto. |<br> |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Nombre: Fabrisio Belahonia:** <br> **TB1:** Crear un entorno colaborativo e inclusivo fue esencial para el éxito del desarrollo de la startup. El equipo trabajó junto para establecer metas claras, planificar tareas y cumplir objetivos. La colaboración abierta permitió realizar entrevistas efectivas, analizar competidores y diseñar estrategias de manera conjunta. Al desarrollar los User Personas, User Task Matrix y User Journey Mapping, se lograron construir las User Stories, que guiaron el diseño de las pantallas en Figma. Este enfoque inclusivo y participativo ayudó a reflejar todas las perspectivas y asegurar que el prototipo final cumpliera con las necesidades del proyecto. <br> **TP1:** En nuestro equipo, trabajamos de manera colaborativa en una plataforma para un restaurante y proveedores de insumos. Usando Vue.js en WebStorm, nos dividimos el proyecto: yo me encargué de la visualización de recetas, mientras otros gestionaban usuarios e inventario. Planificamos tareas y revisamos avances periódicamente. Al final, juntamos todo, probamos la plataforma y nos aseguramos de que funcionara correctamente. Al trabajar en equipo y con buena organización, logramos cumplir nuestros objetivos. <br> **Nombre: Anthony Huapaya:** <br> **TB1:** La planificación sobre las fechas en cada parte del documento fue beneficiosa para cumplir con los objetivos de esta entrega. Esto nos ayudó a ir agregando la información necesaria para que el otro compañero avanzara con la parte que se le asignó y organizara mejor nuestros tiempos para la entrega final. <br> **TP1:** Nos hemos propuesto como meta culminar todas las pantallas que se han propuesto en los mock-up que se han planificado dentro del figma, también colocando fechas para revisar como van cada avance que tenía cada uno en ese momento y tratar de entregar lo más cercano posible a lo diseñado en las mock-up. Esto se logro usando Vue.js en el IDE WebStorm, donde cada uno agregaba las pantallas en una rama del repositorio general para no interferir en el avance del otro compañero para luego unirlos todos al principal.<br>**TB2:** Nuestra meta para esta entrega era mejorar nuestro front-end, ya que estaba incompleto, y comenzar a desarrollar nuestro back-end de la aplicación. Con ello vemos como vamos continuando nuestro avance para cumplir nuestros objetivos, además de estar en constante comunicación con el resto del equipo para conocer la situación de avance de los demás. <br> **Nombre: Luis Andres Arce Huaman:** <br> **TB1:** En nuestro trabajo, hemos creado un entorno colaborativo basado en tareas, lo que nos permitió visualizar las actividades de cada miembro del equipo y colaborar activamente en conjunto. Como equipo, hemos cumplido con todos los objetivos propuestos gracias a este enfoque. Creemos que, si continuamos utilizando este método de desarrollo, podremos realizar de manera más eficiente todas las entregas correspondientes. <br> **TP1:** Para el desarrollo de nuestro proyecto hemos considerado un entorno colaborativo en base a entregables y metas de equipo. sobre todo esto se visualiza en los sprints. Gracias a estos metodos de trabajo podemos entregar una mejor propuesta de solucion la cual se puede retroalimentar por todo el equipo <br> **Nombre: Jamir Ángel Marzál Pérez:** <br> **TB1:** Promoví un ambiente inclusivo al asegurar que todos los miembros participaran activamente en la creación de User Personas y el As-Is Scenario Mapping. Definí metas claras y organicé las tareas con una matriz de tareas, planificando en conjunto los plazos y responsabilidades. Durante el User Journey Mapping y el diseño de la landing page, trabajé en la planificación estructurada para cumplir con los objetivos del proyecto dentro de los tiempos acordados. <br> **TP:** He fomentado un entorno inclusivo en el que cada miembro del equipo ha contribuido con sus habilidades para establecer metas claras. Me he encargado de planificar las tareas necesarias, asignando roles equitativos y asegurando que cumplamos los objetivos del proyecto 'Regrill', incluyendo la actualización del informe del proyecto en tiempo y forma.<br> **TB3:** He establecido metas claras para cada sprint y ha planificado tareas semanales, manteniendo al equipo organizado y enfocado. Ha creado un espacio inclusivo al abrir el diálogo sobre las prioridades de Regrill y adaptando las metas conforme a las necesidades del equipo, promoviendo una dinámica de colaboración sólida. <br> **Nombre: Oscar Garayar** <br> **TB1:** Fomentar un entorno inclusivo y colaborativo fue clave para el éxito en el desarrollo de nuestra startup. El equipo trabajó unido para definir metas claras, planificar tareas y alcanzar los objetivos establecidos. La colaboración abierta facilitó la realización de entrevistas, el análisis de competidores y el diseño de estrategias de manera conjunta. Al desarrollar los User Personas, User Task Matrix y User Journey Mapping, se construyeron User Stories que sirvieron como guía para el diseño de las pantallas en Figma. Este enfoque participativo ayudó a integrar todas las perspectivas y garantizó que el prototipo final cumpliera con los requisitos del proyecto. <br> **TP1:** En nuestro equipo, colaboramos en el desarrollo de una plataforma para un restaurante y sus proveedores. Usando Vue.js en WebStorm, dividimos el trabajo: yo me ocupé de la visualización de recetas, mientras que otros gestionaban usuarios e inventario. Planificamos las tareas y revisamos el progreso de forma periódica. Al final, integramos todas las partes, realizamos pruebas y aseguramos que la plataforma funcionara correctamente. La colaboración y una buena organización fueron claves para alcanzar nuestros objetivos.<br> **TB3:** He promovido un entorno colaborativo en el equipo al organizar sesiones de feedback para el frontend, asegurándose de que todos los miembros compartan sus ideas y participen en las mejoras de la landing page. Ha sido flexible con las propuestas, contribuyendo a un diseño inclusivo que represente las ideas de todos. <br> **Nombre: Hardie Holguin:** <br> **TP1:** Crear un entorno colaborativo e inclusivo resultó clave para el éxito en el desarrollo del trabajo. El equipo se unió para definir metas claras, planificar tareas y alcanzar los objetivos planteados. Esta colaboración permitió llevar a cabo el desarrollo de los apartados de este entregable de forma clara y eficiente.<br> **TB3:** he trabajado en un entorno colaborativo al impulsar la creación de tareas conjuntas para mejorar el frontend y la landing page. Ha facilitado discusiones sobre accesibilidad y diseño, haciendo que todos se sientan incluidos y valorados en la toma de decisiones visuales.                      | || |
 
 
 
@@ -2423,7 +2423,7 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
      </tr>
      <tr>
        <td style="font-weight: bold;"> Date </td>
-       <td> 16/10/2024 </td>
+       <td> 1/11/2024 </td>
      </tr>
      <tr>
        <td style="font-weight: bold;"> Time </td>
@@ -2449,11 +2449,11 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
          <td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+        <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
         <td> Se logró la implementación del fronted de la Aplicación Web y su conexión con una fake api, esta fue desplegada en Netlify<td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+        <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
         <td style="text-align: justify"> 
           En este sprint como equipo logramos desplegar la Aplicación Web consumiendo una fake api de forma adecuada  debido a la correcta division de tareas y aporte de cada uno. Sin embargo, algunos miembros del equipo tuvieron cierta complicaciones a la hora de hacer merge a la rama develop. Aspecto el cual planeamos mejorar. Como equipo esperamos poder cumplir con
           los objetivos para el sprint 3.
@@ -2509,7 +2509,7 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
    <tr>
       <th> E6-US02 </th>
       <th colspan="3"> Register User </th>
-      <th> W23 </th>
+      <th> W01 </th>
       <th> iam </th>
       <th> Implementar registro de usuario a través del API </th>
       <th> 4 </th>
@@ -2519,7 +2519,7 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
    <tr>
       <th> E6-US03 </th>
       <th colspan="3"> User Login </th>
-      <th> W23 </th>
+      <th> W02 </th>
       <th> iam </th>
       <th> Crear funcionalidad de inicio de sesión mediante el API </th>
       <th> 3 </th>
@@ -2529,7 +2529,7 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
    <tr>
       <th> E6-US04 </th>
       <th colspan="3"> Get User Information </th>
-      <th> W23 </th>
+      <th> W03 </th>
       <th> iam </th>
       <th> Implementar endpoint para obtener información del usuario </th>
       <th> 3 </th>
@@ -2538,204 +2538,64 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
    </tr>
    <tr>
       <th> E6-US05 </th>
-      <th colspan="3"> Create Planting Record </th>
-      <th> W23 </th>
-      <th> agriculturalProcess </th>
-      <th> Crear registro de plantación a través de API </th>
+      <th colspan="3"> Create Admi Stock </th>
+      <th> W04 </th>
+      <th> Inventory </th>
+      <th> Implementar endpoint para crear un registro a través de API </th>
       <th> 5 </th>
       <th> Huapaya Cuevas </th>
       <th> Done </th>
    </tr>
    <tr>
       <th> E6-US06 </th>
-      <th colspan="3"> Get Plantation Registration Information </th>
-      <th> W23 </th>
-      <th> agriculturalProcess </th>
-      <th> Implementar endpoint para obtener información de plantación </th>
+      <th colspan="3"> Get Admin Stock By Id </th>
+      <th> W05 </th>
+      <th> Inventory </th>
+      <th> Implementar endpoint para obtener información del Inventario por id </th>
       <th> 4 </th>
       <th> Huapaya Cuevas </th>
       <th> Done </th>
    </tr>
    <tr>
       <th> E6-US07 </th>
-      <th colspan="3"> End Planting Cycle </th>
-      <th> W23 </th>
-      <th> agriculturalProcess </th>
-      <th> Función para finalizar ciclo de plantación </th>
+      <th colspan="3"> Get AdminStock by UserId </th>
+      <th> W06 </th>
+      <th> Inventory </th>
+      <th> Implementar endpoint para obtener información del Inventario por userid</th>
       <th> 6 </th>
       <th> Huapaya Cuevas </th>
       <th> Done </th>
    </tr>
    <tr>
       <th> E6-US08 </th>
-      <th colspan="3"> Add Worker Record </th>
-      <th> W23 </th>
-      <th> fields </th>
-      <th> Crear registro de trabajador a través del API </th>
+      <th colspan="3"> Create new order </th>
+      <th> W07 </th>
+      <th> Orders </th>
+      <th> Implementar endpoint para crear un nuevo pedido</th>
       <th> 3 </th>
-      <th> Jamir Ángel </th>
+      <th> Jamir Marzál </th>
       <th> Done </th>
    </tr>
    <tr>
       <th> E6-US09 </th>
-      <th colspan="3"> Get Worker Registration </th>
-      <th> W23 </th>
-      <th> fields </th>
-      <th> Obtener información de registro de trabajadores </th>
+      <th colspan="3"> Get order by id </th>
+      <th> W08 </th>
+      <th> Orders </th>
+      <th> Implementar endpoint para obtener el pedido por id </th>
       <th> 3 </th>
-      <th> Jamir Ángel </th>
+      <th> Jamir Marzál </th>
       <th> Done </th>
    </tr>
    <tr>
       <th> E6-US10 </th>
-      <th colspan="3"> Delete Worker Record </th>
-      <th> W23 </th>
-      <th> fields </th>
-      <th> Eliminar registro de trabajador a través del API </th>
+      <th colspan="3"> Get all orders </th>
+      <th> W09 </th>
+      <th> Orders </th>
+      <th> Implementar endpoint para obtener todos los pedidos </th>
       <th> 4 </th>
-      <th> Jamir Ángel </th>
+      <th> Jamir Marzál </th>
       <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US11 </th>
-      <th colspan="3"> Edit Worker Record </th>
-      <th> W23 </th>
-      <th> fields </th>
-      <th> Implementar edición de registro de trabajador </th>
-      <th> 4 </th>
-      <th> Jamir Ángel </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US12 </th>
-      <th colspan="3"> Create Irrigation Dates </th>
-      <th> W23 </th>
-      <th> agriculturalProcess </th>
-      <th> Crear fechas de irrigación mediante el API </th>
-      <th> 5 </th>
-      <th> Jamir Ángel </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US13 </th>
-      <th colspan="3"> Get Irrigation Dates </th>
-      <th> W23 </th>
-      <th> agriculturalProcess </th>
-      <th> Obtener fechas de irrigación de un campo </th>
-      <th> 3 </th>
-      <th> Huapaya Cuevas </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US14 </th>
-      <th colspan="3"> Delete Irrigation </th>
-      <th> W23 </th>
-      <th> agriculturalProcess </th>
-      <th> Función para eliminar registros de irrigación </th>
-      <th> 4 </th>
-      <th> Huapaya Cuevas </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US15 </th>
-      <th colspan="3"> Add Treatment </th>
-      <th> W23 </th>
-      <th> agriculturalProcess </th>
-      <th> Crear registro de tratamiento para los cultivos </th>
-      <th> 6 </th>
-      <th> Huapaya Cuevas </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US16 </th>
-      <th colspan="3"> Get Treatment </th>
-      <th> W23 </th>
-      <th> agriculturalProcess </th>
-      <th> Obtener información de tratamientos aplicados </th>
-      <th> 3 </th>
-      <th> Huapaya Cuevas </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US17 </th>
-      <th colspan="3"> Delete Treatment </th>
-      <th> W23 </th>
-      <th> agriculturalProcess </th>
-      <th> Función para eliminar tratamientos de cultivos </th>
-      <th> 4 </th>
-      <th> Oscar Nathaniel </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US18 </th>
-      <th colspan="3"> Create Harvest </th>
-      <th> W23 </th>
-      <th> agriculturalProcess </th>
-      <th> Implementar registro de cosecha a través del API </th>
-      <th> 6 </th>
-      <th> Oscar Nathaniel </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US19 </th>
-      <th colspan="3"> Get Harvest </th>
-      <th> W23 </th>
-      <th> agriculturalProcess </th>
-      <th> Obtener información de cosechas registradas </th>
-      <th> 3 </th>
-      <th> Oscar Nathaniel </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US20 </th>
-      <th colspan="3"> Delete Harvest </th>
-      <th> W23 </th>
-      <th> agriculturalProcess </th>
-      <th> Eliminar registros de cosechas </th>
-      <th> 4 </th>
-      <th> Oscar Nathaniel </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US21 </th>
-      <th colspan="3"> Create Financing </th>
-      <th> W23 </th>
-      <th> finances </th>
-      <th> Crear registro de financiamiento a través del API </th>
-      <th> 5 </th>
-      <th> Oscar Nathaniel </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US22 </th>
-      <th colspan="3"> Get Financing </th>
-      <th> W23 </th>
-      <th> finances </th>
-      <th> Obtener información de financiamiento </th>
-      <th> 3 </th>
-      <th> Oscar Nathaniel </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US23 </th>
-      <th colspan="3"> Delete Financing </th>
-      <th> W23 </th>
-      <th> finances </th>
-      <th> Función para eliminar registros de financiamiento </th>
-      <th> 4 </th>
-      <th> Oscar Nathaniel </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US24 </th>
-      <th colspan="3"> Process Payment Subscription </th>
-      <th> W23 </th>
-      <th> payment </th>
-      <th> Implementar el procesamiento de pagos internamente en el sistema </th>
-      <th> 7 </th>
-      <th> Hardie Holguin </th>
-      <th> Done </th>
-   </tr>
+   </tr>   
 </table>  
 
 ### 5.2.3.3 Development Evidence for Sprint Review.  
@@ -2754,281 +2614,105 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
 
 
  <tr> 
-   <th> Agrocontrol-backend </th>
+   <th> Regrill-backend </th>
    <th> develop  </th>
-   <th> e6b16d9 </th>
+   <th> f78d103 </th>
    <th>  Initial commit </th>
    <th> </th>
-   <th> 10/10/24  </th>
+   <th> 11/04/24  </th>
  </tr>
 
  <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/store  </th>
-   <th> bd4512  </th>
-   <th>  feat(store): add product command and query service implementations.  </th>
+   <th> Regrill-backend </th>
+   <th> develop  </th>
+   <th> 891c42c  </th>
+   <th>  Add Connection to DataBase  </th>
    <th> </th>
-   <th> 15/10/24  </th>
+   <th> 11/04/24  </th>
  </tr>
 
  <tr> 
-   <th> Agrocontrol-backend </th>
-   <th>  feature/store  </th>
-   <th>  f9b1e4  </th>
-   <th>  feat(store): add payment inbound service.</th>
+   <th> Regrill-backend </th>
+   <th>  develop  </th>
+   <th>  2d894af  </th>
+   <th>  add: Get Id and UserId And Post for AdminStock.</th>
    <th> </th>
-   <th> 15/10/24  </th>
+   <th> 11/05/24  </th>
  </tr>
 
  <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/store  </th>
-   <th> 5d29de4  </th>
-   <th>  feat(store): add interface layer resource and transform types. </th>
+   <th> Regrill-backend </th>
+   <th> develop  </th>
+   <th> 0087466  </th>
+   <th>  feat: branch user done </th>
    <th> </th>
-   <th> 15/10/24  </th>
+   <th> 11/05/24  </th>
  </tr>
 
   <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/subscriptions  </th>
-   <th> 85dad5  </th>
-   <th> feat(payments): add payment command and query service implementations. </th>
+   <th> Regrill-backend </th>
+   <th> develop </th>
+   <th> 645328e </th>
+   <th> feat: branch user done </th>
    <th> </th>
-   <th> 15/10/24  </th>
+   <th> 11/05/24  </th>
  </tr>
 
   <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/subscriptions  </th>
-   <th> 7c84d25  </th>
-   <th>  feat(payments): add payment inbound service. </th>
+   <th> Regrill-backend </th>
+   <th> feature-orders  </th>
+   <th> c87299c  </th>
+   <th>  feat(orders): Added OrderCommandService. </th>
    <th> </th>
-   <th> 20/10/24   </th>
+   <th> 11/05/24   </th>
  </tr>
 
    <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/subscriptions  </th>
-   <th> 5ef950  </th>
-   <th>  fix: add missing @EnableJpaAuditing annotation.  </th>
+   <th> Regrill-backend </th>
+   <th> feature-orders  </th>
+   <th> dc3a6a0  </th>
+   <th>  feat(orders): Added OrderQueryService.  </th>
    <th> </th>
-   <th> 20/10/24 </th>
+   <th> 11/05/24 </th>
  </tr>
 
  <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/payments  </th>
-   <th> 29b944  </th>
-   <th> feat(payments): add payment outbound service  </th>
+   <th> Regrill-backend </th>
+   <th> feature-orders  </th>
+   <th> 69c3090  </th>
+   <th> feat(orders): Added Order Aggregate.  </th>
    <th> </th>
-   <th> 20/10/24  </th>
+   <th> 11/05/24  </th>
  </tr>
 
   <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/payments  </th>
-   <th> 3755a9  </th>
-   <th> feat(payments): add payment command and query service implementations.  </th>
+   <th> Regrill-backend </th>
+   <th> feature-orders  </th>
+   <th> 5c0b564  </th>
+   <th> feat(orders): Added Commands.  </th>
    <th> </th>
-   <th> 20/10/24  </th>
+   <th> 11/05/24  </th>
  </tr>
 
  <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/payments  </th>
-   <th> 29b944  </th>
-   <th> feat(payments): add payment outbound service  </th>
+   <th> Regrill-backend </th>
+   <th> feature-orders  </th>
+   <th> e5ee612 </th>
+   <th> feat(orders): Added OderItem Entity.  </th>
    <th> </th>
-   <th> 20/10/24  </th>
+   <th> 11/05/24  </th>
  </tr>
 
   <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/payments  </th>
-   <th> 28ef78  </th>
-   <th>  feat(payments): add interface layer resource and transform types  </th>
+   <th> Regrill-backend </th>
+   <th> feature-orders  </th>
+   <th> fb780a0  </th>
+   <th>  ffeat(orders): Added GetAllOrdersQuery.  </th>
    <th> </th>
-   <th> 20/10/24  </th>
- </tr>
-
- <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/iam-and-profile  </th>
-   <th> 1d200c8  </th>
-   <th>  feat: dependencies of security and jwt added  </th>
-   <th> </th>
-   <th> 10/10/24  </th>
- </tr>
-
- <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/iam-and-profile  </th>
-   <th> 37fce5  </th>
-   <th> feat: commandservices, queryservices and eventhandlers of iam added  </th>
-   <th> </th>
-   <th> 10/10/24   </th>
- </tr>
-
-  <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/iam-and-profile  </th>
-   <th> 11386b2  </th>
-   <th> feat: controllers of iam and profile added  </th>
-   <th> </th>
-   <th> 10/10/24  </th>
- </tr>
-
-  <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/iam-and-profile  </th>
-   <th> 68968a  </th>
-   <th> feat(iam): add transctional of services and documentation in controller </th>
-   <th> </th>
-   <th> 10/10/24  </th>
- </tr>
-
-  <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/iam-and-profile  </th>
-   <th> 4799f6  </th>
-   <th> feat(iam): change username for email in User  </th>
-   <th> </th>
-   <th> 10/10/24  </th>
- </tr>
-
-
-  <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/finances  </th>
-   <th> 435f46  </th>
-   <th> feat(finances): add finance aggregate, commands, queries, repository, services, controller, etc.  </th>
-   <th> </th>
-   <th> 30/10/24  </th>
- </tr>
-
-<tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/fields  </th>
-   <th> a1df68 </th>
-   <th>  feat(monetization): added queries with params and search by id  </th>
-   <th> </th>
-   <th> 29/05/24  </th>
- </tr>
-
-
- <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/fields </th>
-   <th> 8e137d </th>
-   <th>  feat(field): add field aggregate.  </th>
-   <th> </th>
-   <th> 25/05/24  </th>
- </tr>
-
-
- <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/fields </th>
-   <th> bc55cd </th>
-   <th>  feat(field): added UpdateFieldCommandFromResourceAssembler transform.  </th>
-   <th> </th>
-   <th> 25/05/24  </th>
- </tr>
-
-  <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/fields </th>
-   <th> 9a4b76 </th>
-   <th>  fix(field): fixed Field Command and Query Implementation.  </th>
-   <th> </th>
-   <th> 25/05/24  </th>
- </tr>
-
-   <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/fields </th>
-   <th> eb6572 </th>
-   <th>  fix(field): fixed GetFieldsByProducerIdQuery query. </th>
-   <th> </th>
-   <th> 25/05/24  </th>
- </tr>
-
-  <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/fields  </th>
-   <th> 3496ff </th>
-   <th>  fix(field): remove GetAllFieldsQuery. </th>
-   <th> </th>
-   <th> 25/05/24  </th>
- </tr>
-
-   <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/fields  </th>
-   <th> 655447 </th>
-   <th>  feat(workers): added commands, queries, resources, etc </th>
-   <th> </th>
-   <th> 25/05/24  </th>
- </tr>
-
-   <tr> 
-   <th> Agrocontrol-backend </th>
-   <th> feature/agriculturalProcess  </th>
-   <th> 40a619 </th>
-   <th> feat(agricultural-processes): add agricultural process inbound service. </th>
-   <th> </th>
-   <th> 15/10/24  </th>
- </tr>
-
-  <tr> 
-   <th> Agrocontrol-backend </th>
-   <th>  feature/agriculturalProcess </th>
-   <th> 9707b9 </th>
-   <th> feat(agricultural-processes): add GetAgriculturalProcessByFieldIdQuery. </th>
-   <th> </th>
-   <th> 15/10/24  </th>
- </tr>
-
- <tr> 
-   <th> Agrocontrol-backend </th>
-   <th>  feature/agriculturalProcess  </th>
-   <th> 87e64f </th>
-   <th> fix(agricultural-processes): manage of list in AgriculturalProcessesController. </th>
-   <th> </th>
-   <th> 15/10/24   </th>
- </tr>
-
-  <tr> 
-   <th> Agrocontrol-backend </th>
-   <th>  feature/agriculturalProcess  </th>
-   <th> c1f067 </th>
-   <th> feat: added dependecies </th>
-   <th> </th>
-   <th> 15/10/24   </th>
- </tr>
-
- <tr> 
-   <th> Agrocontrol-backend </th>
-   <th>  feature/agriculturalProcess  </th>
-   <th> 016b7a </th>
-   <th> feat(agricultural-processes): add query to retrieve activities by type of an agricultural process. </th>
-   <th> </th>
-   <th> 15/10/24   </th>
- </tr>
-
- <tr> 
-   <th> Agrocontrol-backend </th>
-   <th>  feature/agriculturalProcess  </th>
-   <th> 9b20f8 </th>
-   <th> feat(agricultural-processes): add harvest entity. </th>
-   <th> </th>
-   <th> 26/10/24  </th>
- </tr>
+   <th> 11/05/24  </th>
+ </tr> 
 
  </table>
-
-
 
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review.
 
@@ -3037,15 +2721,15 @@ En este sprint no se llevaron a cabo pruebas de aceptación en la herramienta Gh
 ### 5.2.3.5 Execution Evidence for Sprint Review.  
 
 Actualmente, no hemos realizado modificaciones en el frontend, ya que cumplimos con todos los requisitos funcionales en el sprint anterior.   
-La aplicación web sigue siendo accesible a través del siguiente enlace: http://agrocontrol-frontend.vercel.app/
+La aplicación web sigue siendo accesible a través del siguiente enlace: https://re-grill-web-application.vercel.app/?vercelToolbarCode=Q_cU8sSad4uynPq
 
 En la página de aterrizaje se incorporaron los videos "about the product" y "about the team", con el objetivo de dar a conocer de manera más efectiva nuestro producto a través de un video promocional y de presentar a nuestro equipo  
 Link de acceso al Landing Page: https://agrocontrol-landing-page-upc.vercel.app/  
 
 ### 5.2.3.6 Services Documentation Evidence for Sprint Review.  
-En esta sección se mostrarán los endpoints creados durante el sprint actual, junto con capturas de pantalla de las acciones CRUD y otros métodos implementados. En el alcance del sprint, se han desarrollado los bounded contexts de monetización, colaboración, usuario y contenido.  
+En esta sección se mostrarán los endpoints creados durante el sprint actual, junto con capturas de pantalla de las acciones CRUD y otros métodos implementados. En el alcance del sprint, se han desarrollado los bounded contexts de orders, inventory y usuario.  
 
-Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/Agrocontrol-backend  
+Se adjunta el link del repositorio back-end GitHub: https://github.com/Grupo5-AppWeb/BackEnd-ReGrill  
 
 <table>
   <tr>
@@ -3060,46 +2744,22 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/W3bW0rks/
   </tr>
 
   <tr>
-   <th style="text-align:center;"> <strong> agriculturalProcess Bounded Context </strong> </th>
-    <th> <strong> /api/v1/agricultural-processes </strong> </th>
-    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/agricultural-process.png"> </th>
+   <th style="text-align:center;"> <strong> Orders Bounded Context </strong> </th>
+    <th> <strong> /api/v1/orders </strong> </th>
+    <th> <img src="./resources/spring3/Screenshot%202024-11-06%20005448.png"> </th>
   </tr>
 
 
   <tr>
-   <th> <strong> fields Bounded Context </strong> </th>
-    <th> <strong> /api/v1/fields | /api/v1/workers </strong> </th>
-    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/fields.png"> </th>
+   <th> <strong> Inventory Bounded Context </strong> </th>
+    <th> <strong> /api/v1/inventories </strong> </th>
+    <th> <img src="./resources/spring3/Screenshot%202024-11-06%20005003.png"> </th>
   </tr>
 
   <tr>
-   <th> <strong> finances Bounded Context </strong> </th>
-    <th> <strong> /api/v1/finances </strong> </th>
-    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/finances.png"> </th>
-  </tr>
-
-  <tr>
-   <th> <strong> iam Bounded Context </strong> </th>
-    <th> <strong> /api/v1/users | /api/v1/roles | /api/v1/authentication </strong> </th>
-    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/Authentication.png"> </th>
-  </tr>
-
-<tr>
-   <th> <strong> payments Bounded Context </strong> </th>
-    <th> <strong> /api/v1/payments </strong> </th>
-    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/Payments.png"> </th>
-  </tr>
-
-  <tr>
-   <th> <strong> profiles Bounded Context </strong> </th>
-    <th> <strong> /api/v1/profiles </strong> </th>
-    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/76e7ad49cd4ad9c0781c102e3203901a6f8701c8/assets/chapter-5-images/sprint3/PROFILES.png"> </th>
-  </tr>
-
-  <tr>
-   <th> <strong> store Bounded Context </strong> </th>
-    <th> <strong> /api/v1/products </strong> </th>
-    <th> <img src="https://raw.githubusercontent.com/W3bW0rks/Agrocontrol-project-report/refs/heads/develop/assets/chapter-5-images/sprint3/products.png"> </th>
+   <th> <strong> User Bounded Context </strong> </th>
+    <th> <strong> /api/v1/users </strong> </th>
+    <th> <img src="./resources/spring3/Screenshot%202024-11-06%20005448.png"> </th>
   </tr>
 
 </table>
