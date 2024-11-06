@@ -2774,6 +2774,7 @@ En este sprint, se ha desarrollado la API de la aplicación web, utilizando las 
 <li> Gitflow: Proceso de trabajo colaborativo que nos permitió organizar el trabajo en ramas dentro de nuestro repositorio, facilitando así la colaboración en el desarrollo.</li>
 <li> GitHub: Plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto. </li>
 <li> Swagger Ui: Herramienta destinada a probar y documentar nuestra API.</li>
+<li> Link del Front-End:https://re-grill-web-application.vercel.app/?vercelToolbarCode=Q_cU8sSad4uynPq</li>
 
 </ul>
 
