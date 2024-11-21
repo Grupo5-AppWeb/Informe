@@ -2858,14 +2858,14 @@ En esta sección se presentarán las tareas completadas durante el sprint actual
 
 Enlace de Trello: https://shorturl.at/YbuJM
 
- <table style="height:1000px;"> 
+ <table style="height:1000px;">
    <tr>
       <th colspan="4"> Sprint # </th>
       <th colspan="7"> Sprint 4 </th>
    </tr>
    <tr>
      <th colspan="4"> User Story </th>
-     <th colspan="7"> Work-Item /Task</th>
+     <th colspan="7"> Work-Item / Task </th>
    </tr>
    <tr>
      <th> Id </th>
@@ -2878,94 +2878,94 @@ Enlace de Trello: https://shorturl.at/YbuJM
      <th> Status (To-do / In-Process / To-Review / Done) </th>
    </tr>
    <tr>
-      <th> E6-US02 </th>
-      <th colspan="3"> Register User </th>
+      <th> S4-US01 </th>
+      <th colspan="3"> Internationalization (i18n) </th>
       <th> W01 </th>
-      <th> iam </th>
-      <th> Implementar registro de usuario a través del API </th>
+      <th> Frontend </th>
+      <th> Implementar cambio de idioma en las vistas </th>
       <th> 4 </th>
-      <th> Hardie Alfonso </th>
-      <th> Done </th>
+      <th> Jamir Marzál </th>
+      <th> To-do </th>
    </tr>
    <tr>
-      <th> E6-US03 </th>
-      <th colspan="3"> User Login </th>
+      <th> S4-US02 </th>
+      <th colspan="3"> Invoice View </th>
       <th> W02 </th>
-      <th> iam </th>
-      <th> Crear funcionalidad de inicio de sesión mediante el API </th>
-      <th> 3 </th>
-      <th> Hardie Alfonso </th>
-      <th> Done </th>
+      <th> Frontend </th>
+      <th> Implementar diseño de la vista de facturas </th>
+      <th> 4 </th>
+      <th> Anthony Huapaya </th>
+      <th> To-do </th>
    </tr>
    <tr>
-      <th> E6-US04 </th>
-      <th colspan="3"> Get User Information </th>
+      <th> S4-US03 </th>
+      <th colspan="3"> Authentication </th>
       <th> W03 </th>
-      <th> iam </th>
-      <th> Implementar endpoint para obtener información del usuario </th>
-      <th> 3 </th>
-      <th> Hardie Alfonso </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US05 </th>
-      <th colspan="3"> Create Admi Stock </th>
-      <th> W04 </th>
-      <th> Inventory </th>
-      <th> Implementar endpoint para crear un registro a través de API </th>
+      <th> Backend </th>
+      <th> Implementar endpoint para inicio de sesión </th>
       <th> 5 </th>
-      <th> Huapaya Cuevas </th>
-      <th> Done </th>
+      <th> Hardie Holguin </th>
+      <th> To-do </th>
    </tr>
    <tr>
-      <th> E6-US06 </th>
-      <th colspan="3"> Get Admin Stock By Id </th>
-      <th> W05 </th>
-      <th> Inventory </th>
-      <th> Implementar endpoint para obtener información del Inventario por id </th>
-      <th> 4 </th>
-      <th> Huapaya Cuevas </th>
-      <th> Done </th>
-   </tr>
-   <tr>
-      <th> E6-US07 </th>
-      <th colspan="3"> Get AdminStock by UserId </th>
-      <th> W06 </th>
-      <th> Inventory </th>
-      <th> Implementar endpoint para obtener información del Inventario por userid</th>
+      <th> S4-US04 </th>
+      <th colspan="3"> Recipes Management </th>
+      <th> W04 </th>
+      <th> Backend </th>
+      <th> Implementar endpoint para crear una receta </th>
       <th> 6 </th>
-      <th> Huapaya Cuevas </th>
-      <th> Done </th>
+      <th> Hardie Holguin </th>
+      <th> To-do </th>
    </tr>
    <tr>
-      <th> E6-US08 </th>
-      <th colspan="3"> Create new order </th>
+      <th></th>
+      <th colspan="3"></th>
+      <th> W05 </th>
+      <th> Backend </th>
+      <th> Implementar endpoint para obtener una receta </th>
+      <th> 5 </th>
+      <th> Hardie Holguin </th>
+      <th> To-do </th>
+   </tr>
+   <tr>
+      <th> S4-US05 </th>
+      <th colspan="3"> User Profile </th>
+      <th> W06 </th>
+      <th> Backend </th>
+      <th> Implementar endpoint para actualizar el perfil del usuario </th>
+      <th> 6 </th>
+      <th> Oscar Garayar </th>
+      <th> To-do </th>
+   </tr>
+   <tr>
+      <th> S4-US06 </th>
+      <th colspan="3"> Inventory Management </th>
       <th> W07 </th>
-      <th> Orders </th>
-      <th> Implementar endpoint para crear un nuevo pedido</th>
-      <th> 3 </th>
-      <th> Jamir Marzál </th>
-      <th> Done </th>
+      <th> Backend </th>
+      <th> Implementar endpoint para crear un inventario </th>
+      <th> 6 </th>
+      <th> Oscar Garayar </th>
+      <th> To-do </th>
    </tr>
    <tr>
-      <th> E6-US09 </th>
-      <th colspan="3"> Get order by id </th>
+      <th></th>
+      <th colspan="3"></th>
       <th> W08 </th>
-      <th> Orders </th>
-      <th> Implementar endpoint para obtener el pedido por id </th>
-      <th> 3 </th>
-      <th> Jamir Marzál </th>
-      <th> Done </th>
+      <th> Backend </th>
+      <th> Implementar endpoint para obtener inventario por ID </th>
+      <th> 5 </th>
+      <th> Oscar Garayar </th>
+      <th> To-do </th>
    </tr>
    <tr>
-      <th> E6-US10 </th>
-      <th colspan="3"> Get all orders </th>
+      <th> S4-US07 </th>
+      <th colspan="3"> Frontend-Backend Integration </th>
       <th> W09 </th>
-      <th> Orders </th>
-      <th> Implementar endpoint para obtener todos los pedidos </th>
-      <th> 4 </th>
-      <th> Jamir Marzál </th>
-      <th> Done </th>
+      <th> Integration </th>
+      <th> Conectar el frontend con los endpoints del backend </th>
+      <th> 8 </th>
+      <th> Equipo </th>
+      <th> To-do </th>
    </tr>   
 </table>  
 
