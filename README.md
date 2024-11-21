@@ -2480,12 +2480,12 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
           <td> 30 <td>
       </tr>
 
-</table>  
+</table>
 
- ### 5.2.3.2 Sprint BackLog 3  
- En esta sección se presentarán las tareas completadas durante el sprint actual, acompañadas de una captura de pantalla y el enlace al tablero de tareas en la plataforma Trello.  
- 
- Enlace de Trello: https://shorturl.at/YbuJM  
+### 5.2.3.2 Sprint BackLog 3
+En esta sección se presentarán las tareas completadas durante el sprint actual, acompañadas de una captura de pantalla y el enlace al tablero de tareas en la plataforma Trello.
+
+Enlace de Trello: https://shorturl.at/YbuJM
 
  <table style="height:1000px;"> 
    <tr>
@@ -2598,7 +2598,7 @@ En el siguiente apartado, se presentará el sprint planning 3, donde se mostrar�
    </tr>   
 </table>  
 
-### 5.2.3.3 Development Evidence for Sprint Review.  
+### 5.2.3.3 Development Evidence for Sprint Review.
 
 En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
 
@@ -2718,18 +2718,18 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
 
 En este sprint no se llevaron a cabo pruebas de aceptación en la herramienta Gherkin, ya que no fueron necesarias.
 
-### 5.2.3.5 Execution Evidence for Sprint Review.  
+### 5.2.3.5 Execution Evidence for Sprint Review.
 
 Actualmente, no hemos realizado modificaciones en el frontend, ya que cumplimos con todos los requisitos funcionales en el sprint anterior.   
 La aplicación web sigue siendo accesible a través del siguiente enlace: https://re-grill-web-application.vercel.app/?vercelToolbarCode=Q_cU8sSad4uynPq
 
 En la página de aterrizaje se incorporaron los videos "about the product" y "about the team", con el objetivo de dar a conocer de manera más efectiva nuestro producto a través de un video promocional y de presentar a nuestro equipo  
-Link de acceso al Landing Page: https://agrocontrol-landing-page-upc.vercel.app/  
+Link de acceso al Landing Page: https://agrocontrol-landing-page-upc.vercel.app/
 
-### 5.2.3.6 Services Documentation Evidence for Sprint Review.  
-En esta sección se mostrarán los endpoints creados durante el sprint actual, junto con capturas de pantalla de las acciones CRUD y otros métodos implementados. En el alcance del sprint, se han desarrollado los bounded contexts de orders, inventory y usuario.  
+### 5.2.3.6 Services Documentation Evidence for Sprint Review.
+En esta sección se mostrarán los endpoints creados durante el sprint actual, junto con capturas de pantalla de las acciones CRUD y otros métodos implementados. En el alcance del sprint, se han desarrollado los bounded contexts de orders, inventory y usuario.
 
-Se adjunta el link del repositorio back-end GitHub: https://github.com/Grupo5-AppWeb/BackEnd-ReGrill  
+Se adjunta el link del repositorio back-end GitHub: https://github.com/Grupo5-AppWeb/BackEnd-ReGrill
 
 <table>
   <tr>
@@ -2764,9 +2764,9 @@ Se adjunta el link del repositorio back-end GitHub: https://github.com/Grupo5-Ap
 
 </table>
 
-### 5.2.3.7 Software Deployment Evidence for Sprint Review.  
+### 5.2.3.7 Software Deployment Evidence for Sprint Review.
 
-En este sprint, se ha desarrollado la API de la aplicación web, utilizando las siguientes herramientas. No obstante, el despliegue de la API no está incluido en el alcance de este sprint.  
+En este sprint, se ha desarrollado la API de la aplicación web, utilizando las siguientes herramientas. No obstante, el despliegue de la API no está incluido en el alcance de este sprint.
 
 <ul>
 
@@ -2778,12 +2778,384 @@ En este sprint, se ha desarrollado la API de la aplicación web, utilizando las 
 
 </ul>
 
-### 5.2.3.8 Team Collaboration Insights during Sprint.  
+### 5.2.3.8 Team Collaboration Insights during Sprint.
 
 A continuación se mostrarán el gráfico de insights durante el sprint:
 
-<img src="./assets/collaboration insights/insights-sprint3.jpg"/>
+<img src="resources/collaboration/S "/>
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+En el siguiente apartado, se presentará el sprint planning 4, donde se mostrará la planificación e implementación del back end en la web application. Además, se mostrarán los avances del proyecto e insights de colaboración a través de Github.
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 4 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 14/11/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 11:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> via Google meet <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> RE-GRILL <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Hardie Alfonso Holguin Gamarra
+        <br>
+          Oscar Nathaniel Garayar Mori
+           <br>
+          Anthony Martin Huapaya Cuevas
+          <br>
+          Jamir Ángel Marzál Pérez
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 4 Review Summary </td>
+        <td> Se logró implementar el frontend de la aplicación web y su conexión con una fake API, desplegándola en Netlify de forma exitosa. Esto permitió visualizar las funcionalidades desarrolladas para la gestión de restaurantes, lo cual representó un paso importante hacia los objetivos del proyecto.<td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 4 Retrospective Summary </td>
+        <td style="text-align: justify"> 
+          Como equipo, logramos un progreso significativo al desplegar la aplicación web y conectar exitosamente el frontend con la fake API. Sin embargo, tuvimos dificultades durante los merges en la rama develop, generando conflictos que retrasaron ciertas tareas. Para este Sprint, implementaremos un mejor control en los merges y revisiones de código para evitar errores similares. Además, reforzaremos la comunicación entre los miembros del equipo.
+        <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 4 Goal</td>
+          <td style="text-align: justify"> 
+            Nuestro enfoque en este sprint es completar las funcionalidades esenciales para entregar una versión funcional y final de la aplicación. Esto incluye internacionalizar las vistas del frontend, implementar las vistas y endpoints principales, y conectar el frontend con el backend. Finalmente, se desplegará una versión estable y funcional de la aplicación, tanto en el frontend como en el backend.
+          <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 4 Velocity </td>
+          <td> 12 <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 40 <td>
+      </tr>
+
+</table>  
+
+### 5.2.4.2 Sprint BackLog 4
+En esta sección se presentarán las tareas completadas durante el sprint actual, acompañadas de una captura de pantalla y el enlace al tablero de tareas en la plataforma Trello.
+
+Enlace de Trello: https://shorturl.at/YbuJM
+
+ <table style="height:1000px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 4 </th>
+   </tr>
+   <tr>
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Bounded Context </th>
+     <th> Functionality </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To-Review / Done) </th>
+   </tr>
+   <tr>
+      <th> E6-US02 </th>
+      <th colspan="3"> Register User </th>
+      <th> W01 </th>
+      <th> iam </th>
+      <th> Implementar registro de usuario a través del API </th>
+      <th> 4 </th>
+      <th> Hardie Alfonso </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US03 </th>
+      <th colspan="3"> User Login </th>
+      <th> W02 </th>
+      <th> iam </th>
+      <th> Crear funcionalidad de inicio de sesión mediante el API </th>
+      <th> 3 </th>
+      <th> Hardie Alfonso </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US04 </th>
+      <th colspan="3"> Get User Information </th>
+      <th> W03 </th>
+      <th> iam </th>
+      <th> Implementar endpoint para obtener información del usuario </th>
+      <th> 3 </th>
+      <th> Hardie Alfonso </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US05 </th>
+      <th colspan="3"> Create Admi Stock </th>
+      <th> W04 </th>
+      <th> Inventory </th>
+      <th> Implementar endpoint para crear un registro a través de API </th>
+      <th> 5 </th>
+      <th> Huapaya Cuevas </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US06 </th>
+      <th colspan="3"> Get Admin Stock By Id </th>
+      <th> W05 </th>
+      <th> Inventory </th>
+      <th> Implementar endpoint para obtener información del Inventario por id </th>
+      <th> 4 </th>
+      <th> Huapaya Cuevas </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US07 </th>
+      <th colspan="3"> Get AdminStock by UserId </th>
+      <th> W06 </th>
+      <th> Inventory </th>
+      <th> Implementar endpoint para obtener información del Inventario por userid</th>
+      <th> 6 </th>
+      <th> Huapaya Cuevas </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US08 </th>
+      <th colspan="3"> Create new order </th>
+      <th> W07 </th>
+      <th> Orders </th>
+      <th> Implementar endpoint para crear un nuevo pedido</th>
+      <th> 3 </th>
+      <th> Jamir Marzál </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US09 </th>
+      <th colspan="3"> Get order by id </th>
+      <th> W08 </th>
+      <th> Orders </th>
+      <th> Implementar endpoint para obtener el pedido por id </th>
+      <th> 3 </th>
+      <th> Jamir Marzál </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> E6-US10 </th>
+      <th colspan="3"> Get all orders </th>
+      <th> W09 </th>
+      <th> Orders </th>
+      <th> Implementar endpoint para obtener todos los pedidos </th>
+      <th> 4 </th>
+      <th> Jamir Marzál </th>
+      <th> Done </th>
+   </tr>   
+</table>  
+
+### 5.2.4.3 Development Evidence for Sprint Review.
+
+En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+
+ <tr> 
+   <th> Regrill-backend </th>
+   <th> develop  </th>
+   <th> f78d103 </th>
+   <th>  Initial commit </th>
+   <th> </th>
+   <th> 11/04/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Regrill-backend </th>
+   <th> develop  </th>
+   <th> 891c42c  </th>
+   <th>  Add Connection to DataBase  </th>
+   <th> </th>
+   <th> 11/04/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Regrill-backend </th>
+   <th>  develop  </th>
+   <th>  2d894af  </th>
+   <th>  add: Get Id and UserId And Post for AdminStock.</th>
+   <th> </th>
+   <th> 11/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Regrill-backend </th>
+   <th> develop  </th>
+   <th> 0087466  </th>
+   <th>  feat: branch user done </th>
+   <th> </th>
+   <th> 11/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Regrill-backend </th>
+   <th> develop </th>
+   <th> 645328e </th>
+   <th> feat: branch user done </th>
+   <th> </th>
+   <th> 11/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Regrill-backend </th>
+   <th> feature-orders  </th>
+   <th> c87299c  </th>
+   <th>  feat(orders): Added OrderCommandService. </th>
+   <th> </th>
+   <th> 11/05/24   </th>
+ </tr>
+
+   <tr> 
+   <th> Regrill-backend </th>
+   <th> feature-orders  </th>
+   <th> dc3a6a0  </th>
+   <th>  feat(orders): Added OrderQueryService.  </th>
+   <th> </th>
+   <th> 11/05/24 </th>
+ </tr>
+
+ <tr> 
+   <th> Regrill-backend </th>
+   <th> feature-orders  </th>
+   <th> 69c3090  </th>
+   <th> feat(orders): Added Order Aggregate.  </th>
+   <th> </th>
+   <th> 11/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Regrill-backend </th>
+   <th> feature-orders  </th>
+   <th> 5c0b564  </th>
+   <th> feat(orders): Added Commands.  </th>
+   <th> </th>
+   <th> 11/05/24  </th>
+ </tr>
+
+ <tr> 
+   <th> Regrill-backend </th>
+   <th> feature-orders  </th>
+   <th> e5ee612 </th>
+   <th> feat(orders): Added OderItem Entity.  </th>
+   <th> </th>
+   <th> 11/05/24  </th>
+ </tr>
+
+  <tr> 
+   <th> Regrill-backend </th>
+   <th> feature-orders  </th>
+   <th> fb780a0  </th>
+   <th>  ffeat(orders): Added GetAllOrdersQuery.  </th>
+   <th> </th>
+   <th> 11/05/24  </th>
+ </tr> 
+
+ </table>
+
+### 5.2.4.4 Testing Suite Evidence for Sprint Review.
+
+En este sprint no se llevaron a cabo pruebas de aceptación en la herramienta Gherkin, ya que no fueron necesarias.
+
+### 5.2.4.5 Execution Evidence for Sprint Review.
+
+Actualmente, no hemos realizado modificaciones en el frontend, ya que cumplimos con todos los requisitos funcionales en el sprint anterior.   
+La aplicación web sigue siendo accesible a través del siguiente enlace: https://re-grill-web-application.vercel.app/?vercelToolbarCode=Q_cU8sSad4uynPq
+
+En la página de aterrizaje se incorporaron los videos "about the product" y "about the team", con el objetivo de dar a conocer de manera más efectiva nuestro producto a través de un video promocional y de presentar a nuestro equipo  
+Link de acceso al Landing Page: https://agrocontrol-landing-page-upc.vercel.app/
+
+### 5.2.4.6 Services Documentation Evidence for Sprint Review.
+En esta sección se mostrarán los endpoints creados durante el sprint actual, junto con capturas de pantalla de las acciones CRUD y otros métodos implementados. En el alcance del sprint, se han desarrollado los bounded contexts de orders, inventory y usuario.
+
+Se adjunta el link del repositorio back-end GitHub: https://github.com/Grupo5-AppWeb/BackEnd-ReGrill
+
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Orders Bounded Context </strong> </th>
+    <th> <strong> /api/v1/orders </strong> </th>
+    <th> <img src="./resources/spring3/Screenshot%202024-11-06%20005448.png"> </th>
+  </tr>
+
+
+  <tr>
+   <th> <strong> Inventory Bounded Context </strong> </th>
+    <th> <strong> /api/v1/inventories </strong> </th>
+    <th> <img src="./resources/spring3/Screenshot%202024-11-06%20005003.png"> </th>
+  </tr>
+
+  <tr>
+   <th> <strong> User Bounded Context </strong> </th>
+    <th> <strong> /api/v1/users </strong> </th>
+    <th> <img src="./resources/spring3/Screenshot%202024-11-06%20005448.png"> </th>
+  </tr>
+
+</table>
+
+### 5.2.4.7 Software Deployment Evidence for Sprint Review.
+
+En este sprint, se ha desarrollado la API de la aplicación web, utilizando las siguientes herramientas. No obstante, el despliegue de la API no está incluido en el alcance de este sprint.
+
+<ul>
+
+<li> Git: Sistema de control de versiones que utilizamos para colaborar y rastrear las versiones de la aplicación web en un repositorio remoto.</li>
+<li> Gitflow: Proceso de trabajo colaborativo que nos permitió organizar el trabajo en ramas dentro de nuestro repositorio, facilitando así la colaboración en el desarrollo.</li>
+<li> GitHub: Plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto. </li>
+<li> Swagger Ui: Herramienta destinada a probar y documentar nuestra API.</li>
+<li> Link del Front-End:https://re-grill-web-application.vercel.app/?vercelToolbarCode=Q_cU8sSad4uynPq</li>
+
+</ul>
+
+### 5.2.4.8 Team Collaboration Insights during Sprint.
+
+A continuación se mostrarán el gráfico de insights durante el sprint:
+
+<img src="resources/collaboration/S "/>
+
+ 
 
 ### 5.3. Validation Interviews. <a name ="5.3.">
 
@@ -2823,19 +3195,209 @@ Ocupación: Proveedora
 
 Eliana Rodríguez es proveedora de alimentos, principalmente verduras, para restaurantes, un negocio que inició durante la pandemia. Utiliza WhatsApp para coordinar pedidos y destaca por su puntualidad, la frescura de sus productos y la honestidad en el peso de sus entregas. A pesar de esto, enfrenta dificultades con el tráfico y siente que WhatsApp tiene limitaciones, especialmente en la gestión de pagos. Le gustaría una aplicación más avanzada que le permita gestionar pedidos de manera más eficiente, con listas fijas y sin restricciones en los montos de pago, facilitando su trabajo y mejorando la relación con sus clientes.
 
-### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA                                    | EVALUACIÓN    | NOTA    |
-|-----------------------------------------------|-----------------|---------|
-| Visibilidad del estado del sistema            |                 | {texto} |
-| Coincidencia entre el sistema y el mundo real |                 | {texto} |
-| Control y libertad del usuario                |                 | {texto} |
-| Consistencia y estándares                     |                 | {texto} |
-| Prevención de errores                         |                 | {texto} |
-| Mostrar antes que recordar                    |                 | {texto} |
-| Flexibilidad y eficiencia de uso              |                 | {texto} |
-| Diseño estético y minimalista                 |                 | {texto} |
-| Comunicar errores con facilidad               |                 | {texto} |
-| Ayuda y documentación                         |                 | {texto} |
+### 5.3.3. Evaluaciones según heurísticas
+
+>UX Heuristics & Principles Evaluation
+Usability – Inclusive Design – Information Architecture
+
+- Carrera: Ingeniería de Software
+- Curso: Aplicaciones Web
+- Sección: SW52
+- Profesores: Todos
+- Auditor : Equipo de desarrollo Grupo 5 - RestauMaster
+- Cliente(s) : RestauMaster-Regrill
+
+**Site o app a evaluar:** Regrill - Aplicación de Renta de Scooters
+
+**Tareas a evaluar:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+- Registro de un usuario nuevo
+- Inicio de sesión
+- Visualización de scooters disponibles
+- Rentar Scooters
+- Cambio de lenguaje
+- Búsqueda de scooters
+- Añadir scooters favoritos
+- Visualización de scooters favoritos
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+- Enviar mensajes entre usuarios
+- Presentar ofertas de último minuto
+- Métodos de pago
+- Administrar scooters
+- Historial de pagos
+
+**Esacala de severidad:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>Nivel</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Descripción</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>1</td>
+            <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+		</tr>
+        <tr>
+            <td>2</td>
+            <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+        </tr>
+	    <tr>
+            <td>4</td>
+            <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+        </tr>	
+	</tbody>
+</table>
+
+**Tabla de resumen:**
+
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>#</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Problema</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Escala de severidad</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Heurística/Principio violada(o)</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>1</td>
+            <td>No todas las vistas tienen aplicadas i18n</td>
+            <td>3</td>
+            <td>Usabilidad - Compatibilidad entre el sistema y el mundo real, Consistencia y estándares</td>
+		</tr>
+        <tr>
+            <td>2</td>
+            <td>Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.</td>
+            <td>3</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal “Home”</td>
+            <td>3</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+        </tr>
+	</tbody>
+</table>
+<br>
+
+**Descripción de problemas:**
+**Problema #1** No todas las vistas tienen aplicadas i18n
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Compatibilidad entre el sistema y el mundo real, Consistencia y estándares
+**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
+![alt text](assets/tb2/heuristicas/h1.png)
+**Recomendación:**
+Es fundamental mantener la coherencia en el idioma a lo largo de toda la interfaz para asegurar una experiencia de usuario fluida y profesional.
+<br>
+
+**Problema #2** Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
+**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
+![alt text](assets/tb2/heuristicas/h2.png)
+**Recomendación:**
+Para abordar este problema de diseño y mejorar la experiencia del usuario, es importante asegurarse de que el footer se mantenga en la parte inferior de la ventana del navegador, independientemente de la cantidad de contenido en la página.
+<br>
+
+**Problema #3** No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal
+“Home”.
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
+**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
+![alt text](assets/tb2/heuristicas/h3.png)
+**Recomendación:**
+Para mejorar la usabilidad y la experiencia del usuario, se recomienda añadir un botón de "Home" o similar en la barra de navegación. Esto asegurará una navegación más fluida e intuitiva, facilitando el regreso a la página principal de manera rápida y eficiente.
+<br>
+
+>**Problemas levantados:**
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>#</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Problema</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Estado</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>1</td>
+            <td>No todas las vistas tienen aplicadas i18n</td>
+            <td>Solucionado, todas las vistas presentan traducción</td>
+		</tr>
+	</tbody>
+</table>
+
+![alt](assets/tb2/heuristicas/s1.png)
+
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>#</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Problema</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Estado</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>2</td>
+            <td>Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.</td>
+            <td>Solucionado, el footer aparece al final del contenido y solo en el home, por preferencia de visualización.</td>
+		</tr>
+	</tbody>
+</table>
+
+![alt](assets/fronted/front.png)
+
+<table border="1">
+	<tbody>
+        <tr>
+            <td style="text-align:center;">
+            <strong>#</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Problema</strong>
+            </td>
+            <td style="text-align:center;">
+            <strong>Estado</strong>
+            </td>
+        </tr>
+		<tr>
+			<td>3</td>
+            <td>No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal “Home”.</td>
+            <td>Botón home presente en todas las vistas por que permanece en el toolbar.</td>
+		</tr>
+	</tbody>
+</table>
+
+![alt text](assets/tb2/heuristicas/s2.png)
 
 ## 5.4. Video About-the-Product.  
 
