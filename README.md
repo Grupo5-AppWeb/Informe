@@ -3207,25 +3207,24 @@ Usability – Inclusive Design – Information Architecture
 - Auditor : Equipo de desarrollo Grupo 5 - RestauMaster
 - Cliente(s) : RestauMaster-Regrill
 
-**Site o app a evaluar:** Regrill - Aplicación de Renta de Scooters
+**Site o app a evaluar:** Regrill - Aplicación 
 
 **Tareas a evaluar:**
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 - Registro de un usuario nuevo
 - Inicio de sesión
-- Visualización de scooters disponibles
-- Rentar Scooters
 - Cambio de lenguaje
-- Búsqueda de scooters
-- Añadir scooters favoritos
-- Visualización de scooters favoritos
+- 
+- 
+- 
+- 
+- 
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
-- Enviar mensajes entre usuarios
-- Presentar ofertas de último minuto
+- 
+- 
 - Métodos de pago
-- Administrar scooters
 - Historial de pagos
 
 **Esacala de severidad:**
@@ -3286,7 +3285,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 		</tr>
         <tr>
             <td>2</td>
-            <td>Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.</td>
+            <td></td>
             <td>3</td>
             <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
         </tr>
@@ -3310,13 +3309,13 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 Es fundamental mantener la coherencia en el idioma a lo largo de toda la interfaz para asegurar una experiencia de usuario fluida y profesional.
 <br>
 
-**Problema #2** Cuando una página no tiene contenido, el footer se posiciona demasiado arriba, comprimiendo el cuerpo de la página.
-**Severidad:** 3
-**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
-**Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
+**Problema #2** 
+**Severidad:** 
+**Heurística violada:** 
+**Problema:** 
 ![alt text](assets/tb2/heuristicas/h2.png)
 **Recomendación:**
-Para abordar este problema de diseño y mejorar la experiencia del usuario, es importante asegurarse de que el footer se mantenga en la parte inferior de la ventana del navegador, independientemente de la cantidad de contenido en la página.
+
 <br>
 
 **Problema #3** No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal
