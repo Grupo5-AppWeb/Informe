@@ -2724,7 +2724,7 @@ Actualmente, no hemos realizado modificaciones en el frontend, ya que cumplimos 
 La aplicación web sigue siendo accesible a través del siguiente enlace: https://re-grill-web-application.vercel.app/?vercelToolbarCode=Q_cU8sSad4uynPq
 
 En la página de aterrizaje se incorporaron los videos "about the product" y "about the team", con el objetivo de dar a conocer de manera más efectiva nuestro producto a través de un video promocional y de presentar a nuestro equipo  
-Link de acceso al Landing Page: https://agrocontrol-landing-page-upc.vercel.app/
+Link de acceso al Landing Page: https://webfront-regrill-deploy.vercel.app/landing
 
 ### 5.2.3.6 Services Documentation Evidence for Sprint Review.
 En esta sección se mostrarán los endpoints creados durante el sprint actual, junto con capturas de pantalla de las acciones CRUD y otros métodos implementados. En el alcance del sprint, se han desarrollado los bounded contexts de orders, inventory y usuario.
@@ -3095,7 +3095,7 @@ Actualmente, no hemos realizado modificaciones en el frontend, ya que cumplimos 
 La aplicación web sigue siendo accesible a través del siguiente enlace: https://re-grill-web-application.vercel.app/?vercelToolbarCode=Q_cU8sSad4uynPq
 
 En la página de aterrizaje se incorporaron los videos "about the product" y "about the team", con el objetivo de dar a conocer de manera más efectiva nuestro producto a través de un video promocional y de presentar a nuestro equipo  
-Link de acceso al Landing Page: https://agrocontrol-landing-page-upc.vercel.app/
+Link de acceso al Landing Page: https://webfront-regrill-deploy.vercel.app/landing
 
 ### 5.2.4.6 Services Documentation Evidence for Sprint Review.
 En esta sección se mostrarán los endpoints creados durante el sprint actual, junto con capturas de pantalla de las acciones CRUD y otros métodos implementados. En el alcance del sprint, se han desarrollado los bounded contexts de orders, inventory y usuario.
