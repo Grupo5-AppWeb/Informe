@@ -3192,7 +3192,7 @@ El entrevistado, administrador de restaurante, subraya que un software de gesti�
 Nombre: Fabrisio Belahonia  
 Edad: 25 años
 Ocupación: Proveedora  
-![Imagen de entrevista](resources/entrevistado-4-eliana.png)
+![Imagen de entrevista](resources/validation-interview-2.png)
 
 Eliana Rodríguez es proveedora de alimentos, principalmente verduras, para restaurantes, un negocio que inició durante la pandemia. Utiliza WhatsApp para coordinar pedidos y destaca por su puntualidad, la frescura de sus productos y la honestidad en el peso de sus entregas. A pesar de esto, enfrenta dificultades con el tráfico y siente que WhatsApp tiene limitaciones, especialmente en la gestión de pagos. Le gustaría una aplicación más avanzada que le permita gestionar pedidos de manera más eficiente, con listas fijas y sin restricciones en los montos de pago, facilitando su trabajo y mejorando la relación con sus clientes.
 
