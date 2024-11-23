@@ -3192,7 +3192,7 @@ El entrevistado, administrador de restaurante, subraya que un software de gesti�
 Nombre: Fabrisio Belahonia  
 Edad: 25 años
 Ocupación: Proveedora  
-![Imagen de entrevista](resources/entrevistado-4-eliana.png)
+![Imagen de entrevista](resources/validation-interview-2.png)
 
 Eliana Rodríguez es proveedora de alimentos, principalmente verduras, para restaurantes, un negocio que inició durante la pandemia. Utiliza WhatsApp para coordinar pedidos y destaca por su puntualidad, la frescura de sus productos y la honestidad en el peso de sus entregas. A pesar de esto, enfrenta dificultades con el tráfico y siente que WhatsApp tiene limitaciones, especialmente en la gestión de pagos. Le gustaría una aplicación más avanzada que le permita gestionar pedidos de manera más eficiente, con listas fijas y sin restricciones en los montos de pago, facilitando su trabajo y mejorando la relación con sus clientes.
 
@@ -3216,15 +3216,13 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - Registro de un usuario nuevo
 - Inicio de sesión
 - Cambio de lenguaje
-- 
-- 
-- 
-- 
-- 
+- Vista de las ordenes del administrador
+- Vista del perfil del usuario
+- Vista de nueva orden del proveedor
+- Vista de las facturas del administrador
+- Sidebar de la aplicación
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
-- 
-- 
 - Métodos de pago
 - Historial de pagos
 
@@ -3286,13 +3284,37 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 		</tr>
         <tr>
             <td>2</td>
-            <td></td>
+            <td>El sidebar de la aplicación muestra la landing page</td>
             <td>3</td>
             <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
         </tr>
         <tr>
             <td>3</td>
             <td>No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal “Home”</td>
+            <td>3</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Los botones de la vista Orders no cuadran muy bien con el programa</td>
+            <td>3</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Los botones de la vista Orders no cuadran muy bien con el programa</td>
+            <td>1</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Mejorar la parte de facturas, muestra una parte que debería implementarse una mejor vista con respecto a una factura.</td>
+            <td>3</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Mejorar la parte de facturas, muestra una parte que debería implementarse una mejor vista con respecto a una factura.</td>
             <td>3</td>
             <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
         </tr>
