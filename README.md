@@ -3180,16 +3180,17 @@ A continuación se mostrarán el gráfico de insights durante el sprint:
 
 ### 5.3.2. Registro de Entrevistas.
 **Segmento 1**  
-Nombre: Keyner Hancco
-Edad: 27 años
+Nombre: Elizabeth Huanáco
+Edad: 20 años
 Ocupación: Administrador  
-![Imagen de entrevista](resources/entrevistado-1.png)  
+![Imagen de entrevista](resources/validation-interview-1.png)  
+- Enlace de la entrevista: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/ETvWmKI6M-ZMith6usYWzq8Bt3vGOgvHR8tPGrKV4aovxg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9s79NE"
 
-El entrevistado, administrador de restaurante, subraya que un software de gestión esencial debe integrar funciones como la gestión de mesas y reservas, control de inventario, seguimiento de ventas, y gestión de pedidos en cocina. También considera crucial la integración con proveedores y capacidades de análisis financiero para automatizar procesos y optimizar operaciones diarias. Prefiere herramientas que faciliten la toma de decisiones mediante reportes detallados y análisis de datos, y busca mejorar la intuitividad del software y la fluidez en la integración con proveedores. Esto refleja su necesidad de un sistema eficiente que simplifique la gestión y mejore la precisión operativa.
+El entrevistado, administrador de restaurante, subraya que un software de gestión esencial debe integrar funciones como la gestión de mesas y reservas, control de inventario, seguimiento de ventas, y gestión de pedidos en cocina. También considera crucial la integración con proveedores y capacidades de análisis financiero para automatizar procesos y optimizar operaciones diarias. Prefiere herramientas que faciliten la toma de decisiones mediante reportes detallados y análisis de datos, y busca mejorar la intuitividad del software y la fluidez en la integración con proveedores. Esto refleja su necesidad de un sistema eficiente que simplifique la gestión y mejore la precisión operativa. También indica un poco el diseño que tiene la página, donde tiene que ser colores coherentes en todas las pantallas.
 
 **Segmento 2**  
-Nombre: Eliana Rodríguez  
-Edad: 29 años
+Nombre: Fabrisio Belahonia  
+Edad: 25 años
 Ocupación: Proveedora  
 ![Imagen de entrevista](resources/entrevistado-4-eliana.png)
 
@@ -3402,7 +3403,7 @@ Para mejorar la usabilidad y la experiencia del usuario, se recomienda añadir u
 
 Este video presenta de forma concisa las características y beneficios clave del producto, ofreciendo a los usuarios una visión rápida de su utilidad y valor.  
 
-Video About The Product: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EXXCwx-ZagtMhJJeoSrNY6cBa303ogL09r6s552NHgFDYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fF11Fu"
+Video About The Product: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EUpX3gqBtw9Kqrw1ctDBdD0BZLibeyd55kOfL9ekwCGSpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ryYeY0"
 
 <img src="./resources/about-the-product.png" alt="About The Product"/>  
 
@@ -3462,7 +3463,7 @@ Microservices. Apress. Retrieved from https://bit.ly/4flQyB7
 | Vídeo Sprint 2 |                 |
 | Vídeo Sprint 3 |                 |
 
-Video about the product for sprint 3: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EXXCwx-ZagtMhJJeoSrNY6cBa303ogL09r6s552NHgFDYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fF11Fu"
+Video about the product for sprint 4: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220235_upc_edu_pe/EUpX3gqBtw9Kqrw1ctDBdD0BZLibeyd55kOfL9ekwCGSpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ryYeY0"
 
 **Video del prototipo**
 
