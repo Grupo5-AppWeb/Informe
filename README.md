@@ -3216,15 +3216,13 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - Registro de un usuario nuevo
 - Inicio de sesión
 - Cambio de lenguaje
-- 
-- 
-- 
-- 
-- 
+- Vista de las ordenes del administrador
+- Vista del perfil del usuario
+- Vista de nueva orden del proveedor
+- Vista de las facturas del administrador
+- Sidebar de la aplicación
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
-- 
-- 
 - Métodos de pago
 - Historial de pagos
 
@@ -3286,13 +3284,37 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 		</tr>
         <tr>
             <td>2</td>
-            <td></td>
+            <td>El sidebar de la aplicación muestra la landing page</td>
             <td>3</td>
             <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
         </tr>
         <tr>
             <td>3</td>
             <td>No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal “Home”</td>
+            <td>3</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Los botones de la vista Orders no cuadran muy bien con el programa</td>
+            <td>1</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Mejorar el ingreso de los productos por orden</td>
+            <td>2</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Mejorar la parte de facturas, muestra una parte que debería implementarse una mejor vista con respecto a una factura.</td>
+            <td>3</td>
+            <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>La pantalla del perfil necesita brindar la opción de actualizarlo.</td>
             <td>3</td>
             <td>Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista</td>
         </tr>
@@ -3305,18 +3327,18 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 **Severidad:** 3
 **Heurística violada:** Usabilidad - Compatibilidad entre el sistema y el mundo real, Consistencia y estándares
 **Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
-![alt text](assets/tb2/heuristicas/h1.png)
+![alt text](resources/TB2/i18nHeuristic.png)
 **Recomendación:**
 Es fundamental mantener la coherencia en el idioma a lo largo de toda la interfaz para asegurar una experiencia de usuario fluida y profesional.
 <br>
 
-**Problema #2** 
-**Severidad:** 
-**Heurística violada:** 
-**Problema:** 
-![alt text](assets/tb2/heuristicas/h2.png)
+**Problema #2** El sidebar de la aplicación muestra la landing page
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
+**Problema:** Se muestra un botón de la landing page, no es necesario que se muestre dicha opción en la sidebar, ya que es algo contra producente regresar a la landing page.
+![alt text](resources/TB2/h2.png)
 **Recomendación:**
-
+Se espera eliminar dicho botón que es innecesario para el proyecto, además de que se logra obtener algunos problemas por su implementación para el inicio y registro del usuario de la aplicación.
 <br>
 
 **Problema #3** No hay un botón dedicado en la barra de navegación para ingresar o regresar a la página principal
@@ -3324,9 +3346,45 @@ Es fundamental mantener la coherencia en el idioma a lo largo de toda la interfa
 **Severidad:** 3
 **Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
 **Problema:** Las páginas de la Aplicación Web están en inglés, pero hay secciones que tienen texto en español, lo que causa una falta de consistencia en la interfaz de usuario. Esto puede llevar a confusión y una experiencia de usuario menos efectiva.
-![alt text](assets/tb2/heuristicas/h3.png)
+![alt text](resources/TB2/h3.png)
 **Recomendación:**
 Para mejorar la usabilidad y la experiencia del usuario, se recomienda añadir un botón de "Home" o similar en la barra de navegación. Esto asegurará una navegación más fluida e intuitiva, facilitando el regreso a la página principal de manera rápida y eficiente.
+<br>
+
+**Problema #4** Los botones de la vista Orders no cuadran muy bien con el programa
+**Severidad:** 1
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
+**Problema:** La estética que tiene los botones de esa ventana no cuadra muy bien con lo que es la estética general de todo el proyecto.
+![alt text](resources/TB2/h4.png)
+**Recomendación:**
+Para mejorar la usabilidad y la experiencia del usuario, se recomienda añadir un botón de "Home" o similar en la barra de navegación. Esto asegurará una navegación más fluida e intuitiva, facilitando el regreso a la página principal de manera rápida y eficiente.
+<br>
+
+**Problema #5** Mejorar el ingreso de los productos por orden
+**Severidad:** 2
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
+**Problema:** Al momento de agregar una orden por parte del administrador, se visualizó un error por la manera de mostrar y crear el contenido, y es por la falta de que se puedan agregrar más productos en una orden.
+![alt text](resources/TB2/h5.png)
+**Recomendación:**
+Para mejorar la usabilidad y la experiencia del usuario, se recomienda añadir un botón de "Home" o similar en la barra de navegación. Esto asegurará una navegación más fluida e intuitiva, facilitando el regreso a la página principal de manera rápida y eficiente.
+<br>
+
+**Problema #6** Mejorar la parte de facturas, muestra una parte que debería implementarse una mejor vista con respecto a una factura.
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso, Diseño estético y minimalista
+**Problema:** Hay una sección en la parte de facturas donde se muestra como si fuera la información que al momento de seleccionarla, es algo que no se imlementó.
+![alt text](resources/TB2/h6.png)
+**Recomendación:**
+Se necesita colocarlo, ya que el usuario quiere ver todas las facturas y además de agregar nueva información de con respecto a los campos planteados.
+<br>
+
+**Problema #7** La pantalla del perfil necesita brindar la opción de actualizarlo.
+**Severidad:** 3
+**Heurística violada:** La pantalla del perfil necesita brindar la opción de actualizarlo.
+**Problema:** 
+![alt text](resources/TB2/h7.png)
+**Recomendación:**
+Se necesita colocarlo, ya que un usuario podría desear una parte de su perfi, pero si no tiene esa opción implementada, el cliente se le dificultará con respecto a la gestión de su perfil y datos.
 <br>
 
 >**Problemas levantados:**
@@ -3351,7 +3409,7 @@ Para mejorar la usabilidad y la experiencia del usuario, se recomienda añadir u
 	</tbody>
 </table>
 
-![alt](assets/tb2/heuristicas/s1.png)
+![alt](resources/TB2/i18nHeuristic.png)
 
 <table border="1">
 	<tbody>
@@ -3374,7 +3432,7 @@ Para mejorar la usabilidad y la experiencia del usuario, se recomienda añadir u
 	</tbody>
 </table>
 
-![alt](assets/fronted/front.png)
+![alt](resources/TB2/h8.png)
 
 <table border="1">
 	<tbody>
@@ -3397,7 +3455,7 @@ Para mejorar la usabilidad y la experiencia del usuario, se recomienda añadir u
 	</tbody>
 </table>
 
-![alt text](assets/tb2/heuristicas/s2.png)
+![alt text](resources/TB2/h3.png)
 
 ## 5.4. Video About-the-Product.  
 
