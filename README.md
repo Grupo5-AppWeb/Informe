@@ -3091,8 +3091,11 @@ En este sprint no se llevaron a cabo pruebas de aceptación en la herramienta Gh
 
 ### 5.2.4.5 Execution Evidence for Sprint Review.
 
-Actualmente, no hemos realizado modificaciones en el frontend, ya que cumplimos con todos los requisitos funcionales en el sprint anterior.   
-La aplicación web sigue siendo accesible a través del siguiente enlace: https://re-grill-web-application.vercel.app/?vercelToolbarCode=Q_cU8sSad4uynPq
+Actualmente, se encuentra disponible el frontend de nustra aplicación con la conexión de con el backend.   
+La aplicación web sigue siendo accesible a través del siguiente enlace: "https://webfront-regrill-deploy-5emm.vercel.app/"
+
+Para lo que viene a ser el backend, igualmente se mostrará el despliegue que se realizó para esta parte del trabajo.
+Esta siendo accesible a través del siguiente enlace: "https://regrill-api.onrender.com/swagger/index.html"
 
 En la página de aterrizaje se incorporaron los videos "about the product" y "about the team", con el objetivo de dar a conocer de manera más efectiva nuestro producto a través de un video promocional y de presentar a nuestro equipo  
 Link de acceso al Landing Page: https://webfront-regrill-deploy.vercel.app/landing
